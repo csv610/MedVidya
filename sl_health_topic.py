@@ -432,7 +432,7 @@ def get_health_topic_info(model_name, health_topic):
 def display_main_content_area(selected_model_name, selected_health_topic, show_history):
     """Handles the display and interactions in the main application area."""
     if selected_health_topic:
-        st.write(f"# Health Topic: {selected_health_topic}")
+        st.write(f"# {selected_health_topic}")
     else:
         st.info("Please select a health topic from the sidebar to get information or ask questions.")
         return
