@@ -1,0 +1,9426 @@
+[
+  {
+    "topic": "A1C",
+    "see": ""
+  },
+  {
+    "topic": "AAA",
+    "see": "Aortic Aneurysm"
+  },
+  {
+    "topic": "Abdominal Aortic Aneurysm",
+    "see": "Aortic Aneurysm"
+  },
+  {
+    "topic": "Abdominal Pain",
+    "see": ""
+  },
+  {
+    "topic": "Abdominal Pregnancy",
+    "see": "Ectopic Pregnancy"
+  },
+  {
+    "topic": "Abnormalities",
+    "see": "Birth Defects"
+  },
+  {
+    "topic": "ABO Blood Groups",
+    "see": "Blood"
+  },
+  {
+    "topic": "Abortion",
+    "see": ""
+  },
+  {
+    "topic": "OTC Medicines",
+    "see": "Medicines; Over-the-Counter Medicines"
+  },
+  {
+    "topic": "ABPA",
+    "see": "Aspergillosis"
+  },
+  {
+    "topic": "Abscess",
+    "see": ""
+  },
+  {
+    "topic": "Achalasia",
+    "see": "Esophagus Disorders"
+  },
+  {
+    "topic": "Achilles Tendon Injuries",
+    "see": "Heel Injuries and Disorders"
+  },
+  {
+    "topic": "Achondroplasia",
+    "see": "Dwarfism"
+  },
+  {
+    "topic": "Acid Reflux",
+    "see": "GERD; Heartburn"
+  },
+  {
+    "topic": "ACL Injuries",
+    "see": "Knee Injuries and Disorders"
+  },
+  {
+    "topic": "Acne",
+    "see": ""
+  },
+  {
+    "topic": "Acne Rosacea",
+    "see": "Rosacea"
+  },
+  {
+    "topic": "Acoustic Neuroma",
+    "see": ""
+  },
+  {
+    "topic": "Acquired Immunodeficiency Syndrome",
+    "see": "HIV"
+  },
+  {
+    "topic": "Acromegaly",
+    "see": "Growth Disorders; Pituitary Disorders"
+  },
+  {
+    "topic": "Actinic Keratosis",
+    "see": "Skin Cancer; Sun Exposure"
+  },
+  {
+    "topic": "Acupuncture",
+    "see": ""
+  },
+  {
+    "topic": "Acute Bronchitis",
+    "see": ""
+  },
+  {
+    "topic": "Acute Flaccid Myelitis",
+    "see": ""
+  },
+  {
+    "topic": "Acute Lymphoblastic Leukemia",
+    "see": "Acute Lymphocytic Leukemia"
+  },
+  {
+    "topic": "Acute Lymphocytic Leukemia",
+    "see": ""
+  },
+  {
+    "topic": "Acute Myeloblastic Leukemia",
+    "see": "Acute Myeloid Leukemia"
+  },
+  {
+    "topic": "Acute Myeloid Leukemia",
+    "see": ""
+  },
+  {
+    "topic": "Acute Pancreatitis",
+    "see": "Pancreatitis"
+  },
+  {
+    "topic": "Acute Respiratory Distress Syndrome",
+    "see": "Respiratory Failure"
+  },
+  {
+    "topic": "ADD",
+    "see": "Attention Deficit Hyperactivity Disorder"
+  },
+  {
+    "topic": "Addison Disease",
+    "see": ""
+  },
+  {
+    "topic": "Adenoidectomy",
+    "see": "Adenoids"
+  },
+  {
+    "topic": "Adenoids",
+    "see": ""
+  },
+  {
+    "topic": "Adenoma",
+    "see": "Benign Tumors"
+  },
+  {
+    "topic": "Adenomyosis",
+    "see": "Endometriosis"
+  },
+  {
+    "topic": "Adenovirus Infections",
+    "see": "Viral Infections"
+  },
+  {
+    "topic": "ADHD",
+    "see": "Attention Deficit Hyperactivity Disorder"
+  },
+  {
+    "topic": "Adhesions",
+    "see": ""
+  },
+  {
+    "topic": "Adolescent Development",
+    "see": "Teen Development"
+  },
+  {
+    "topic": "Adolescent Health",
+    "see": "Teen Health"
+  },
+  {
+    "topic": "Adolescent Pregnancy",
+    "see": "Teenage Pregnancy"
+  },
+  {
+    "topic": "Adrenal Gland Cancer",
+    "see": ""
+  },
+  {
+    "topic": "Adrenal Gland Disorders",
+    "see": ""
+  },
+  {
+    "topic": "Adrenal Insufficiency",
+    "see": "Addison Disease"
+  },
+  {
+    "topic": "Adrenoleukodystrophy",
+    "see": "Leukodystrophies"
+  },
+  {
+    "topic": "Adult Immunization",
+    "see": "Vaccines"
+  },
+  {
+    "topic": "Advance Directives",
+    "see": ""
+  },
+  {
+    "topic": "AF",
+    "see": "Atrial Fibrillation"
+  },
+  {
+    "topic": "Age-Related Macular Degeneration",
+    "see": "Macular Degeneration"
+  },
+  {
+    "topic": "Ageusia",
+    "see": "Taste and Smell Disorders"
+  },
+  {
+    "topic": "Aging",
+    "see": "Older Adult Health"
+  },
+  {
+    "topic": "Aging Skin",
+    "see": "Skin Aging"
+  },
+  {
+    "topic": "Agoraphobia",
+    "see": "Phobias"
+  },
+  {
+    "topic": "AIDS",
+    "see": "HIV"
+  },
+  {
+    "topic": "AIDS and Infections",
+    "see": "HIV and Infections"
+  },
+  {
+    "topic": "AIDS and Pregnancy",
+    "see": "HIV and Pregnancy"
+  },
+  {
+    "topic": "AIDS in Women",
+    "see": "HIV in Women"
+  },
+  {
+    "topic": "AIDS Medicines",
+    "see": "HIV Medicines"
+  },
+  {
+    "topic": "AIDS--Living With AIDS",
+    "see": "Living with HIV"
+  },
+  {
+    "topic": "Air Pollution",
+    "see": ""
+  },
+  {
+    "topic": "Airsickness",
+    "see": "Motion Sickness"
+  },
+  {
+    "topic": "Alagille Syndrome",
+    "see": "Liver Diseases"
+  },
+  {
+    "topic": "Alcohol",
+    "see": ""
+  },
+  {
+    "topic": "Alcohol Abuse",
+    "see": "Alcohol Use Disorder (AUD)"
+  },
+  {
+    "topic": "Alcohol Abuse in Pregnancy",
+    "see": "Pregnancy and Substance Use"
+  },
+  {
+    "topic": "Alcohol and Youth",
+    "see": "Underage Drinking"
+  },
+  {
+    "topic": "Alcohol Consumption",
+    "see": "Alcohol"
+  },
+  {
+    "topic": "Alcohol Dependence",
+    "see": "Alcohol Use Disorder (AUD)"
+  },
+  {
+    "topic": "Alcohol Use Disorder (AUD)",
+    "see": ""
+  },
+  {
+    "topic": "Alcohol Use Disorder (AUD) Treatment",
+    "see": ""
+  },
+  {
+    "topic": "Alcohol Withdrawal",
+    "see": "Alcohol Use Disorder (AUD)"
+  },
+  {
+    "topic": "Alcoholic Fatty Liver Disease",
+    "see": "Fatty Liver Disease"
+  },
+  {
+    "topic": "Alcoholism",
+    "see": "Alcohol Use Disorder (AUD)"
+  },
+  {
+    "topic": "ALL",
+    "see": "Acute Lymphocytic Leukemia"
+  },
+  {
+    "topic": "Allergic Bronchopulmonary Aspergillosis",
+    "see": "Aspergillosis"
+  },
+  {
+    "topic": "Allergic Rhinitis",
+    "see": "Allergy; Hay Fever"
+  },
+  {
+    "topic": "Allergy",
+    "see": ""
+  },
+  {
+    "topic": "Allergy, Food",
+    "see": "Food Allergy"
+  },
+  {
+    "topic": "Allergy, Latex",
+    "see": "Latex Allergy"
+  },
+  {
+    "topic": "Alopecia",
+    "see": "Hair Loss"
+  },
+  {
+    "topic": "Alpha-1 Antitrypsin Deficiency",
+    "see": ""
+  },
+  {
+    "topic": "Alpha-tocopherol",
+    "see": "Vitamin E"
+  },
+  {
+    "topic": "ALS",
+    "see": "Amyotrophic Lateral Sclerosis"
+  },
+  {
+    "topic": "Alternative Medicine",
+    "see": "Complementary and Integrative Medicine"
+  },
+  {
+    "topic": "Alternative Therapy for Cancer",
+    "see": "Cancer Alternative Therapies"
+  },
+  {
+    "topic": "Alzheimer's Caregivers",
+    "see": ""
+  },
+  {
+    "topic": "Alzheimer's Disease",
+    "see": ""
+  },
+  {
+    "topic": "Amblyopia",
+    "see": ""
+  },
+  {
+    "topic": "AMD",
+    "see": "Macular Degeneration"
+  },
+  {
+    "topic": "Amenorrhea",
+    "see": "Menstruation"
+  },
+  {
+    "topic": "Amino Acid Metabolism Disorders",
+    "see": ""
+  },
+  {
+    "topic": "AML",
+    "see": "Acute Myeloid Leukemia"
+  },
+  {
+    "topic": "Amnesia",
+    "see": "Memory"
+  },
+  {
+    "topic": "Amniocentesis",
+    "see": "Prenatal Testing"
+  },
+  {
+    "topic": "Amphetamines",
+    "see": "Club Drugs; Methamphetamine"
+  },
+  {
+    "topic": "Amputation",
+    "see": "Artificial Limbs; Limb Loss"
+  },
+  {
+    "topic": "Amyloidosis",
+    "see": ""
+  },
+  {
+    "topic": "Amyotrophic Lateral Sclerosis",
+    "see": ""
+  },
+  {
+    "topic": "Anabolic Steroids",
+    "see": ""
+  },
+  {
+    "topic": "Anal Cancer",
+    "see": ""
+  },
+  {
+    "topic": "Anal Disorders",
+    "see": ""
+  },
+  {
+    "topic": "Analgesics",
+    "see": "Pain Relievers"
+  },
+  {
+    "topic": "Anaphylaxis",
+    "see": ""
+  },
+  {
+    "topic": "Anaplasmosis",
+    "see": "Tick Bites"
+  },
+  {
+    "topic": "Anatomy",
+    "see": ""
+  },
+  {
+    "topic": "Anemia",
+    "see": ""
+  },
+  {
+    "topic": "Anencephaly",
+    "see": "Neural Tube Defects"
+  },
+  {
+    "topic": "Anesthesia",
+    "see": ""
+  },
+  {
+    "topic": "Aneurysms",
+    "see": ""
+  },
+  {
+    "topic": "Angiitis",
+    "see": "Vasculitis"
+  },
+  {
+    "topic": "Angina",
+    "see": ""
+  },
+  {
+    "topic": "Angioplasty",
+    "see": ""
+  },
+  {
+    "topic": "Animal Bites",
+    "see": ""
+  },
+  {
+    "topic": "Animal Diseases and Your Health",
+    "see": ""
+  },
+  {
+    "topic": "Animal Health",
+    "see": "Animal Diseases and Your Health; Pet Health"
+  },
+  {
+    "topic": "Ankle Injuries and Disorders",
+    "see": ""
+  },
+  {
+    "topic": "Ankylosing Spondylitis",
+    "see": ""
+  },
+  {
+    "topic": "Annual Physical Examination",
+    "see": "Health Checkup"
+  },
+  {
+    "topic": "Anorexia Nervosa",
+    "see": "Eating Disorders"
+  },
+  {
+    "topic": "Anosmia",
+    "see": "Taste and Smell Disorders"
+  },
+  {
+    "topic": "Anterior Cruciate Ligament Injury",
+    "see": "Knee Injuries and Disorders"
+  },
+  {
+    "topic": "Anthrax",
+    "see": ""
+  },
+  {
+    "topic": "Anti-platelet drugs",
+    "see": "Blood Thinners"
+  },
+  {
+    "topic": "Antibiotic Resistance",
+    "see": ""
+  },
+  {
+    "topic": "Antibiotics",
+    "see": ""
+  },
+  {
+    "topic": "Anticoagulants",
+    "see": "Blood Thinners"
+  },
+  {
+    "topic": "Antidepressants",
+    "see": ""
+  },
+  {
+    "topic": "Antihypertensive Medicines",
+    "see": "Blood Pressure Medicines"
+  },
+  {
+    "topic": "Antimicrobial Resistance",
+    "see": "Antibiotic Resistance"
+  },
+  {
+    "topic": "Antioxidants",
+    "see": ""
+  },
+  {
+    "topic": "Antisocial Personality Disorder",
+    "see": "Personality Disorders"
+  },
+  {
+    "topic": "Anxiety",
+    "see": ""
+  },
+  {
+    "topic": "Aortic Aneurysm",
+    "see": ""
+  },
+  {
+    "topic": "Aortic Dissection",
+    "see": "Aortic Aneurysm"
+  },
+  {
+    "topic": "Aortic Stenosis",
+    "see": "Heart Valve Diseases"
+  },
+  {
+    "topic": "Aphasia",
+    "see": ""
+  },
+  {
+    "topic": "Aphthous Ulcers",
+    "see": "Canker Sores"
+  },
+  {
+    "topic": "Aplastic Anemia",
+    "see": ""
+  },
+  {
+    "topic": "Apnea, Sleep",
+    "see": "Sleep Apnea"
+  },
+  {
+    "topic": "Appendicitis",
+    "see": ""
+  },
+  {
+    "topic": "Arachnoiditis",
+    "see": "Meningitis"
+  },
+  {
+    "topic": "ARDS",
+    "see": "Respiratory Failure"
+  },
+  {
+    "topic": "Arm Injuries and Disorders",
+    "see": ""
+  },
+  {
+    "topic": "Arnold-Chiari Malformation",
+    "see": "Chiari Malformation"
+  },
+  {
+    "topic": "Arrhythmia",
+    "see": ""
+  },
+  {
+    "topic": "Arsenic",
+    "see": ""
+  },
+  {
+    "topic": "Arteriosclerosis",
+    "see": "Atherosclerosis"
+  },
+  {
+    "topic": "Arteriosclerosis of Extremities",
+    "see": "Peripheral Arterial Disease"
+  },
+  {
+    "topic": "Arteriosclerosis, Coronary",
+    "see": "Coronary Artery Disease"
+  },
+  {
+    "topic": "Arteriovenous Malformations",
+    "see": ""
+  },
+  {
+    "topic": "Arthritis",
+    "see": ""
+  },
+  {
+    "topic": "Arthrography",
+    "see": "Joint Disorders"
+  },
+  {
+    "topic": "Arthroplasty",
+    "see": "Hip Replacement; Joint Disorders; Knee Replacement"
+  },
+  {
+    "topic": "Arthroscopy",
+    "see": "Joint Disorders"
+  },
+  {
+    "topic": "Artificial Feeding",
+    "see": "Nutritional Support"
+  },
+  {
+    "topic": "Artificial Insemination",
+    "see": "Infertility"
+  },
+  {
+    "topic": "Artificial Lens",
+    "see": "Cataract; Refractive Errors"
+  },
+  {
+    "topic": "Artificial Limbs",
+    "see": ""
+  },
+  {
+    "topic": "Asbestos",
+    "see": ""
+  },
+  {
+    "topic": "Asbestosis",
+    "see": "Asbestos"
+  },
+  {
+    "topic": "Ascorbic Acid",
+    "see": "Vitamin C"
+  },
+  {
+    "topic": "Aseptic Meningitis",
+    "see": "Meningitis"
+  },
+  {
+    "topic": "Aseptic Necrosis",
+    "see": "Osteonecrosis"
+  },
+  {
+    "topic": "Asperger Syndrome",
+    "see": "Autism Spectrum Disorder"
+  },
+  {
+    "topic": "Aspergillosis",
+    "see": ""
+  },
+  {
+    "topic": "Assisted Breathing",
+    "see": "Critical Care"
+  },
+  {
+    "topic": "Assisted Living",
+    "see": ""
+  },
+  {
+    "topic": "Assisted Reproductive Technology",
+    "see": ""
+  },
+  {
+    "topic": "Assistive Devices",
+    "see": ""
+  },
+  {
+    "topic": "Asthma",
+    "see": ""
+  },
+  {
+    "topic": "Asthma in Children",
+    "see": ""
+  },
+  {
+    "topic": "Astigmatism",
+    "see": "Refractive Errors"
+  },
+  {
+    "topic": "Ataxia",
+    "see": "Cerebellar Disorders; Degenerative Nerve Diseases; Friedreich Ataxia; Movement Disorders"
+  },
+  {
+    "topic": "Ataxia Telangiectasia",
+    "see": ""
+  },
+  {
+    "topic": "Atelectasis",
+    "see": "Collapsed Lung"
+  },
+  {
+    "topic": "Atherosclerosis",
+    "see": ""
+  },
+  {
+    "topic": "Atherosclerosis, Coronary",
+    "see": "Coronary Artery Disease"
+  },
+  {
+    "topic": "Athlete's Foot",
+    "see": ""
+  },
+  {
+    "topic": "Atopic Dermatitis",
+    "see": "Eczema"
+  },
+  {
+    "topic": "Atrial Fibrillation",
+    "see": ""
+  },
+  {
+    "topic": "Attention Deficit Hyperactivity Disorder",
+    "see": ""
+  },
+  {
+    "topic": "Auditory Tumor",
+    "see": "Acoustic Neuroma"
+  },
+  {
+    "topic": "Autism",
+    "see": "Autism Spectrum Disorder"
+  },
+  {
+    "topic": "Autism Spectrum Disorder",
+    "see": ""
+  },
+  {
+    "topic": "Autoimmune Diseases",
+    "see": ""
+  },
+  {
+    "topic": "Autoinflammatory Disorders",
+    "see": "Autoimmune Diseases"
+  },
+  {
+    "topic": "Automated External Defibrillators",
+    "see": "Sudden Cardiac Arrest"
+  },
+  {
+    "topic": "Automobile Safety",
+    "see": "Motor Vehicle Safety"
+  },
+  {
+    "topic": "Autonomic Nervous System Disorders",
+    "see": ""
+  },
+  {
+    "topic": "Avascular Necrosis",
+    "see": "Osteonecrosis"
+  },
+  {
+    "topic": "Avian Influenza",
+    "see": "Bird Flu"
+  },
+  {
+    "topic": "AVM",
+    "see": "Arteriovenous Malformations"
+  },
+  {
+    "topic": "B Vitamins",
+    "see": ""
+  },
+  {
+    "topic": "Babesiosis",
+    "see": "Tick Bites"
+  },
+  {
+    "topic": "Baby Blues",
+    "see": "Postpartum Depression"
+  },
+  {
+    "topic": "Baby Care",
+    "see": "Infant and Newborn Care"
+  },
+  {
+    "topic": "Baby Health Checkup",
+    "see": ""
+  },
+  {
+    "topic": "Back Injuries",
+    "see": ""
+  },
+  {
+    "topic": "Back Pain",
+    "see": ""
+  },
+  {
+    "topic": "Bacteremia",
+    "see": "Sepsis"
+  },
+  {
+    "topic": "Bacterial Infections",
+    "see": ""
+  },
+  {
+    "topic": "Bacterial Vaginosis",
+    "see": "Vaginitis"
+  },
+  {
+    "topic": "Bad Breath",
+    "see": ""
+  },
+  {
+    "topic": "Baker's Cyst",
+    "see": "Knee Injuries and Disorders"
+  },
+  {
+    "topic": "Balance Problems",
+    "see": ""
+  },
+  {
+    "topic": "Balanitis",
+    "see": "Penis Disorders"
+  },
+  {
+    "topic": "Bariatric Surgery",
+    "see": "Weight Loss Surgery"
+  },
+  {
+    "topic": "Barotrauma",
+    "see": ""
+  },
+  {
+    "topic": "Barrett's Esophagus",
+    "see": "Esophagus Disorders"
+  },
+  {
+    "topic": "Basal Cell Carcinoma",
+    "see": "Skin Cancer"
+  },
+  {
+    "topic": "Basedow's Disease",
+    "see": "Hyperthyroidism"
+  },
+  {
+    "topic": "Bed Bugs",
+    "see": ""
+  },
+  {
+    "topic": "Bedsores",
+    "see": "Pressure Sores"
+  },
+  {
+    "topic": "Bee Stings",
+    "see": "Insect Bites and Stings"
+  },
+  {
+    "topic": "Behcet's Syndrome",
+    "see": ""
+  },
+  {
+    "topic": "Belching",
+    "see": "Gas"
+  },
+  {
+    "topic": "Bell's Palsy",
+    "see": ""
+  },
+  {
+    "topic": "Bellyache",
+    "see": "Abdominal Pain"
+  },
+  {
+    "topic": "Benefits of Exercise",
+    "see": ""
+  },
+  {
+    "topic": "Benign Prostatic Hypertrophy",
+    "see": "Enlarged Prostate (BPH)"
+  },
+  {
+    "topic": "Benign Tumors",
+    "see": ""
+  },
+  {
+    "topic": "Bereavement",
+    "see": ""
+  },
+  {
+    "topic": "Berry Aneurysm",
+    "see": "Brain Aneurysm"
+  },
+  {
+    "topic": "Bi-polar Disorder",
+    "see": "Bipolar Disorder"
+  },
+  {
+    "topic": "Bicycle Safety",
+    "see": "Sports Safety"
+  },
+  {
+    "topic": "Bile Duct Cancer",
+    "see": ""
+  },
+  {
+    "topic": "Bile Duct Diseases",
+    "see": ""
+  },
+  {
+    "topic": "Biliary Cirrhosis",
+    "see": "Bile Duct Diseases"
+  },
+  {
+    "topic": "Biliary Tract Diseases",
+    "see": "Bile Duct Diseases; Gallbladder Diseases"
+  },
+  {
+    "topic": "Binge Drinking",
+    "see": "Alcohol Use Disorder (AUD)"
+  },
+  {
+    "topic": "Binge Eating",
+    "see": "Eating Disorders"
+  },
+  {
+    "topic": "Biodefense and Bioterrorism",
+    "see": ""
+  },
+  {
+    "topic": "Bioethics",
+    "see": "Medical Ethics"
+  },
+  {
+    "topic": "Biological Weapons",
+    "see": "Biodefense and Bioterrorism"
+  },
+  {
+    "topic": "Biopsy",
+    "see": ""
+  },
+  {
+    "topic": "Bioterrorism",
+    "see": "Biodefense and Bioterrorism"
+  },
+  {
+    "topic": "Biotin",
+    "see": "B Vitamins"
+  },
+  {
+    "topic": "Bipolar Disorder",
+    "see": ""
+  },
+  {
+    "topic": "Bird Flu",
+    "see": ""
+  },
+  {
+    "topic": "Birth Control",
+    "see": ""
+  },
+  {
+    "topic": "Birth Defects",
+    "see": ""
+  },
+  {
+    "topic": "Birth Injuries",
+    "see": "Childbirth Problems"
+  },
+  {
+    "topic": "Birth Weight",
+    "see": ""
+  },
+  {
+    "topic": "Birthmarks",
+    "see": ""
+  },
+  {
+    "topic": "Black Widow Spider Bites",
+    "see": "Spider Bites"
+  },
+  {
+    "topic": "Bladder Cancer",
+    "see": ""
+  },
+  {
+    "topic": "Bladder Control",
+    "see": "Urinary Incontinence"
+  },
+  {
+    "topic": "Bladder Diseases",
+    "see": ""
+  },
+  {
+    "topic": "Bladder Infections",
+    "see": "Urinary Tract Infections"
+  },
+  {
+    "topic": "Bladder Pain Syndrome",
+    "see": "Interstitial Cystitis"
+  },
+  {
+    "topic": "Bleeding",
+    "see": ""
+  },
+  {
+    "topic": "Bleeding Disorders",
+    "see": ""
+  },
+  {
+    "topic": "Bleeding, Gastrointestinal",
+    "see": "Gastrointestinal Bleeding"
+  },
+  {
+    "topic": "Blepharospasm",
+    "see": "Eyelid Disorders"
+  },
+  {
+    "topic": "Blindness",
+    "see": "Vision Impairment and Blindness"
+  },
+  {
+    "topic": "Blisters",
+    "see": ""
+  },
+  {
+    "topic": "Blood",
+    "see": ""
+  },
+  {
+    "topic": "Blood Cells",
+    "see": "Blood; Blood Count Tests"
+  },
+  {
+    "topic": "Blood Clots",
+    "see": ""
+  },
+  {
+    "topic": "Blood Clots in the Lung",
+    "see": "Pulmonary Embolism"
+  },
+  {
+    "topic": "Blood Coagulation Disorders",
+    "see": "Bleeding Disorders; Hemophilia"
+  },
+  {
+    "topic": "Blood Count Tests",
+    "see": ""
+  },
+  {
+    "topic": "Blood Disorders",
+    "see": ""
+  },
+  {
+    "topic": "Blood Donation",
+    "see": "Blood Transfusion and Donation"
+  },
+  {
+    "topic": "Blood Glucose",
+    "see": ""
+  },
+  {
+    "topic": "Blood Platelet Disorders",
+    "see": "Platelet Disorders"
+  },
+  {
+    "topic": "Blood Poisoning",
+    "see": "Sepsis"
+  },
+  {
+    "topic": "Blood Pressure",
+    "see": "High Blood Pressure; Low Blood Pressure; Vital Signs"
+  },
+  {
+    "topic": "Blood Pressure Medicines",
+    "see": ""
+  },
+  {
+    "topic": "Blood Sugar",
+    "see": "Blood Glucose"
+  },
+  {
+    "topic": "Blood Tests",
+    "see": "Blood Count Tests; Laboratory Tests"
+  },
+  {
+    "topic": "Blood Thinners",
+    "see": ""
+  },
+  {
+    "topic": "Blood Transfusion and Donation",
+    "see": ""
+  },
+  {
+    "topic": "Blood-Borne Pathogens",
+    "see": "Infection Control; Occupational Health for Health Care Providers"
+  },
+  {
+    "topic": "BMI",
+    "see": "Body Weight; Weight Control"
+  },
+  {
+    "topic": "Body Art",
+    "see": "Piercing and Tattoos"
+  },
+  {
+    "topic": "Body Contouring",
+    "see": "Plastic and Cosmetic Surgery"
+  },
+  {
+    "topic": "Body Lice",
+    "see": ""
+  },
+  {
+    "topic": "Body Odor",
+    "see": "Germs and Hygiene; Sweat"
+  },
+  {
+    "topic": "Body Weight",
+    "see": ""
+  },
+  {
+    "topic": "Bone Cancer",
+    "see": ""
+  },
+  {
+    "topic": "Bone Density",
+    "see": ""
+  },
+  {
+    "topic": "Bone Diseases",
+    "see": ""
+  },
+  {
+    "topic": "Bone Grafts",
+    "see": ""
+  },
+  {
+    "topic": "Bone Infections",
+    "see": ""
+  },
+  {
+    "topic": "Bone Loss",
+    "see": "Bone Density; Osteoporosis"
+  },
+  {
+    "topic": "Bone Marrow Diseases",
+    "see": ""
+  },
+  {
+    "topic": "Bone Marrow Transplantation",
+    "see": ""
+  },
+  {
+    "topic": "Bone Transplantation",
+    "see": "Bone Grafts"
+  },
+  {
+    "topic": "Borderline Personality Disorder",
+    "see": "Personality Disorders"
+  },
+  {
+    "topic": "Botanicals",
+    "see": "Herbal Medicine"
+  },
+  {
+    "topic": "Botox",
+    "see": ""
+  },
+  {
+    "topic": "Botulinum Toxin",
+    "see": "Botox; Botulism"
+  },
+  {
+    "topic": "Botulism",
+    "see": ""
+  },
+  {
+    "topic": "Bovine Spongiform Encephalopathy",
+    "see": "Creutzfeldt-Jakob Disease"
+  },
+  {
+    "topic": "Bowel Incontinence",
+    "see": ""
+  },
+  {
+    "topic": "Bowel Movement",
+    "see": ""
+  },
+  {
+    "topic": "Bowel Obstruction",
+    "see": "Intestinal Obstruction"
+  },
+  {
+    "topic": "BPH",
+    "see": "Enlarged Prostate (BPH)"
+  },
+  {
+    "topic": "Braces, Oral",
+    "see": "Orthodontia"
+  },
+  {
+    "topic": "Brachial Plexus Injuries",
+    "see": ""
+  },
+  {
+    "topic": "Brachytherapy",
+    "see": "Radiation Therapy"
+  },
+  {
+    "topic": "Bradycardia",
+    "see": "Arrhythmia"
+  },
+  {
+    "topic": "Brain Aneurysm",
+    "see": ""
+  },
+  {
+    "topic": "Brain Attack",
+    "see": "Stroke"
+  },
+  {
+    "topic": "Brain Cancer",
+    "see": "Brain Tumors"
+  },
+  {
+    "topic": "Brain Concussion",
+    "see": "Concussion"
+  },
+  {
+    "topic": "Brain Diseases",
+    "see": ""
+  },
+  {
+    "topic": "Brain Disorders, Inborn Genetic",
+    "see": "Genetic Brain Disorders"
+  },
+  {
+    "topic": "Brain Hemorrhage",
+    "see": "Hemorrhagic Stroke"
+  },
+  {
+    "topic": "Brain Injury",
+    "see": "Concussion"
+  },
+  {
+    "topic": "Brain Malformations",
+    "see": ""
+  },
+  {
+    "topic": "Brain Tumors",
+    "see": ""
+  },
+  {
+    "topic": "Break-bone Fever",
+    "see": "Dengue"
+  },
+  {
+    "topic": "Breast Cancer",
+    "see": ""
+  },
+  {
+    "topic": "Breast Cancer, Male",
+    "see": "Male Breast Cancer"
+  },
+  {
+    "topic": "Breast Diseases",
+    "see": ""
+  },
+  {
+    "topic": "Breast Implants",
+    "see": "Breast Reconstruction; Plastic and Cosmetic Surgery"
+  },
+  {
+    "topic": "Breast Reconstruction",
+    "see": ""
+  },
+  {
+    "topic": "Breast Reduction",
+    "see": "Plastic and Cosmetic Surgery"
+  },
+  {
+    "topic": "Breastfeeding",
+    "see": ""
+  },
+  {
+    "topic": "Breath Odor",
+    "see": "Bad Breath"
+  },
+  {
+    "topic": "Breathing Problems",
+    "see": ""
+  },
+  {
+    "topic": "Breathing Rate",
+    "see": "Vital Signs"
+  },
+  {
+    "topic": "Broken Bones",
+    "see": "Fractures"
+  },
+  {
+    "topic": "Bronchial Asthma",
+    "see": "Asthma"
+  },
+  {
+    "topic": "Bronchial Disorders",
+    "see": ""
+  },
+  {
+    "topic": "Bronchiectasis",
+    "see": "Bronchial Disorders"
+  },
+  {
+    "topic": "Bronchiolitis",
+    "see": "Bronchial Disorders; Respiratory Syncytial Virus Infections"
+  },
+  {
+    "topic": "Bronchitis",
+    "see": "Acute Bronchitis; Chronic Bronchitis"
+  },
+  {
+    "topic": "Bronchogenic Carcinoma",
+    "see": "Lung Cancer"
+  },
+  {
+    "topic": "Bronchopneumonia",
+    "see": "Pneumonia"
+  },
+  {
+    "topic": "Brown Recluse Spider Bites",
+    "see": "Spider Bites"
+  },
+  {
+    "topic": "Bruises",
+    "see": ""
+  },
+  {
+    "topic": "Bruxism",
+    "see": "Tooth Disorders"
+  },
+  {
+    "topic": "BSE",
+    "see": "Creutzfeldt-Jakob Disease"
+  },
+  {
+    "topic": "Bubonic Plague",
+    "see": "Plague"
+  },
+  {
+    "topic": "Bulimia",
+    "see": "Eating Disorders"
+  },
+  {
+    "topic": "Bullous Pemphigoid",
+    "see": "Pemphigus"
+  },
+  {
+    "topic": "Bullying and Cyberbullying",
+    "see": ""
+  },
+  {
+    "topic": "Bunions",
+    "see": "Toe Injuries and Disorders"
+  },
+  {
+    "topic": "Burns",
+    "see": ""
+  },
+  {
+    "topic": "Burping",
+    "see": "Gas"
+  },
+  {
+    "topic": "Bursitis",
+    "see": ""
+  },
+  {
+    "topic": "Bypass Surgery",
+    "see": "Coronary Artery Bypass Surgery"
+  },
+  {
+    "topic": "C-Section",
+    "see": "Cesarean Delivery"
+  },
+  {
+    "topic": "C. diff Infections",
+    "see": ""
+  },
+  {
+    "topic": "CABG",
+    "see": "Coronary Artery Bypass Surgery"
+  },
+  {
+    "topic": "CAD",
+    "see": "Coronary Artery Disease"
+  },
+  {
+    "topic": "Caffeine",
+    "see": ""
+  },
+  {
+    "topic": "Calcium",
+    "see": ""
+  },
+  {
+    "topic": "Calluses",
+    "see": "Corns and Calluses"
+  },
+  {
+    "topic": "CAM",
+    "see": "Complementary and Integrative Medicine"
+  },
+  {
+    "topic": "Campylobacter Infections",
+    "see": ""
+  },
+  {
+    "topic": "Canavan Disease",
+    "see": "Leukodystrophies"
+  },
+  {
+    "topic": "Cancer",
+    "see": ""
+  },
+  {
+    "topic": "Cancer Alternative Therapies",
+    "see": ""
+  },
+  {
+    "topic": "Cancer and Pregnancy",
+    "see": "Tumors and Pregnancy"
+  },
+  {
+    "topic": "Cancer Chemotherapy",
+    "see": ""
+  },
+  {
+    "topic": "Cancer Immunotherapy",
+    "see": ""
+  },
+  {
+    "topic": "Cancer in Children",
+    "see": ""
+  },
+  {
+    "topic": "Cancer--Living with Cancer",
+    "see": ""
+  },
+  {
+    "topic": "Candidiasis",
+    "see": "Yeast Infections"
+  },
+  {
+    "topic": "Canes",
+    "see": "Mobility Aids"
+  },
+  {
+    "topic": "Canker Sores",
+    "see": ""
+  },
+  {
+    "topic": "Cannabis",
+    "see": "Marijuana"
+  },
+  {
+    "topic": "Car Safety",
+    "see": "Motor Vehicle Safety"
+  },
+  {
+    "topic": "Car Seats",
+    "see": "Motor Vehicle Safety"
+  },
+  {
+    "topic": "Carbohydrate Metabolism Disorders",
+    "see": ""
+  },
+  {
+    "topic": "Carbohydrates",
+    "see": ""
+  },
+  {
+    "topic": "Carbon Monoxide Poisoning",
+    "see": ""
+  },
+  {
+    "topic": "Carcinoid Tumors",
+    "see": ""
+  },
+  {
+    "topic": "Carcinoma",
+    "see": "Cancer"
+  },
+  {
+    "topic": "Cardiac Arrest",
+    "see": "Sudden Cardiac Arrest"
+  },
+  {
+    "topic": "Cardiac Diseases",
+    "see": "Heart Diseases"
+  },
+  {
+    "topic": "Cardiac Failure",
+    "see": "Heart Failure"
+  },
+  {
+    "topic": "Cardiac Rehabilitation",
+    "see": ""
+  },
+  {
+    "topic": "Cardiac Surgery",
+    "see": "Heart Surgery"
+  },
+  {
+    "topic": "Cardiac Test",
+    "see": "Heart Health Tests"
+  },
+  {
+    "topic": "Cardiomyopathy",
+    "see": ""
+  },
+  {
+    "topic": "Cardiopulmonary Resuscitation",
+    "see": "CPR"
+  },
+  {
+    "topic": "Cardiospasm",
+    "see": "Esophagus Disorders"
+  },
+  {
+    "topic": "Cardiovascular Diseases",
+    "see": "Heart Diseases; Vascular Diseases"
+  },
+  {
+    "topic": "Careers",
+    "see": "Health Occupations"
+  },
+  {
+    "topic": "Caregiver Health",
+    "see": ""
+  },
+  {
+    "topic": "Caregivers",
+    "see": ""
+  },
+  {
+    "topic": "Caregivers for Alzheimer's Disease",
+    "see": "Alzheimer's Caregivers"
+  },
+  {
+    "topic": "Carotid Artery Disease",
+    "see": ""
+  },
+  {
+    "topic": "Carotid Endarterectomy",
+    "see": "Carotid Artery Disease; Ischemic Stroke"
+  },
+  {
+    "topic": "Carpal Tunnel Syndrome",
+    "see": ""
+  },
+  {
+    "topic": "Carsickness",
+    "see": "Motion Sickness"
+  },
+  {
+    "topic": "Cartilage Disorders",
+    "see": ""
+  },
+  {
+    "topic": "Cat Bites",
+    "see": "Animal Bites"
+  },
+  {
+    "topic": "CAT Scans",
+    "see": "CT Scans"
+  },
+  {
+    "topic": "Cat Scratch Disease",
+    "see": ""
+  },
+  {
+    "topic": "Cataract",
+    "see": ""
+  },
+  {
+    "topic": "Causalgia",
+    "see": "Complex Regional Pain Syndrome"
+  },
+  {
+    "topic": "Cavities",
+    "see": "Tooth Decay"
+  },
+  {
+    "topic": "Celiac Disease",
+    "see": ""
+  },
+  {
+    "topic": "Cell Phones",
+    "see": "Electromagnetic Fields"
+  },
+  {
+    "topic": "Cellulitis",
+    "see": ""
+  },
+  {
+    "topic": "Cephalic Disorders",
+    "see": "Brain Malformations"
+  },
+  {
+    "topic": "Cerebellar Disorders",
+    "see": ""
+  },
+  {
+    "topic": "Cerebral Aneurysm",
+    "see": "Brain Aneurysm"
+  },
+  {
+    "topic": "Cerebral Hemorrhage",
+    "see": "Hemorrhagic Stroke"
+  },
+  {
+    "topic": "Cerebral Palsy",
+    "see": ""
+  },
+  {
+    "topic": "Cerebrovascular Disease",
+    "see": "Stroke"
+  },
+  {
+    "topic": "Cervical Cancer",
+    "see": ""
+  },
+  {
+    "topic": "Cervical Cancer Screening",
+    "see": ""
+  },
+  {
+    "topic": "Cervical Dysplasia",
+    "see": "Cervix Disorders"
+  },
+  {
+    "topic": "Cervical Pregnancy",
+    "see": "Ectopic Pregnancy"
+  },
+  {
+    "topic": "Cervical Spine",
+    "see": "Neck Injuries and Disorders"
+  },
+  {
+    "topic": "Cervix Disorders",
+    "see": ""
+  },
+  {
+    "topic": "Cesarean Delivery",
+    "see": ""
+  },
+  {
+    "topic": "CFS",
+    "see": "Myalgic Encephalomyelitis/Chronic Fatigue Syndrome"
+  },
+  {
+    "topic": "Chagas Disease",
+    "see": ""
+  },
+  {
+    "topic": "Chalazion",
+    "see": "Eyelid Disorders"
+  },
+  {
+    "topic": "Change of Life",
+    "see": "Menopause"
+  },
+  {
+    "topic": "Charcot-Marie-Tooth Disease",
+    "see": ""
+  },
+  {
+    "topic": "Charley Horse",
+    "see": "Muscle Cramps"
+  },
+  {
+    "topic": "Chemical Emergencies",
+    "see": ""
+  },
+  {
+    "topic": "Chemical Warfare",
+    "see": "Chemical Emergencies"
+  },
+  {
+    "topic": "Chemical Weapons",
+    "see": "Chemical Emergencies"
+  },
+  {
+    "topic": "Chemotherapy",
+    "see": "Cancer Chemotherapy"
+  },
+  {
+    "topic": "Chest Injuries and Disorders",
+    "see": ""
+  },
+  {
+    "topic": "Chest Pain",
+    "see": ""
+  },
+  {
+    "topic": "Chest Physical Therapy",
+    "see": "Pulmonary Rehabilitation"
+  },
+  {
+    "topic": "Chewing Tobacco",
+    "see": "Smokeless Tobacco"
+  },
+  {
+    "topic": "CHF",
+    "see": "Heart Failure"
+  },
+  {
+    "topic": "Chiari Malformation",
+    "see": ""
+  },
+  {
+    "topic": "Chickenpox",
+    "see": ""
+  },
+  {
+    "topic": "Chikungunya",
+    "see": ""
+  },
+  {
+    "topic": "Chilblains",
+    "see": "Frostbite"
+  },
+  {
+    "topic": "Child Abuse",
+    "see": ""
+  },
+  {
+    "topic": "Child Behavior Disorders",
+    "see": ""
+  },
+  {
+    "topic": "Child Dental Health",
+    "see": ""
+  },
+  {
+    "topic": "Child Development",
+    "see": ""
+  },
+  {
+    "topic": "Child Mental Health",
+    "see": ""
+  },
+  {
+    "topic": "Child Molestation",
+    "see": "Child Sexual Abuse"
+  },
+  {
+    "topic": "Child Nutrition",
+    "see": ""
+  },
+  {
+    "topic": "Child Safety",
+    "see": ""
+  },
+  {
+    "topic": "Child Sexual Abuse",
+    "see": ""
+  },
+  {
+    "topic": "Childbirth",
+    "see": ""
+  },
+  {
+    "topic": "Childbirth Problems",
+    "see": ""
+  },
+  {
+    "topic": "Childhood Asthma",
+    "see": "Asthma in Children"
+  },
+  {
+    "topic": "Childhood Brain Tumors",
+    "see": ""
+  },
+  {
+    "topic": "Childhood Cancer",
+    "see": "Cancer in Children"
+  },
+  {
+    "topic": "Childhood Leukemia",
+    "see": ""
+  },
+  {
+    "topic": "Childhood Obesity",
+    "see": "Obesity in Children"
+  },
+  {
+    "topic": "Childhood Vaccines",
+    "see": ""
+  },
+  {
+    "topic": "Children and Diabetes",
+    "see": "Diabetes in Children and Teens"
+  },
+  {
+    "topic": "Children and Medicines",
+    "see": "Medicines and Children"
+  },
+  {
+    "topic": "Children's Health",
+    "see": ""
+  },
+  {
+    "topic": "Chiropractic",
+    "see": ""
+  },
+  {
+    "topic": "Chlamydia Infections",
+    "see": ""
+  },
+  {
+    "topic": "Choking",
+    "see": ""
+  },
+  {
+    "topic": "Cholangiocarcinoma",
+    "see": "Bile Duct Cancer"
+  },
+  {
+    "topic": "Cholangitis",
+    "see": "Bile Duct Diseases"
+  },
+  {
+    "topic": "Cholecystectomy",
+    "see": "Gallbladder Diseases"
+  },
+  {
+    "topic": "Choledocholithiasis",
+    "see": "Gallstones"
+  },
+  {
+    "topic": "Cholelithiasis",
+    "see": "Gallstones"
+  },
+  {
+    "topic": "Cholera",
+    "see": ""
+  },
+  {
+    "topic": "Cholestasis",
+    "see": "Bile Duct Diseases"
+  },
+  {
+    "topic": "Cholesterol",
+    "see": ""
+  },
+  {
+    "topic": "Cholesterol Levels: What You Need to Know",
+    "see": ""
+  },
+  {
+    "topic": "Cholesterol Medicines",
+    "see": ""
+  },
+  {
+    "topic": "Chondrocalcinosis",
+    "see": "Gout"
+  },
+  {
+    "topic": "Chondromalacia Patellae",
+    "see": "Knee Injuries and Disorders"
+  },
+  {
+    "topic": "Choosing a Doctor or Health Care Service",
+    "see": ""
+  },
+  {
+    "topic": "Chorea",
+    "see": "Movement Disorders"
+  },
+  {
+    "topic": "Chorionic Villi Sampling",
+    "see": "Prenatal Testing"
+  },
+  {
+    "topic": "Chromium",
+    "see": "Minerals"
+  },
+  {
+    "topic": "Chronic Bronchitis",
+    "see": ""
+  },
+  {
+    "topic": "Chronic Fatigue Syndrome",
+    "see": "Myalgic Encephalomyelitis/Chronic Fatigue Syndrome"
+  },
+  {
+    "topic": "Chronic Granulocytic Leukemia",
+    "see": "Chronic Myeloid Leukemia"
+  },
+  {
+    "topic": "Chronic Granulomatous Disease",
+    "see": "Immune System and Disorders"
+  },
+  {
+    "topic": "Chronic Illness, Coping",
+    "see": "Coping with Chronic Illness"
+  },
+  {
+    "topic": "Chronic Kidney Disease",
+    "see": ""
+  },
+  {
+    "topic": "Chronic Lymphocytic Leukemia",
+    "see": ""
+  },
+  {
+    "topic": "Chronic Myelogenous Leukemia",
+    "see": "Chronic Myeloid Leukemia"
+  },
+  {
+    "topic": "Chronic Myeloid Leukemia",
+    "see": ""
+  },
+  {
+    "topic": "Chronic Obstructive Pulmonary Disease",
+    "see": "COPD"
+  },
+  {
+    "topic": "Chronic Pain",
+    "see": ""
+  },
+  {
+    "topic": "Chronic Pancreatitis",
+    "see": "Pancreatitis"
+  },
+  {
+    "topic": "Churg-Strauss Syndrome",
+    "see": "Eosinophilic Disorders"
+  },
+  {
+    "topic": "Cicatrix",
+    "see": "Scars"
+  },
+  {
+    "topic": "Circulatory Disorders",
+    "see": "Vascular Diseases"
+  },
+  {
+    "topic": "Circumcision",
+    "see": ""
+  },
+  {
+    "topic": "Cirrhosis",
+    "see": ""
+  },
+  {
+    "topic": "CJD",
+    "see": "Creutzfeldt-Jakob Disease"
+  },
+  {
+    "topic": "CKD",
+    "see": "Chronic Kidney Disease"
+  },
+  {
+    "topic": "Clap",
+    "see": "Gonorrhea"
+  },
+  {
+    "topic": "Claudication",
+    "see": "Leg Injuries and Disorders; Peripheral Arterial Disease"
+  },
+  {
+    "topic": "Clavicle Injuries",
+    "see": "Shoulder Injuries and Disorders"
+  },
+  {
+    "topic": "Cleaning Products",
+    "see": "Household Products"
+  },
+  {
+    "topic": "Cleaning, Disinfecting, and Sanitizing",
+    "see": ""
+  },
+  {
+    "topic": "Cleft Lip and Palate",
+    "see": ""
+  },
+  {
+    "topic": "Cleft Palate",
+    "see": "Cleft Lip and Palate"
+  },
+  {
+    "topic": "Cleft Spine",
+    "see": "Spina Bifida"
+  },
+  {
+    "topic": "Climate Change",
+    "see": ""
+  },
+  {
+    "topic": "Clinical Trials",
+    "see": ""
+  },
+  {
+    "topic": "CLL",
+    "see": "Chronic Lymphocytic Leukemia"
+  },
+  {
+    "topic": "Cloning",
+    "see": ""
+  },
+  {
+    "topic": "Clostridioides difficile infections",
+    "see": "C. diff Infections"
+  },
+  {
+    "topic": "Clostridium difficile infections",
+    "see": "C. diff Infections"
+  },
+  {
+    "topic": "Club Drugs",
+    "see": ""
+  },
+  {
+    "topic": "Cluster Headache",
+    "see": "Headache"
+  },
+  {
+    "topic": "CML",
+    "see": "Chronic Myeloid Leukemia"
+  },
+  {
+    "topic": "CMV Infections",
+    "see": "Cytomegalovirus Infections"
+  },
+  {
+    "topic": "CO Poisoning",
+    "see": "Carbon Monoxide Poisoning"
+  },
+  {
+    "topic": "Coal Miner's Lung",
+    "see": "Interstitial Lung Diseases"
+  },
+  {
+    "topic": "Cocaine",
+    "see": ""
+  },
+  {
+    "topic": "Coccidioidomycosis",
+    "see": "Valley Fever"
+  },
+  {
+    "topic": "Coccyx",
+    "see": "Tailbone Disorders"
+  },
+  {
+    "topic": "Cochlear Implants",
+    "see": ""
+  },
+  {
+    "topic": "Cold (Temperature)",
+    "see": "Frostbite; Hypothermia; Winter Weather Emergencies"
+  },
+  {
+    "topic": "Cold and Cough Medicines",
+    "see": ""
+  },
+  {
+    "topic": "Cold Sores",
+    "see": ""
+  },
+  {
+    "topic": "Cold, Common",
+    "see": "Common Cold"
+  },
+  {
+    "topic": "Colic",
+    "see": "Common Infant and Newborn Problems"
+  },
+  {
+    "topic": "Colitis",
+    "see": "Ulcerative Colitis"
+  },
+  {
+    "topic": "Collapsed Lung",
+    "see": ""
+  },
+  {
+    "topic": "Collarbone Injuries",
+    "see": "Shoulder Injuries and Disorders"
+  },
+  {
+    "topic": "College Health",
+    "see": ""
+  },
+  {
+    "topic": "Colon Cancer",
+    "see": "Colorectal Cancer"
+  },
+  {
+    "topic": "Colonic Diseases",
+    "see": ""
+  },
+  {
+    "topic": "Colonic Polyps",
+    "see": ""
+  },
+  {
+    "topic": "Colonoscopy",
+    "see": ""
+  },
+  {
+    "topic": "Color Blindness",
+    "see": ""
+  },
+  {
+    "topic": "Colorado Tick Fever",
+    "see": "Tick Bites"
+  },
+  {
+    "topic": "Colorectal Cancer",
+    "see": ""
+  },
+  {
+    "topic": "Colostomy",
+    "see": "Ostomy"
+  },
+  {
+    "topic": "Coma",
+    "see": ""
+  },
+  {
+    "topic": "Common Cold",
+    "see": ""
+  },
+  {
+    "topic": "Common Infant and Newborn Problems",
+    "see": ""
+  },
+  {
+    "topic": "Communicable Diseases",
+    "see": "Infectious Diseases"
+  },
+  {
+    "topic": "Communicating With Your Healthcare Provider",
+    "see": "Talking With Your Doctor"
+  },
+  {
+    "topic": "Communication Disorders",
+    "see": "Speech and Communication Disorders"
+  },
+  {
+    "topic": "Complementary and Integrative Medicine",
+    "see": ""
+  },
+  {
+    "topic": "Complex Regional Pain Syndrome",
+    "see": ""
+  },
+  {
+    "topic": "Compression Fracture",
+    "see": "Spine Injuries and Disorders"
+  },
+  {
+    "topic": "Compulsive Gambling",
+    "see": ""
+  },
+  {
+    "topic": "Concussion",
+    "see": ""
+  },
+  {
+    "topic": "Conduct Disorder",
+    "see": "Child Behavior Disorders"
+  },
+  {
+    "topic": "Condylomata Acuminata",
+    "see": "Genital Warts"
+  },
+  {
+    "topic": "Confidentiality",
+    "see": "Personal Health Records"
+  },
+  {
+    "topic": "Congenital Adrenal Hyperplasia",
+    "see": "Adrenal Gland Disorders"
+  },
+  {
+    "topic": "Congenital Diaphragmatic Hernia",
+    "see": "Hernia"
+  },
+  {
+    "topic": "Congenital Heart Defects",
+    "see": ""
+  },
+  {
+    "topic": "Congestive Heart Failure",
+    "see": "Heart Failure"
+  },
+  {
+    "topic": "Conjunctivitis",
+    "see": "Pink Eye"
+  },
+  {
+    "topic": "Connective Tissue Disorders",
+    "see": ""
+  },
+  {
+    "topic": "Constipation",
+    "see": ""
+  },
+  {
+    "topic": "Contact Dermatitis",
+    "see": "Rashes"
+  },
+  {
+    "topic": "Contact Lenses",
+    "see": "Eye Wear"
+  },
+  {
+    "topic": "Contraception",
+    "see": "Birth Control"
+  },
+  {
+    "topic": "Contusions",
+    "see": "Bruises"
+  },
+  {
+    "topic": "Cooley's Anemia",
+    "see": "Thalassemia"
+  },
+  {
+    "topic": "COPD",
+    "see": ""
+  },
+  {
+    "topic": "Coping with Chronic Illness",
+    "see": ""
+  },
+  {
+    "topic": "Coping with Disasters",
+    "see": ""
+  },
+  {
+    "topic": "Copper",
+    "see": "Minerals"
+  },
+  {
+    "topic": "Copper Storage Disease",
+    "see": "Wilson Disease"
+  },
+  {
+    "topic": "Cor Pulmonale",
+    "see": "Pulmonary Hypertension"
+  },
+  {
+    "topic": "Cord Blood",
+    "see": "Stem Cells"
+  },
+  {
+    "topic": "Corn Syrup",
+    "see": "Carbohydrates"
+  },
+  {
+    "topic": "Corneal Disorders",
+    "see": ""
+  },
+  {
+    "topic": "Corns and Calluses",
+    "see": ""
+  },
+  {
+    "topic": "Coronary Arteriosclerosis",
+    "see": "Coronary Artery Disease"
+  },
+  {
+    "topic": "Coronary Artery Bypass Graft",
+    "see": "Coronary Artery Bypass Surgery"
+  },
+  {
+    "topic": "Coronary Artery Bypass Surgery",
+    "see": ""
+  },
+  {
+    "topic": "Coronary Artery Disease",
+    "see": ""
+  },
+  {
+    "topic": "Corticosteroids",
+    "see": "Steroids"
+  },
+  {
+    "topic": "Cosmetic Surgery",
+    "see": "Plastic and Cosmetic Surgery"
+  },
+  {
+    "topic": "Cosmetics",
+    "see": ""
+  },
+  {
+    "topic": "Costochondritis",
+    "see": "Cartilage Disorders"
+  },
+  {
+    "topic": "Cough",
+    "see": ""
+  },
+  {
+    "topic": "Cough Medicines",
+    "see": "Cold and Cough Medicines"
+  },
+  {
+    "topic": "COVID-19 (Coronavirus Disease 2019)",
+    "see": ""
+  },
+  {
+    "topic": "COVID-19 Testing",
+    "see": ""
+  },
+  {
+    "topic": "COVID-19 Vaccines",
+    "see": ""
+  },
+  {
+    "topic": "Coxsackievirus Infections",
+    "see": "Viral Infections"
+  },
+  {
+    "topic": "CPR",
+    "see": ""
+  },
+  {
+    "topic": "Crab Lice",
+    "see": "Sexually Transmitted Infections"
+  },
+  {
+    "topic": "Crack",
+    "see": "Cocaine"
+  },
+  {
+    "topic": "Cramps",
+    "see": "Muscle Cramps"
+  },
+  {
+    "topic": "Cranial Injuries",
+    "see": "Head Injuries"
+  },
+  {
+    "topic": "Craniofacial Abnormalities",
+    "see": ""
+  },
+  {
+    "topic": "Craniofacial Injuries",
+    "see": "Facial Injuries and Disorders"
+  },
+  {
+    "topic": "Craniosynostosis",
+    "see": "Craniofacial Abnormalities"
+  },
+  {
+    "topic": "Creutzfeldt-Jakob Disease",
+    "see": ""
+  },
+  {
+    "topic": "Crib Death",
+    "see": "Sudden Infant Death Syndrome"
+  },
+  {
+    "topic": "Critical Care",
+    "see": ""
+  },
+  {
+    "topic": "Crohn's Disease",
+    "see": ""
+  },
+  {
+    "topic": "Cross Infection",
+    "see": "Infection Control; Occupational Health for Health Care Providers"
+  },
+  {
+    "topic": "Crossed Eyes",
+    "see": "Eye Movement Disorders"
+  },
+  {
+    "topic": "Croup",
+    "see": ""
+  },
+  {
+    "topic": "Crutches",
+    "see": "Mobility Aids"
+  },
+  {
+    "topic": "Cryptococcosis",
+    "see": "Fungal Infections"
+  },
+  {
+    "topic": "Cryptosporidiosis",
+    "see": ""
+  },
+  {
+    "topic": "CT Scans",
+    "see": ""
+  },
+  {
+    "topic": "Cubital Tunnel Syndrome",
+    "see": "Elbow Injuries and Disorders"
+  },
+  {
+    "topic": "Cushing's Syndrome",
+    "see": ""
+  },
+  {
+    "topic": "Cutaneous Disorders",
+    "see": "Skin Conditions"
+  },
+  {
+    "topic": "Cutting",
+    "see": "Self-Harm"
+  },
+  {
+    "topic": "CVA",
+    "see": "Stroke"
+  },
+  {
+    "topic": "Cyclothymic Disorder",
+    "see": "Mood Disorders"
+  },
+  {
+    "topic": "Cystic Fibrosis",
+    "see": ""
+  },
+  {
+    "topic": "Cystic Kidney Diseases",
+    "see": "Kidney Cysts"
+  },
+  {
+    "topic": "Cystitis",
+    "see": "Interstitial Cystitis"
+  },
+  {
+    "topic": "Cystocele",
+    "see": "Pelvic Floor Disorders"
+  },
+  {
+    "topic": "Cytomegalovirus Infections",
+    "see": ""
+  },
+  {
+    "topic": "Dandruff, Cradle Cap, and Other Scalp Conditions",
+    "see": ""
+  },
+  {
+    "topic": "Dandy-Walker Syndrome",
+    "see": "Cerebellar Disorders"
+  },
+  {
+    "topic": "DASH Diet",
+    "see": "DASH Eating Plan"
+  },
+  {
+    "topic": "DASH Eating Plan",
+    "see": ""
+  },
+  {
+    "topic": "Day Care",
+    "see": "Home Care Services"
+  },
+  {
+    "topic": "Deafness",
+    "see": "Hearing Disorders and Deafness; Hearing Problems in Children"
+  },
+  {
+    "topic": "Death and Dying",
+    "see": "End of Life Issues"
+  },
+  {
+    "topic": "Decubitus Ulcers",
+    "see": "Pressure Sores"
+  },
+  {
+    "topic": "Deep Vein Thrombosis",
+    "see": ""
+  },
+  {
+    "topic": "Defibrillators, Implantable",
+    "see": "Pacemakers and Implantable Defibrillators"
+  },
+  {
+    "topic": "Degenerative Joint Disease",
+    "see": "Osteoarthritis"
+  },
+  {
+    "topic": "Degenerative Nerve Diseases",
+    "see": ""
+  },
+  {
+    "topic": "Dehydration",
+    "see": ""
+  },
+  {
+    "topic": "Delirium",
+    "see": ""
+  },
+  {
+    "topic": "Delivery",
+    "see": "Childbirth"
+  },
+  {
+    "topic": "Dementia",
+    "see": ""
+  },
+  {
+    "topic": "Dementia with Lewy Bodies",
+    "see": "Lewy Body Dementia"
+  },
+  {
+    "topic": "Dengue",
+    "see": ""
+  },
+  {
+    "topic": "Dental Caries",
+    "see": "Tooth Decay"
+  },
+  {
+    "topic": "Dental Health",
+    "see": ""
+  },
+  {
+    "topic": "Dental Health, Child",
+    "see": "Child Dental Health"
+  },
+  {
+    "topic": "Dental Implants",
+    "see": "Dentures"
+  },
+  {
+    "topic": "Dental Sealants",
+    "see": "Child Dental Health; Tooth Decay"
+  },
+  {
+    "topic": "Dentures",
+    "see": ""
+  },
+  {
+    "topic": "Depression",
+    "see": ""
+  },
+  {
+    "topic": "Depression, Teen",
+    "see": "Teen Depression"
+  },
+  {
+    "topic": "Dermatitis",
+    "see": "Eczema; Rashes"
+  },
+  {
+    "topic": "Dermatology",
+    "see": "Skin Conditions"
+  },
+  {
+    "topic": "Dermatomyositis",
+    "see": "Myositis"
+  },
+  {
+    "topic": "Developmental Disabilities",
+    "see": ""
+  },
+  {
+    "topic": "Diabetes",
+    "see": ""
+  },
+  {
+    "topic": "Diabetes and Pregnancy",
+    "see": ""
+  },
+  {
+    "topic": "Diabetes Complications",
+    "see": ""
+  },
+  {
+    "topic": "Diabetes in Children and Teens",
+    "see": ""
+  },
+  {
+    "topic": "Diabetes Insipidus",
+    "see": ""
+  },
+  {
+    "topic": "Diabetes Medicines",
+    "see": ""
+  },
+  {
+    "topic": "Diabetes Mellitus",
+    "see": "Diabetes"
+  },
+  {
+    "topic": "Diabetes Prevention",
+    "see": "How to Prevent Diabetes"
+  },
+  {
+    "topic": "Diabetes Type 1",
+    "see": ""
+  },
+  {
+    "topic": "Diabetes Type 2",
+    "see": ""
+  },
+  {
+    "topic": "Diabetic Diet",
+    "see": ""
+  },
+  {
+    "topic": "Diabetic Eye Problems",
+    "see": ""
+  },
+  {
+    "topic": "Diabetic Foot",
+    "see": ""
+  },
+  {
+    "topic": "Diabetic Heart Disease",
+    "see": ""
+  },
+  {
+    "topic": "Diabetic Kidney Problems",
+    "see": ""
+  },
+  {
+    "topic": "Diabetic Nephropathy",
+    "see": "Diabetic Kidney Problems"
+  },
+  {
+    "topic": "Diabetic Nerve Problems",
+    "see": ""
+  },
+  {
+    "topic": "Diabetic Retinopathy",
+    "see": "Diabetic Eye Problems"
+  },
+  {
+    "topic": "Diagnostic Imaging",
+    "see": ""
+  },
+  {
+    "topic": "Dialysis",
+    "see": ""
+  },
+  {
+    "topic": "Diaper Rash",
+    "see": "Common Infant and Newborn Problems; Rashes"
+  },
+  {
+    "topic": "Diaphragmatic Hernia",
+    "see": "Hernia"
+  },
+  {
+    "topic": "Diarrhea",
+    "see": ""
+  },
+  {
+    "topic": "Dietary Fats",
+    "see": ""
+  },
+  {
+    "topic": "Dietary Fiber",
+    "see": ""
+  },
+  {
+    "topic": "Dietary Proteins",
+    "see": ""
+  },
+  {
+    "topic": "Dietary Sodium",
+    "see": "Sodium"
+  },
+  {
+    "topic": "Dietary Supplements",
+    "see": ""
+  },
+  {
+    "topic": "Dieting",
+    "see": "Diets"
+  },
+  {
+    "topic": "Diets",
+    "see": ""
+  },
+  {
+    "topic": "Digestive Diseases",
+    "see": ""
+  },
+  {
+    "topic": "Dip",
+    "see": "Smokeless Tobacco"
+  },
+  {
+    "topic": "Diphtheria",
+    "see": ""
+  },
+  {
+    "topic": "Disabilities",
+    "see": ""
+  },
+  {
+    "topic": "Disaster Preparation and Recovery",
+    "see": ""
+  },
+  {
+    "topic": "Dislocated Shoulder",
+    "see": ""
+  },
+  {
+    "topic": "Dislocations",
+    "see": ""
+  },
+  {
+    "topic": "Diverticulitis",
+    "see": "Diverticulosis and Diverticulitis"
+  },
+  {
+    "topic": "Diverticulosis and Diverticulitis",
+    "see": ""
+  },
+  {
+    "topic": "Dizziness and Vertigo",
+    "see": ""
+  },
+  {
+    "topic": "Do-Not-Resuscitate Orders",
+    "see": "Advance Directives"
+  },
+  {
+    "topic": "Dog Bites",
+    "see": "Animal Bites"
+  },
+  {
+    "topic": "Domestic Violence",
+    "see": "Intimate Partner Violence"
+  },
+  {
+    "topic": "Donors",
+    "see": "Organ Donation"
+  },
+  {
+    "topic": "Down Syndrome",
+    "see": ""
+  },
+  {
+    "topic": "Drinking",
+    "see": "Alcohol; Alcohol Use Disorder (AUD)"
+  },
+  {
+    "topic": "Drinking Water",
+    "see": ""
+  },
+  {
+    "topic": "Driving",
+    "see": "Impaired Driving; Motor Vehicle Safety"
+  },
+  {
+    "topic": "Dropsy",
+    "see": "Edema"
+  },
+  {
+    "topic": "Drowning",
+    "see": ""
+  },
+  {
+    "topic": "Drug abuse",
+    "see": "Drug Use and Addiction"
+  },
+  {
+    "topic": "Drug Abuse in Pregnancy",
+    "see": "Pregnancy and Substance Use"
+  },
+  {
+    "topic": "Drug Abuse, Prescription",
+    "see": "Prescription Drug Misuse"
+  },
+  {
+    "topic": "Drug Allergies",
+    "see": "Drug Reactions"
+  },
+  {
+    "topic": "Drug Errors",
+    "see": "Medication Errors"
+  },
+  {
+    "topic": "Drug Information",
+    "see": "Medicines; Over-the-Counter Medicines"
+  },
+  {
+    "topic": "Drug Interactions",
+    "see": "Drug Reactions"
+  },
+  {
+    "topic": "Drug Reactions",
+    "see": ""
+  },
+  {
+    "topic": "Drug Safety",
+    "see": ""
+  },
+  {
+    "topic": "Drug Use and Addiction",
+    "see": ""
+  },
+  {
+    "topic": "Drugged Driving",
+    "see": "Impaired Driving"
+  },
+  {
+    "topic": "Drugs and Young People",
+    "see": ""
+  },
+  {
+    "topic": "Drunk Driving",
+    "see": "Impaired Driving"
+  },
+  {
+    "topic": "Dry Eye",
+    "see": "Tears"
+  },
+  {
+    "topic": "Dry Mouth",
+    "see": ""
+  },
+  {
+    "topic": "Dual Diagnosis",
+    "see": ""
+  },
+  {
+    "topic": "Duchenne Muscular Dystrophy",
+    "see": "Muscular Dystrophy"
+  },
+  {
+    "topic": "Duodenal Ulcer",
+    "see": "Peptic Ulcer"
+  },
+  {
+    "topic": "Dupuytren Contracture",
+    "see": "Finger Injuries and Disorders"
+  },
+  {
+    "topic": "DVT",
+    "see": "Deep Vein Thrombosis"
+  },
+  {
+    "topic": "Dwarfism",
+    "see": ""
+  },
+  {
+    "topic": "Dysautonomia",
+    "see": "Autonomic Nervous System Disorders"
+  },
+  {
+    "topic": "Dyscalculia",
+    "see": "Learning Disabilities"
+  },
+  {
+    "topic": "Dysentery",
+    "see": "Diarrhea"
+  },
+  {
+    "topic": "Dysfunctional uterine bleeding",
+    "see": "Vaginal Bleeding"
+  },
+  {
+    "topic": "Dysgeusia",
+    "see": "Taste and Smell Disorders"
+  },
+  {
+    "topic": "Dyskinesia",
+    "see": "Movement Disorders"
+  },
+  {
+    "topic": "Dyslexia",
+    "see": "Learning Disabilities"
+  },
+  {
+    "topic": "Dysmenorrhea",
+    "see": "Period Pain"
+  },
+  {
+    "topic": "Dysosmia",
+    "see": "Taste and Smell Disorders"
+  },
+  {
+    "topic": "Dyspareunia",
+    "see": "Sexual Problems in Women"
+  },
+  {
+    "topic": "Dyspepsia",
+    "see": "Indigestion"
+  },
+  {
+    "topic": "Dysphagia",
+    "see": "Swallowing Disorders"
+  },
+  {
+    "topic": "Dyspnea",
+    "see": "Breathing Problems"
+  },
+  {
+    "topic": "Dysthymic Disorder",
+    "see": "Depression"
+  },
+  {
+    "topic": "Dystonia",
+    "see": ""
+  },
+  {
+    "topic": "Dysuria",
+    "see": "Urine and Urination"
+  },
+  {
+    "topic": "E-Cigarettes",
+    "see": ""
+  },
+  {
+    "topic": "E. Coli Infections",
+    "see": ""
+  },
+  {
+    "topic": "Ear Disorders",
+    "see": ""
+  },
+  {
+    "topic": "Ear Infections",
+    "see": ""
+  },
+  {
+    "topic": "Earthquakes",
+    "see": ""
+  },
+  {
+    "topic": "Eating Disorders",
+    "see": ""
+  },
+  {
+    "topic": "Ebola",
+    "see": ""
+  },
+  {
+    "topic": "EBV Infections",
+    "see": "Infectious Mononucleosis"
+  },
+  {
+    "topic": "Ecstasy",
+    "see": "Club Drugs"
+  },
+  {
+    "topic": "Ectopic Pregnancy",
+    "see": ""
+  },
+  {
+    "topic": "Eczema",
+    "see": ""
+  },
+  {
+    "topic": "Edema",
+    "see": ""
+  },
+  {
+    "topic": "Egg Allergy",
+    "see": "Food Allergy"
+  },
+  {
+    "topic": "Egg Donation",
+    "see": "Assisted Reproductive Technology"
+  },
+  {
+    "topic": "Ehlers-Danlos Syndrome",
+    "see": ""
+  },
+  {
+    "topic": "Ehrlichiosis",
+    "see": "Tick Bites"
+  },
+  {
+    "topic": "Elbow Injuries and Disorders",
+    "see": ""
+  },
+  {
+    "topic": "Elder Abuse",
+    "see": ""
+  },
+  {
+    "topic": "Electrical Injuries",
+    "see": ""
+  },
+  {
+    "topic": "Electrolytes",
+    "see": "Fluid and Electrolyte Balance"
+  },
+  {
+    "topic": "Electromagnetic Fields",
+    "see": ""
+  },
+  {
+    "topic": "Electronic Health Records",
+    "see": "Personal Health Records"
+  },
+  {
+    "topic": "Emergency Medical Services",
+    "see": ""
+  },
+  {
+    "topic": "Emergency Preparedness",
+    "see": "Disaster Preparation and Recovery"
+  },
+  {
+    "topic": "EMF",
+    "see": "Electromagnetic Fields"
+  },
+  {
+    "topic": "Emotional Health",
+    "see": "Mental Health; Older Adult Mental Health"
+  },
+  {
+    "topic": "Emphysema",
+    "see": ""
+  },
+  {
+    "topic": "Encopresis",
+    "see": "Bowel Incontinence"
+  },
+  {
+    "topic": "End of Life Care",
+    "see": "Hospice Care"
+  },
+  {
+    "topic": "End of Life Issues",
+    "see": ""
+  },
+  {
+    "topic": "End-Stage Renal Disease",
+    "see": "Kidney Failure"
+  },
+  {
+    "topic": "Endocarditis",
+    "see": ""
+  },
+  {
+    "topic": "Endocrine Diseases",
+    "see": ""
+  },
+  {
+    "topic": "Endometrial Cancer",
+    "see": "Uterine Cancer"
+  },
+  {
+    "topic": "Endometriosis",
+    "see": ""
+  },
+  {
+    "topic": "Endoscopy",
+    "see": ""
+  },
+  {
+    "topic": "Enlarged Prostate (BPH)",
+    "see": ""
+  },
+  {
+    "topic": "Enterocele",
+    "see": "Hernia"
+  },
+  {
+    "topic": "Enterovirus",
+    "see": "Viral Infections"
+  },
+  {
+    "topic": "Environmental Health",
+    "see": ""
+  },
+  {
+    "topic": "Environmental Tobacco Smoke",
+    "see": "Secondhand Smoke"
+  },
+  {
+    "topic": "Eosinophilia",
+    "see": "Eosinophilic Disorders"
+  },
+  {
+    "topic": "Eosinophilic Disorders",
+    "see": ""
+  },
+  {
+    "topic": "Eosinophilic Esophagitis",
+    "see": ""
+  },
+  {
+    "topic": "Epilepsy",
+    "see": ""
+  },
+  {
+    "topic": "Epstein-Barr Virus Infections",
+    "see": "Infectious Mononucleosis"
+  },
+  {
+    "topic": "Equipment Safety",
+    "see": "Medical Device Safety"
+  },
+  {
+    "topic": "Erectile Dysfunction",
+    "see": ""
+  },
+  {
+    "topic": "Ergonomics",
+    "see": ""
+  },
+  {
+    "topic": "ERT",
+    "see": "Hormone Replacement Therapy"
+  },
+  {
+    "topic": "Erythema Infectiosum",
+    "see": "Fifth Disease"
+  },
+  {
+    "topic": "Erythroblastosis Fetalis",
+    "see": "Rh Incompatibility"
+  },
+  {
+    "topic": "Esophageal Cancer",
+    "see": ""
+  },
+  {
+    "topic": "Esophagus Disorders",
+    "see": ""
+  },
+  {
+    "topic": "ESRD",
+    "see": "Kidney Failure"
+  },
+  {
+    "topic": "Essential Tremor",
+    "see": "Tremor"
+  },
+  {
+    "topic": "Estrogen Replacement Therapy",
+    "see": "Hormone Replacement Therapy"
+  },
+  {
+    "topic": "Evaluating Health Information",
+    "see": ""
+  },
+  {
+    "topic": "Ewing's Sarcoma",
+    "see": "Bone Cancer"
+  },
+  {
+    "topic": "Exercise and Physical Fitness",
+    "see": ""
+  },
+  {
+    "topic": "Exercise Benefits",
+    "see": "Benefits of Exercise"
+  },
+  {
+    "topic": "Exercise for Children",
+    "see": ""
+  },
+  {
+    "topic": "Exercise for Older Adults",
+    "see": ""
+  },
+  {
+    "topic": "Exercise: How Much?",
+    "see": "How Much Exercise Do I Need?"
+  },
+  {
+    "topic": "Eye Cancer",
+    "see": ""
+  },
+  {
+    "topic": "Eye Care",
+    "see": ""
+  },
+  {
+    "topic": "Eye Diseases",
+    "see": ""
+  },
+  {
+    "topic": "Eye Infections",
+    "see": ""
+  },
+  {
+    "topic": "Eye Injuries",
+    "see": ""
+  },
+  {
+    "topic": "Eye Movement Disorders",
+    "see": ""
+  },
+  {
+    "topic": "Eye Wear",
+    "see": ""
+  },
+  {
+    "topic": "Eyeglasses",
+    "see": "Eye Wear"
+  },
+  {
+    "topic": "Eyelid Disorders",
+    "see": ""
+  },
+  {
+    "topic": "Facial Injuries and Disorders",
+    "see": ""
+  },
+  {
+    "topic": "Failure to Thrive",
+    "see": "Growth Disorders"
+  },
+  {
+    "topic": "Fainting",
+    "see": ""
+  },
+  {
+    "topic": "Fallopian Tube Cancer",
+    "see": "Ovarian Cancer"
+  },
+  {
+    "topic": "Falls",
+    "see": ""
+  },
+  {
+    "topic": "False Teeth",
+    "see": "Dentures"
+  },
+  {
+    "topic": "Familial Combined Hyperlipidemia",
+    "see": "Cholesterol; Cholesterol Levels: What You Need to Know; Triglycerides"
+  },
+  {
+    "topic": "Familial Dysbetalipoproteinemia",
+    "see": "Cholesterol; Cholesterol Levels: What You Need to Know"
+  },
+  {
+    "topic": "Familial Hypercholesterolemia",
+    "see": "Cholesterol; Cholesterol Levels: What You Need to Know"
+  },
+  {
+    "topic": "Familial Hypertriglyceridemia",
+    "see": "Triglycerides"
+  },
+  {
+    "topic": "Family History",
+    "see": ""
+  },
+  {
+    "topic": "Family Issues",
+    "see": ""
+  },
+  {
+    "topic": "Family Planning",
+    "see": "Birth Control"
+  },
+  {
+    "topic": "Fanconi Anemia",
+    "see": "Aplastic Anemia"
+  },
+  {
+    "topic": "Farmer's Lung",
+    "see": "Interstitial Lung Diseases"
+  },
+  {
+    "topic": "Farsightedness",
+    "see": "Refractive Errors"
+  },
+  {
+    "topic": "FAS",
+    "see": "Fetal Alcohol Spectrum Disorders"
+  },
+  {
+    "topic": "Fatigue",
+    "see": ""
+  },
+  {
+    "topic": "Fats, Dietary",
+    "see": "Dietary Fats"
+  },
+  {
+    "topic": "Fatty Liver Disease",
+    "see": ""
+  },
+  {
+    "topic": "Fecal Impaction",
+    "see": "Intestinal Obstruction"
+  },
+  {
+    "topic": "Female Circumcision",
+    "see": "Sexual Problems in Women"
+  },
+  {
+    "topic": "Female Infertility",
+    "see": ""
+  },
+  {
+    "topic": "Female Sexual Dysfunction",
+    "see": "Sexual Problems in Women"
+  },
+  {
+    "topic": "Female Sterilization",
+    "see": "Tubal Ligation"
+  },
+  {
+    "topic": "Ferritin",
+    "see": "Iron"
+  },
+  {
+    "topic": "Fertility",
+    "see": "Infertility; Preconception Care"
+  },
+  {
+    "topic": "Fetal Alcohol Spectrum Disorders",
+    "see": ""
+  },
+  {
+    "topic": "Fetal Alcohol Syndrome",
+    "see": "Fetal Alcohol Spectrum Disorders"
+  },
+  {
+    "topic": "Fetal Health and Development",
+    "see": ""
+  },
+  {
+    "topic": "Fetal Ultrasound",
+    "see": "Prenatal Testing"
+  },
+  {
+    "topic": "Fever",
+    "see": ""
+  },
+  {
+    "topic": "Fever Blister",
+    "see": "Cold Sores"
+  },
+  {
+    "topic": "Fiber",
+    "see": "Dietary Fiber"
+  },
+  {
+    "topic": "Fibrocystic Breast Disease",
+    "see": "Breast Diseases"
+  },
+  {
+    "topic": "Fibroids",
+    "see": "Uterine Fibroids"
+  },
+  {
+    "topic": "Fibromyalgia",
+    "see": ""
+  },
+  {
+    "topic": "Fifth Disease",
+    "see": ""
+  },
+  {
+    "topic": "Financial Assistance",
+    "see": ""
+  },
+  {
+    "topic": "Finding health sources I can trust",
+    "see": "Evaluating Health Information"
+  },
+  {
+    "topic": "Finding trustworthy information",
+    "see": "Evaluating Health Information"
+  },
+  {
+    "topic": "Finger Injuries and Disorders",
+    "see": ""
+  },
+  {
+    "topic": "Fingernails",
+    "see": "Nail Diseases"
+  },
+  {
+    "topic": "Fire Safety",
+    "see": ""
+  },
+  {
+    "topic": "First Aid",
+    "see": ""
+  },
+  {
+    "topic": "Fistulas",
+    "see": ""
+  },
+  {
+    "topic": "Fitness",
+    "see": "Exercise and Physical Fitness; Exercise for Children; Exercise for Older Adults; Sports Fitness"
+  },
+  {
+    "topic": "Flatulence",
+    "see": "Gas"
+  },
+  {
+    "topic": "Flea Bites",
+    "see": "Insect Bites and Stings"
+  },
+  {
+    "topic": "Flesh-Eating Bacteria",
+    "see": "Bacterial Infections"
+  },
+  {
+    "topic": "Floater",
+    "see": "Retinal Disorders"
+  },
+  {
+    "topic": "Floods",
+    "see": ""
+  },
+  {
+    "topic": "Flu",
+    "see": ""
+  },
+  {
+    "topic": "Flu Shot",
+    "see": ""
+  },
+  {
+    "topic": "Fluid and Electrolyte Balance",
+    "see": ""
+  },
+  {
+    "topic": "Folate",
+    "see": "Folic Acid"
+  },
+  {
+    "topic": "Folic Acid",
+    "see": ""
+  },
+  {
+    "topic": "Folliculitis",
+    "see": "Hair Problems"
+  },
+  {
+    "topic": "Food Additives",
+    "see": "Nutrition"
+  },
+  {
+    "topic": "Food Allergy",
+    "see": ""
+  },
+  {
+    "topic": "Food Labeling",
+    "see": ""
+  },
+  {
+    "topic": "Food Poisoning",
+    "see": "Foodborne Illness"
+  },
+  {
+    "topic": "Food Safety",
+    "see": ""
+  },
+  {
+    "topic": "Foodborne Illness",
+    "see": ""
+  },
+  {
+    "topic": "Foot Health",
+    "see": ""
+  },
+  {
+    "topic": "Foot Injuries and Disorders",
+    "see": ""
+  },
+  {
+    "topic": "Foreign Bodies",
+    "see": ""
+  },
+  {
+    "topic": "Fractures",
+    "see": ""
+  },
+  {
+    "topic": "Fragile X Syndrome",
+    "see": ""
+  },
+  {
+    "topic": "FRAXA",
+    "see": "Fragile X Syndrome"
+  },
+  {
+    "topic": "Friedreich Ataxia",
+    "see": ""
+  },
+  {
+    "topic": "Frostbite",
+    "see": ""
+  },
+  {
+    "topic": "Frostnip",
+    "see": "Frostbite"
+  },
+  {
+    "topic": "Frozen Shoulder",
+    "see": "Shoulder Injuries and Disorders"
+  },
+  {
+    "topic": "Fungal Infections",
+    "see": ""
+  },
+  {
+    "topic": "Fungicides",
+    "see": "Pesticides"
+  },
+  {
+    "topic": "G6PD Deficiency",
+    "see": ""
+  },
+  {
+    "topic": "Gait Abnormalities",
+    "see": "Walking Problems"
+  },
+  {
+    "topic": "Gallbladder Cancer",
+    "see": ""
+  },
+  {
+    "topic": "Gallbladder Diseases",
+    "see": ""
+  },
+  {
+    "topic": "Gallstones",
+    "see": ""
+  },
+  {
+    "topic": "Gambling",
+    "see": "Compulsive Gambling"
+  },
+  {
+    "topic": "Gamete Intrafallopian Transfer",
+    "see": "Infertility"
+  },
+  {
+    "topic": "Ganglion Cyst",
+    "see": "Wrist Injuries and Disorders"
+  },
+  {
+    "topic": "Gangrene",
+    "see": ""
+  },
+  {
+    "topic": "Gas",
+    "see": ""
+  },
+  {
+    "topic": "Gas Gangrene",
+    "see": "Gangrene"
+  },
+  {
+    "topic": "Gastric Bypass",
+    "see": "Weight Loss Surgery"
+  },
+  {
+    "topic": "Gastric Cancer",
+    "see": "Stomach Cancer"
+  },
+  {
+    "topic": "Gastric Disorders",
+    "see": "Stomach Disorders"
+  },
+  {
+    "topic": "Gastritis",
+    "see": "Stomach Disorders"
+  },
+  {
+    "topic": "Gastroenteritis",
+    "see": ""
+  },
+  {
+    "topic": "Gastroesophageal Reflux",
+    "see": "GERD"
+  },
+  {
+    "topic": "Gastrointestinal Bleeding",
+    "see": ""
+  },
+  {
+    "topic": "Gastrointestinal Diseases",
+    "see": "Digestive Diseases"
+  },
+  {
+    "topic": "Gastrointestinal Stromal Tumors",
+    "see": "Intestinal Cancer"
+  },
+  {
+    "topic": "Gastroparesis",
+    "see": "Stomach Disorders"
+  },
+  {
+    "topic": "Gastroplasty",
+    "see": "Weight Loss Surgery"
+  },
+  {
+    "topic": "Gaucher Disease",
+    "see": ""
+  },
+  {
+    "topic": "Generalized Anxiety Disorder",
+    "see": "Anxiety"
+  },
+  {
+    "topic": "Genes and Gene Therapy",
+    "see": ""
+  },
+  {
+    "topic": "Genetic Brain Disorders",
+    "see": ""
+  },
+  {
+    "topic": "Genetic Counseling",
+    "see": ""
+  },
+  {
+    "topic": "Genetic Disorders",
+    "see": ""
+  },
+  {
+    "topic": "Genetic Testing",
+    "see": ""
+  },
+  {
+    "topic": "Genital Herpes",
+    "see": ""
+  },
+  {
+    "topic": "Genital Warts",
+    "see": ""
+  },
+  {
+    "topic": "Geographic Tongue",
+    "see": "Tongue Disorders"
+  },
+  {
+    "topic": "GERD",
+    "see": ""
+  },
+  {
+    "topic": "Germ Warfare",
+    "see": "Biodefense and Bioterrorism"
+  },
+  {
+    "topic": "German Measles",
+    "see": "Rubella"
+  },
+  {
+    "topic": "Germs and Hygiene",
+    "see": ""
+  },
+  {
+    "topic": "Gestational Carrier",
+    "see": "Assisted Reproductive Technology"
+  },
+  {
+    "topic": "Gestational Diabetes",
+    "see": "Diabetes and Pregnancy"
+  },
+  {
+    "topic": "Gestational Hypertension",
+    "see": "High Blood Pressure in Pregnancy"
+  },
+  {
+    "topic": "Gestational Trophoblastic Disease",
+    "see": "Tumors and Pregnancy"
+  },
+  {
+    "topic": "GHB",
+    "see": "Club Drugs"
+  },
+  {
+    "topic": "GI Bleeding",
+    "see": "Gastrointestinal Bleeding"
+  },
+  {
+    "topic": "Giant Cell Arteritis",
+    "see": ""
+  },
+  {
+    "topic": "Giardia Infections",
+    "see": ""
+  },
+  {
+    "topic": "Gilbert Disease",
+    "see": "Liver Diseases"
+  },
+  {
+    "topic": "Glandular Fever",
+    "see": "Infectious Mononucleosis"
+  },
+  {
+    "topic": "Glasses",
+    "see": "Eye Wear"
+  },
+  {
+    "topic": "Glaucoma",
+    "see": ""
+  },
+  {
+    "topic": "Glioma",
+    "see": "Brain Tumors"
+  },
+  {
+    "topic": "Global Health",
+    "see": ""
+  },
+  {
+    "topic": "Global Warming",
+    "see": "Climate Change"
+  },
+  {
+    "topic": "Glossitis",
+    "see": "Tongue Disorders"
+  },
+  {
+    "topic": "Glucocorticoids",
+    "see": "Steroids"
+  },
+  {
+    "topic": "Glucose",
+    "see": "Blood Glucose"
+  },
+  {
+    "topic": "Glucose-6-phosphate Dehydrogenase Deficiency",
+    "see": "G6PD Deficiency"
+  },
+  {
+    "topic": "Gluten Intolerance",
+    "see": "Celiac Disease; Gluten Sensitivity"
+  },
+  {
+    "topic": "Gluten Sensitivity",
+    "see": ""
+  },
+  {
+    "topic": "Gluten-Sensitive Enteropathy",
+    "see": "Celiac Disease"
+  },
+  {
+    "topic": "Goiter",
+    "see": "Thyroid Diseases"
+  },
+  {
+    "topic": "Gonorrhea",
+    "see": ""
+  },
+  {
+    "topic": "Gout",
+    "see": ""
+  },
+  {
+    "topic": "Granulomatosis with Polyangiitis",
+    "see": ""
+  },
+  {
+    "topic": "Graves' Disease",
+    "see": "Hyperthyroidism"
+  },
+  {
+    "topic": "Grief",
+    "see": "Bereavement"
+  },
+  {
+    "topic": "Grippe",
+    "see": "Flu"
+  },
+  {
+    "topic": "Growth Disorders",
+    "see": ""
+  },
+  {
+    "topic": "Guide to Good Posture",
+    "see": ""
+  },
+  {
+    "topic": "Guillain-Barre Syndrome",
+    "see": ""
+  },
+  {
+    "topic": "Gulf Oil Spill",
+    "see": "Oil Spills"
+  },
+  {
+    "topic": "Gulf War Syndrome",
+    "see": "Veterans and Military Health"
+  },
+  {
+    "topic": "Gum Disease",
+    "see": ""
+  },
+  {
+    "topic": "Gynecomastia",
+    "see": "Breast Diseases"
+  },
+  {
+    "topic": "H. Pylori Infections",
+    "see": "Helicobacter Pylori Infections"
+  },
+  {
+    "topic": "H1N1 Flu (Swine Flu)",
+    "see": ""
+  },
+  {
+    "topic": "Haemophilus Infections",
+    "see": ""
+  },
+  {
+    "topic": "Hair Loss",
+    "see": ""
+  },
+  {
+    "topic": "Hair Problems",
+    "see": ""
+  },
+  {
+    "topic": "Hair Pulling",
+    "see": "Self-Harm"
+  },
+  {
+    "topic": "Hairy Cell Leukemia",
+    "see": "Leukemia"
+  },
+  {
+    "topic": "Halitosis",
+    "see": "Bad Breath"
+  },
+  {
+    "topic": "Hallucinogens",
+    "see": "Club Drugs; Drug Use and Addiction"
+  },
+  {
+    "topic": "Hammer Toe",
+    "see": "Toe Injuries and Disorders"
+  },
+  {
+    "topic": "Hand Injuries and Disorders",
+    "see": ""
+  },
+  {
+    "topic": "Hand, Foot, and Mouth Disease",
+    "see": "Viral Infections"
+  },
+  {
+    "topic": "Handwashing",
+    "see": "Germs and Hygiene"
+  },
+  {
+    "topic": "Hansen's Disease",
+    "see": "Mycobacterial Infections"
+  },
+  {
+    "topic": "Hantavirus Infections",
+    "see": ""
+  },
+  {
+    "topic": "Hardening of the Arteries",
+    "see": "Atherosclerosis"
+  },
+  {
+    "topic": "Hashimoto's Disease",
+    "see": "Hypothyroidism"
+  },
+  {
+    "topic": "Hay Fever",
+    "see": ""
+  },
+  {
+    "topic": "HDL: The \"Good\" Cholesterol",
+    "see": ""
+  },
+  {
+    "topic": "Head and Neck Cancer",
+    "see": ""
+  },
+  {
+    "topic": "Head Injuries",
+    "see": ""
+  },
+  {
+    "topic": "Head Lice",
+    "see": ""
+  },
+  {
+    "topic": "Headache",
+    "see": ""
+  },
+  {
+    "topic": "Health Checkup",
+    "see": ""
+  },
+  {
+    "topic": "Health Disparities",
+    "see": ""
+  },
+  {
+    "topic": "Health Equity",
+    "see": "Health Disparities"
+  },
+  {
+    "topic": "Health Facilities",
+    "see": ""
+  },
+  {
+    "topic": "Health Fraud",
+    "see": ""
+  },
+  {
+    "topic": "Health Insurance",
+    "see": ""
+  },
+  {
+    "topic": "Health Literacy",
+    "see": ""
+  },
+  {
+    "topic": "Health Maintenance Organizations",
+    "see": "Managed Care"
+  },
+  {
+    "topic": "Health Occupations",
+    "see": ""
+  },
+  {
+    "topic": "Health Problems in Pregnancy",
+    "see": ""
+  },
+  {
+    "topic": "Health Risks of an Inactive Lifestyle",
+    "see": ""
+  },
+  {
+    "topic": "Health Screening",
+    "see": ""
+  },
+  {
+    "topic": "Health Statistics",
+    "see": ""
+  },
+  {
+    "topic": "Healthcare-Associated Infections",
+    "see": "Infection Control"
+  },
+  {
+    "topic": "Healthy Aging",
+    "see": ""
+  },
+  {
+    "topic": "Healthy Eating",
+    "see": "Nutrition"
+  },
+  {
+    "topic": "Healthy Living",
+    "see": ""
+  },
+  {
+    "topic": "Healthy Sleep",
+    "see": ""
+  },
+  {
+    "topic": "Hearing Aids",
+    "see": ""
+  },
+  {
+    "topic": "Hearing Disorders and Deafness",
+    "see": ""
+  },
+  {
+    "topic": "Hearing Problems in Children",
+    "see": ""
+  },
+  {
+    "topic": "Heart Attack",
+    "see": ""
+  },
+  {
+    "topic": "Heart Defects",
+    "see": "Congenital Heart Defects"
+  },
+  {
+    "topic": "Heart Disease in Women",
+    "see": ""
+  },
+  {
+    "topic": "Heart Disease Prevention",
+    "see": "How to Prevent Heart Disease"
+  },
+  {
+    "topic": "Heart Diseases",
+    "see": ""
+  },
+  {
+    "topic": "Heart Diseases, Congenital",
+    "see": "Congenital Heart Defects"
+  },
+  {
+    "topic": "Heart Diseases--Rehabilitation",
+    "see": "Cardiac Rehabilitation"
+  },
+  {
+    "topic": "Heart Failure",
+    "see": ""
+  },
+  {
+    "topic": "Heart Health Tests",
+    "see": ""
+  },
+  {
+    "topic": "Heart Murmur",
+    "see": "Congenital Heart Defects; Heart Valve Diseases"
+  },
+  {
+    "topic": "Heart Rate",
+    "see": "Vital Signs"
+  },
+  {
+    "topic": "Heart Surgery",
+    "see": ""
+  },
+  {
+    "topic": "Heart Test",
+    "see": "Heart Health Tests"
+  },
+  {
+    "topic": "Heart Transplantation",
+    "see": ""
+  },
+  {
+    "topic": "Heart Valve Diseases",
+    "see": ""
+  },
+  {
+    "topic": "Heartburn",
+    "see": ""
+  },
+  {
+    "topic": "Heat Exhaustion",
+    "see": "Heat Illness"
+  },
+  {
+    "topic": "Heat Illness",
+    "see": ""
+  },
+  {
+    "topic": "Heel Injuries and Disorders",
+    "see": ""
+  },
+  {
+    "topic": "Heimlich Maneuver",
+    "see": "Choking"
+  },
+  {
+    "topic": "Helicobacter Pylori Infections",
+    "see": ""
+  },
+  {
+    "topic": "Hemangioma",
+    "see": "Benign Tumors; Birthmarks; Vascular Diseases"
+  },
+  {
+    "topic": "Hematologic Disorders",
+    "see": "Blood Disorders"
+  },
+  {
+    "topic": "Hematoma",
+    "see": "Bleeding"
+  },
+  {
+    "topic": "Hematuria",
+    "see": "Urinalysis"
+  },
+  {
+    "topic": "Hemiplegia",
+    "see": "Paralysis"
+  },
+  {
+    "topic": "Hemochromatosis",
+    "see": ""
+  },
+  {
+    "topic": "Hemodialysis",
+    "see": "Dialysis"
+  },
+  {
+    "topic": "Hemoglobin A1c",
+    "see": "A1C"
+  },
+  {
+    "topic": "Hemoglobin SS Disease",
+    "see": "Sickle Cell Disease"
+  },
+  {
+    "topic": "Hemolytic Disease of Newborn",
+    "see": "Rh Incompatibility"
+  },
+  {
+    "topic": "Hemophilia",
+    "see": ""
+  },
+  {
+    "topic": "Hemorrhage",
+    "see": "Bleeding"
+  },
+  {
+    "topic": "Hemorrhagic Fevers",
+    "see": ""
+  },
+  {
+    "topic": "Hemorrhagic Stroke",
+    "see": ""
+  },
+  {
+    "topic": "Hemorrhoids",
+    "see": ""
+  },
+  {
+    "topic": "Hepatic Diseases",
+    "see": "Liver Diseases"
+  },
+  {
+    "topic": "Hepatic Transplantation",
+    "see": "Liver Transplantation"
+  },
+  {
+    "topic": "Hepatitis",
+    "see": ""
+  },
+  {
+    "topic": "Hepatitis A",
+    "see": ""
+  },
+  {
+    "topic": "Hepatitis B",
+    "see": ""
+  },
+  {
+    "topic": "Hepatitis C",
+    "see": ""
+  },
+  {
+    "topic": "Hepatoblastoma",
+    "see": "Liver Cancer"
+  },
+  {
+    "topic": "Hepatocellular Carcinoma",
+    "see": "Liver Cancer"
+  },
+  {
+    "topic": "Hepatolenticular Degeneration",
+    "see": "Wilson Disease"
+  },
+  {
+    "topic": "Herbal Medicine",
+    "see": ""
+  },
+  {
+    "topic": "Herbicides",
+    "see": "Pesticides"
+  },
+  {
+    "topic": "Hernia",
+    "see": ""
+  },
+  {
+    "topic": "Herniated Disk",
+    "see": ""
+  },
+  {
+    "topic": "Heroin",
+    "see": ""
+  },
+  {
+    "topic": "Herpes Genitalis",
+    "see": "Genital Herpes"
+  },
+  {
+    "topic": "Herpes Simplex",
+    "see": ""
+  },
+  {
+    "topic": "Herpes Zoster",
+    "see": "Shingles"
+  },
+  {
+    "topic": "Herpes, Oral",
+    "see": "Cold Sores"
+  },
+  {
+    "topic": "Hiatal Hernia",
+    "see": ""
+  },
+  {
+    "topic": "Hib",
+    "see": "Haemophilus Infections"
+  },
+  {
+    "topic": "Hiccups",
+    "see": ""
+  },
+  {
+    "topic": "Hidradenitis Suppurativa",
+    "see": ""
+  },
+  {
+    "topic": "High Blood Glucose",
+    "see": "Hyperglycemia"
+  },
+  {
+    "topic": "High Blood Pressure",
+    "see": ""
+  },
+  {
+    "topic": "High Blood Pressure in Pregnancy",
+    "see": ""
+  },
+  {
+    "topic": "High Blood Pressure Medicines",
+    "see": "Blood Pressure Medicines"
+  },
+  {
+    "topic": "High Blood Pressure Prevention",
+    "see": "How to Prevent High Blood Pressure"
+  },
+  {
+    "topic": "High Blood Sugar",
+    "see": "Hyperglycemia"
+  },
+  {
+    "topic": "High Cholesterol in Children and Teens",
+    "see": ""
+  },
+  {
+    "topic": "High Risk Pregnancy",
+    "see": "Health Problems in Pregnancy"
+  },
+  {
+    "topic": "Hip Injuries and Disorders",
+    "see": ""
+  },
+  {
+    "topic": "Hip Replacement",
+    "see": ""
+  },
+  {
+    "topic": "HIPAA",
+    "see": "Health Insurance; Personal Health Records"
+  },
+  {
+    "topic": "Histoplasmosis",
+    "see": ""
+  },
+  {
+    "topic": "HIV",
+    "see": ""
+  },
+  {
+    "topic": "HIV and Infections",
+    "see": ""
+  },
+  {
+    "topic": "HIV and Pregnancy",
+    "see": ""
+  },
+  {
+    "topic": "HIV in Women",
+    "see": ""
+  },
+  {
+    "topic": "HIV Medicines",
+    "see": ""
+  },
+  {
+    "topic": "HIV--Living With",
+    "see": "Living with HIV"
+  },
+  {
+    "topic": "HIV: PrEP and PEP",
+    "see": ""
+  },
+  {
+    "topic": "Hives",
+    "see": ""
+  },
+  {
+    "topic": "HMO",
+    "see": "Managed Care"
+  },
+  {
+    "topic": "Hoarding",
+    "see": "Obsessive-Compulsive Disorder"
+  },
+  {
+    "topic": "Hodgkin Lymphoma",
+    "see": ""
+  },
+  {
+    "topic": "Home Care Services",
+    "see": ""
+  },
+  {
+    "topic": "Homelessness and Health",
+    "see": ""
+  },
+  {
+    "topic": "Homeopathy",
+    "see": "Complementary and Integrative Medicine"
+  },
+  {
+    "topic": "Hormone Replacement Therapy",
+    "see": ""
+  },
+  {
+    "topic": "Hormones",
+    "see": ""
+  },
+  {
+    "topic": "Horner Syndrome",
+    "see": "Autonomic Nervous System Disorders"
+  },
+  {
+    "topic": "Hospice Care",
+    "see": ""
+  },
+  {
+    "topic": "Hospital-Acquired Infections",
+    "see": "Occupational Health for Health Care Providers"
+  },
+  {
+    "topic": "Hospitals",
+    "see": "Health Facilities"
+  },
+  {
+    "topic": "Hot (Temperature)",
+    "see": "Fever; Heat Illness"
+  },
+  {
+    "topic": "Hot Flashes",
+    "see": "Menopause"
+  },
+  {
+    "topic": "Household Products",
+    "see": ""
+  },
+  {
+    "topic": "How Much Exercise Do I Need?",
+    "see": ""
+  },
+  {
+    "topic": "How to Improve Mental Health",
+    "see": ""
+  },
+  {
+    "topic": "How to Lower Cholesterol",
+    "see": ""
+  },
+  {
+    "topic": "How to Lower Cholesterol with Diet",
+    "see": ""
+  },
+  {
+    "topic": "How to Prevent Diabetes",
+    "see": ""
+  },
+  {
+    "topic": "How to Prevent Heart Disease",
+    "see": ""
+  },
+  {
+    "topic": "How to Prevent High Blood Pressure",
+    "see": ""
+  },
+  {
+    "topic": "HPV",
+    "see": ""
+  },
+  {
+    "topic": "HPV Vaccine",
+    "see": "HPV"
+  },
+  {
+    "topic": "HRT",
+    "see": "Hormone Replacement Therapy"
+  },
+  {
+    "topic": "Huffing",
+    "see": "Inhalants"
+  },
+  {
+    "topic": "Human Genome Project",
+    "see": "Genes and Gene Therapy"
+  },
+  {
+    "topic": "Human Immunodeficiency Virus",
+    "see": "HIV"
+  },
+  {
+    "topic": "Human Papillomavirus",
+    "see": "HPV"
+  },
+  {
+    "topic": "Huntington's Disease",
+    "see": ""
+  },
+  {
+    "topic": "Hurricanes",
+    "see": ""
+  },
+  {
+    "topic": "Hydrocephalus",
+    "see": ""
+  },
+  {
+    "topic": "Hydrophobia",
+    "see": "Rabies"
+  },
+  {
+    "topic": "Hyperactivity",
+    "see": "Attention Deficit Hyperactivity Disorder"
+  },
+  {
+    "topic": "Hyperbaric Oxygen",
+    "see": "Oxygen Therapy"
+  },
+  {
+    "topic": "Hypercalcemia",
+    "see": "Calcium"
+  },
+  {
+    "topic": "Hypercholesterolemia",
+    "see": "Cholesterol; Cholesterol Levels: What You Need to Know"
+  },
+  {
+    "topic": "Hypereosinophilic Syndrome",
+    "see": "Eosinophilic Disorders"
+  },
+  {
+    "topic": "Hyperglycemia",
+    "see": ""
+  },
+  {
+    "topic": "Hyperhidrosis",
+    "see": "Sweat"
+  },
+  {
+    "topic": "Hyperkalemia",
+    "see": "Potassium"
+  },
+  {
+    "topic": "Hyperlipidemia",
+    "see": "Cholesterol; Cholesterol Levels: What You Need to Know; Triglycerides"
+  },
+  {
+    "topic": "Hypermobility Syndrome",
+    "see": "Ehlers-Danlos Syndrome"
+  },
+  {
+    "topic": "Hypernephroma",
+    "see": "Kidney Cancer"
+  },
+  {
+    "topic": "Hyperopia",
+    "see": "Refractive Errors"
+  },
+  {
+    "topic": "Hyperparathyroidism",
+    "see": "Parathyroid Disorders"
+  },
+  {
+    "topic": "Hyperpigmentation",
+    "see": "Skin Pigmentation Disorders"
+  },
+  {
+    "topic": "Hypersensitivity",
+    "see": "Allergy"
+  },
+  {
+    "topic": "Hypertension",
+    "see": "High Blood Pressure"
+  },
+  {
+    "topic": "Hypertension, Pulmonary",
+    "see": "Pulmonary Hypertension"
+  },
+  {
+    "topic": "Hyperthyroidism",
+    "see": ""
+  },
+  {
+    "topic": "Hypertriglyceridemia",
+    "see": "Triglycerides"
+  },
+  {
+    "topic": "Hypertrophic Scar",
+    "see": "Scars"
+  },
+  {
+    "topic": "Hyperuricemia",
+    "see": "Gout"
+  },
+  {
+    "topic": "Hypocalcemia",
+    "see": "Calcium"
+  },
+  {
+    "topic": "Hypoglycemia",
+    "see": ""
+  },
+  {
+    "topic": "Hypoglycemic Medicines",
+    "see": "Diabetes Medicines"
+  },
+  {
+    "topic": "Hypokalemia",
+    "see": "Potassium"
+  },
+  {
+    "topic": "Hyponatremia",
+    "see": "Sodium"
+  },
+  {
+    "topic": "Hypoparathyroidism",
+    "see": "Parathyroid Disorders"
+  },
+  {
+    "topic": "Hypopharyngeal Cancer",
+    "see": "Throat Cancer"
+  },
+  {
+    "topic": "Hypopigmentation",
+    "see": "Skin Pigmentation Disorders"
+  },
+  {
+    "topic": "Hypotension",
+    "see": "Low Blood Pressure"
+  },
+  {
+    "topic": "Hypothermia",
+    "see": ""
+  },
+  {
+    "topic": "Hypothyroidism",
+    "see": ""
+  },
+  {
+    "topic": "Hysterectomy",
+    "see": ""
+  },
+  {
+    "topic": "IBS",
+    "see": "Irritable Bowel Syndrome"
+  },
+  {
+    "topic": "Icterus",
+    "see": "Jaundice"
+  },
+  {
+    "topic": "ICU",
+    "see": "Critical Care"
+  },
+  {
+    "topic": "Identifying health misinformation",
+    "see": "Evaluating Health Information"
+  },
+  {
+    "topic": "Ileostomy",
+    "see": "Ostomy"
+  },
+  {
+    "topic": "Immune System and Disorders",
+    "see": ""
+  },
+  {
+    "topic": "Immunization, Childhood",
+    "see": "Childhood Vaccines"
+  },
+  {
+    "topic": "Impacted Tooth",
+    "see": "Tooth Disorders"
+  },
+  {
+    "topic": "Impaired Driving",
+    "see": ""
+  },
+  {
+    "topic": "Impetigo",
+    "see": ""
+  },
+  {
+    "topic": "Implantable Defibrillators",
+    "see": "Pacemakers and Implantable Defibrillators"
+  },
+  {
+    "topic": "Impotence",
+    "see": "Erectile Dysfunction"
+  },
+  {
+    "topic": "In Vitro Fertilization",
+    "see": "Assisted Reproductive Technology"
+  },
+  {
+    "topic": "In-home Care",
+    "see": "Home Care Services"
+  },
+  {
+    "topic": "Incontinence",
+    "see": "Urinary Incontinence"
+  },
+  {
+    "topic": "Indigestion",
+    "see": ""
+  },
+  {
+    "topic": "Indoor Air Pollution",
+    "see": ""
+  },
+  {
+    "topic": "Infant and Newborn Care",
+    "see": ""
+  },
+  {
+    "topic": "Infant and Newborn Development",
+    "see": ""
+  },
+  {
+    "topic": "Infant and Newborn Nutrition",
+    "see": ""
+  },
+  {
+    "topic": "Infantile Paralysis",
+    "see": "Polio and Post-Polio Syndrome"
+  },
+  {
+    "topic": "Infection Control",
+    "see": ""
+  },
+  {
+    "topic": "Infections and Pregnancy",
+    "see": ""
+  },
+  {
+    "topic": "Infections, Bacterial",
+    "see": "Bacterial Infections"
+  },
+  {
+    "topic": "Infections, Bladder",
+    "see": "Urinary Tract Infections"
+  },
+  {
+    "topic": "Infections, Fungal",
+    "see": "Fungal Infections"
+  },
+  {
+    "topic": "Infections, Viral",
+    "see": "Viral Infections"
+  },
+  {
+    "topic": "Infectious Arthritis",
+    "see": ""
+  },
+  {
+    "topic": "Infectious Diseases",
+    "see": ""
+  },
+  {
+    "topic": "Infectious Mononucleosis",
+    "see": ""
+  },
+  {
+    "topic": "Infertility",
+    "see": ""
+  },
+  {
+    "topic": "Infertility, Female",
+    "see": "Female Infertility"
+  },
+  {
+    "topic": "Infertility, Male",
+    "see": "Male Infertility"
+  },
+  {
+    "topic": "Inflammatory Bowel Disease",
+    "see": "Crohn's Disease; Ulcerative Colitis"
+  },
+  {
+    "topic": "Influenza",
+    "see": "Flu"
+  },
+  {
+    "topic": "Influenza Vaccine",
+    "see": "Flu Shot"
+  },
+  {
+    "topic": "Informed Consent",
+    "see": "Patient Rights"
+  },
+  {
+    "topic": "Ingrown Nail",
+    "see": "Nail Diseases"
+  },
+  {
+    "topic": "Inguinal Hernia",
+    "see": "Hernia"
+  },
+  {
+    "topic": "Inhalants",
+    "see": ""
+  },
+  {
+    "topic": "Inhalation Injuries",
+    "see": ""
+  },
+  {
+    "topic": "Injuries",
+    "see": "Wounds and Injuries"
+  },
+  {
+    "topic": "Insect Bites and Stings",
+    "see": ""
+  },
+  {
+    "topic": "Insect Repellents",
+    "see": "Insect Bites and Stings"
+  },
+  {
+    "topic": "Insecticides",
+    "see": "Pesticides"
+  },
+  {
+    "topic": "Insomnia",
+    "see": ""
+  },
+  {
+    "topic": "Insulin",
+    "see": "Diabetes Medicines"
+  },
+  {
+    "topic": "Insulin Resistance",
+    "see": "Metabolic Syndrome; Prediabetes"
+  },
+  {
+    "topic": "Insulin-Dependent Diabetes Mellitus",
+    "see": "Diabetes Type 1"
+  },
+  {
+    "topic": "Insurance",
+    "see": "Health Insurance; Managed Care; Medicaid; Medicare"
+  },
+  {
+    "topic": "Integrative Medicine",
+    "see": "Complementary and Integrative Medicine"
+  },
+  {
+    "topic": "Intermittent Claudication",
+    "see": "Leg Injuries and Disorders; Peripheral Arterial Disease"
+  },
+  {
+    "topic": "International health",
+    "see": "Global Health"
+  },
+  {
+    "topic": "Interstitial Cystitis",
+    "see": ""
+  },
+  {
+    "topic": "Interstitial Lung Diseases",
+    "see": ""
+  },
+  {
+    "topic": "Interstitial Pneumonitis",
+    "see": "Interstitial Lung Diseases"
+  },
+  {
+    "topic": "Intestinal Cancer",
+    "see": ""
+  },
+  {
+    "topic": "Intestinal Diseases",
+    "see": "Colonic Diseases; Small Intestine Disorders"
+  },
+  {
+    "topic": "Intestinal Obstruction",
+    "see": ""
+  },
+  {
+    "topic": "Intestinal Volvulus",
+    "see": "Intestinal Obstruction"
+  },
+  {
+    "topic": "Intimate Partner Violence",
+    "see": ""
+  },
+  {
+    "topic": "Intracranial Aneurysm",
+    "see": "Brain Aneurysm"
+  },
+  {
+    "topic": "Intraocular Lens",
+    "see": "Cataract; Refractive Errors"
+  },
+  {
+    "topic": "Intraocular Melanoma",
+    "see": "Eye Cancer; Melanoma"
+  },
+  {
+    "topic": "Intussusception",
+    "see": "Intestinal Obstruction"
+  },
+  {
+    "topic": "Iron",
+    "see": ""
+  },
+  {
+    "topic": "Iron Deficiency Anemia",
+    "see": "Anemia"
+  },
+  {
+    "topic": "Iron Overload Disease",
+    "see": "Hemochromatosis"
+  },
+  {
+    "topic": "Irregular Heartbeat",
+    "see": "Arrhythmia"
+  },
+  {
+    "topic": "Irritable Bowel Syndrome",
+    "see": ""
+  },
+  {
+    "topic": "Ischemic Stroke",
+    "see": ""
+  },
+  {
+    "topic": "Islet Cell Carcinoma",
+    "see": "Pancreatic Cancer"
+  },
+  {
+    "topic": "Islet Cell Transplantation",
+    "see": ""
+  },
+  {
+    "topic": "Itching",
+    "see": ""
+  },
+  {
+    "topic": "IUD",
+    "see": "Birth Control"
+  },
+  {
+    "topic": "IVF",
+    "see": "Assisted Reproductive Technology"
+  },
+  {
+    "topic": "Jakob-Creutzfeldt Disease",
+    "see": "Creutzfeldt-Jakob Disease"
+  },
+  {
+    "topic": "Jaundice",
+    "see": ""
+  },
+  {
+    "topic": "Jaw Injuries and Disorders",
+    "see": ""
+  },
+  {
+    "topic": "Jet Lag",
+    "see": "Traveler's Health"
+  },
+  {
+    "topic": "Jock Itch",
+    "see": "Tinea Infections"
+  },
+  {
+    "topic": "Joint Disorders",
+    "see": ""
+  },
+  {
+    "topic": "Juvenile Arthritis",
+    "see": ""
+  },
+  {
+    "topic": "Juvenile Diabetes",
+    "see": "Diabetes Type 1"
+  },
+  {
+    "topic": "Juvenile Rheumatoid Arthritis",
+    "see": "Juvenile Arthritis"
+  },
+  {
+    "topic": "Kaposi Sarcoma",
+    "see": ""
+  },
+  {
+    "topic": "Kawasaki Disease",
+    "see": ""
+  },
+  {
+    "topic": "Keloids",
+    "see": "Scars"
+  },
+  {
+    "topic": "Kernicterus",
+    "see": "Jaundice"
+  },
+  {
+    "topic": "Kidney Biopsy",
+    "see": "Kidney Tests"
+  },
+  {
+    "topic": "Kidney Cancer",
+    "see": ""
+  },
+  {
+    "topic": "Kidney Cysts",
+    "see": ""
+  },
+  {
+    "topic": "Kidney Diseases",
+    "see": ""
+  },
+  {
+    "topic": "Kidney Failure",
+    "see": ""
+  },
+  {
+    "topic": "Kidney Function Tests",
+    "see": "Kidney Tests"
+  },
+  {
+    "topic": "Kidney Infections",
+    "see": "Urinary Tract Infections"
+  },
+  {
+    "topic": "Kidney Stones",
+    "see": ""
+  },
+  {
+    "topic": "Kidney Tests",
+    "see": ""
+  },
+  {
+    "topic": "Kidney Transplantation",
+    "see": ""
+  },
+  {
+    "topic": "Klinefelter Syndrome",
+    "see": ""
+  },
+  {
+    "topic": "Knee Injuries and Disorders",
+    "see": ""
+  },
+  {
+    "topic": "Knee Replacement",
+    "see": ""
+  },
+  {
+    "topic": "Kyphosis",
+    "see": "Spine Injuries and Disorders"
+  },
+  {
+    "topic": "Labor",
+    "see": "Childbirth"
+  },
+  {
+    "topic": "Laboratory Tests",
+    "see": ""
+  },
+  {
+    "topic": "Lacerations",
+    "see": "Wounds and Injuries"
+  },
+  {
+    "topic": "Lactose Intolerance",
+    "see": ""
+  },
+  {
+    "topic": "Language Problems",
+    "see": "Speech and Communication Disorders; Speech and Language Problems in Children"
+  },
+  {
+    "topic": "Large for Gestational Age",
+    "see": "Birth Weight"
+  },
+  {
+    "topic": "Laryngeal Cancer",
+    "see": "Throat Cancer"
+  },
+  {
+    "topic": "Laryngitis",
+    "see": "Throat Disorders; Voice Disorders"
+  },
+  {
+    "topic": "Laryngopharyngeal Cancer",
+    "see": "Throat Cancer"
+  },
+  {
+    "topic": "Laser Eye Surgery",
+    "see": ""
+  },
+  {
+    "topic": "LASIK",
+    "see": "Laser Eye Surgery"
+  },
+  {
+    "topic": "Lassa Fever",
+    "see": "Hemorrhagic Fevers"
+  },
+  {
+    "topic": "Latex Allergy",
+    "see": ""
+  },
+  {
+    "topic": "Lazy Eye",
+    "see": "Amblyopia"
+  },
+  {
+    "topic": "LDL: The \"Bad\" Cholesterol",
+    "see": ""
+  },
+  {
+    "topic": "lead exposure",
+    "see": "Lead Poisoning"
+  },
+  {
+    "topic": "Lead Poisoning",
+    "see": ""
+  },
+  {
+    "topic": "Learning Disabilities",
+    "see": ""
+  },
+  {
+    "topic": "Leg Cramps",
+    "see": "Leg Injuries and Disorders; Muscle Cramps"
+  },
+  {
+    "topic": "Leg Injuries and Disorders",
+    "see": ""
+  },
+  {
+    "topic": "Legg-Calve-Perthes Disease",
+    "see": "Osteonecrosis"
+  },
+  {
+    "topic": "Legionnaires' Disease",
+    "see": ""
+  },
+  {
+    "topic": "Leishmaniasis",
+    "see": ""
+  },
+  {
+    "topic": "Leprosy",
+    "see": "Mycobacterial Infections"
+  },
+  {
+    "topic": "Leukemia",
+    "see": ""
+  },
+  {
+    "topic": "Leukemia, Acute Lymphoblastic",
+    "see": "Acute Lymphocytic Leukemia"
+  },
+  {
+    "topic": "Leukemia, Acute Lymphocytic",
+    "see": "Acute Lymphocytic Leukemia"
+  },
+  {
+    "topic": "Leukemia, Childhood",
+    "see": "Childhood Leukemia"
+  },
+  {
+    "topic": "Leukemia, Chronic Lymphocytic",
+    "see": "Chronic Lymphocytic Leukemia"
+  },
+  {
+    "topic": "Leukemia, Myeloblastic, Acute",
+    "see": "Acute Myeloid Leukemia"
+  },
+  {
+    "topic": "Leukemia, Myelogenous, Acute",
+    "see": "Acute Myeloid Leukemia"
+  },
+  {
+    "topic": "Leukemia, Myeloid, Acute",
+    "see": "Acute Myeloid Leukemia"
+  },
+  {
+    "topic": "Leukemia, Myeloid, Chronic",
+    "see": "Chronic Myeloid Leukemia"
+  },
+  {
+    "topic": "Leukodystrophies",
+    "see": ""
+  },
+  {
+    "topic": "Lewy Body Dementia",
+    "see": ""
+  },
+  {
+    "topic": "Life Support",
+    "see": "Critical Care"
+  },
+  {
+    "topic": "Ligament Injuries",
+    "see": "Sprains and Strains"
+  },
+  {
+    "topic": "Lightning Strikes",
+    "see": "Electrical Injuries"
+  },
+  {
+    "topic": "Limb Loss",
+    "see": ""
+  },
+  {
+    "topic": "Lipid Metabolism Disorders",
+    "see": ""
+  },
+  {
+    "topic": "Listeria Infections",
+    "see": ""
+  },
+  {
+    "topic": "Liver Cancer",
+    "see": ""
+  },
+  {
+    "topic": "Liver Cirrhosis",
+    "see": "Cirrhosis"
+  },
+  {
+    "topic": "Liver Diseases",
+    "see": ""
+  },
+  {
+    "topic": "Liver Spots",
+    "see": "Skin Aging"
+  },
+  {
+    "topic": "Liver Transplantation",
+    "see": ""
+  },
+  {
+    "topic": "Living Wills",
+    "see": "Advance Directives"
+  },
+  {
+    "topic": "Living with Cancer",
+    "see": "Cancer--Living with Cancer"
+  },
+  {
+    "topic": "Living with HIV",
+    "see": ""
+  },
+  {
+    "topic": "Lockjaw",
+    "see": "Tetanus"
+  },
+  {
+    "topic": "Long COVID",
+    "see": "Post-COVID Conditions (Long COVID)"
+  },
+  {
+    "topic": "Long-Term Care",
+    "see": "Assisted Living; Nursing Homes"
+  },
+  {
+    "topic": "Lou Gehrig's Disease",
+    "see": "Amyotrophic Lateral Sclerosis"
+  },
+  {
+    "topic": "Low Back Pain",
+    "see": "Back Pain"
+  },
+  {
+    "topic": "Low Birth Weight",
+    "see": "Birth Weight"
+  },
+  {
+    "topic": "Low Blood Pressure",
+    "see": ""
+  },
+  {
+    "topic": "Low Blood Sugar",
+    "see": "Hypoglycemia"
+  },
+  {
+    "topic": "Low Cholesterol Diet",
+    "see": "How to Lower Cholesterol with Diet"
+  },
+  {
+    "topic": "Low Sperm Count",
+    "see": "Male Infertility"
+  },
+  {
+    "topic": "Low Vision",
+    "see": "Vision Impairment and Blindness"
+  },
+  {
+    "topic": "LTK",
+    "see": "Laser Eye Surgery"
+  },
+  {
+    "topic": "Lumbago",
+    "see": "Back Pain"
+  },
+  {
+    "topic": "Lumpectomy",
+    "see": "Mastectomy"
+  },
+  {
+    "topic": "Lung Cancer",
+    "see": ""
+  },
+  {
+    "topic": "Lung Diseases",
+    "see": ""
+  },
+  {
+    "topic": "Lung Rehabilitation",
+    "see": "Pulmonary Rehabilitation"
+  },
+  {
+    "topic": "Lung Transplantation",
+    "see": ""
+  },
+  {
+    "topic": "Lupus",
+    "see": ""
+  },
+  {
+    "topic": "Lyme Disease",
+    "see": ""
+  },
+  {
+    "topic": "Lymph Nodes",
+    "see": "Lymphatic Diseases"
+  },
+  {
+    "topic": "Lymphatic Diseases",
+    "see": ""
+  },
+  {
+    "topic": "Lymphatic Obstruction",
+    "see": "Lymphedema"
+  },
+  {
+    "topic": "Lymphedema",
+    "see": ""
+  },
+  {
+    "topic": "Lymphoma",
+    "see": ""
+  },
+  {
+    "topic": "Macular Degeneration",
+    "see": ""
+  },
+  {
+    "topic": "Mad Cow Disease",
+    "see": "Creutzfeldt-Jakob Disease"
+  },
+  {
+    "topic": "Magnesium",
+    "see": "Minerals"
+  },
+  {
+    "topic": "Magnetic Resonance Imaging",
+    "see": "MRI Scans"
+  },
+  {
+    "topic": "Makeup",
+    "see": "Cosmetics"
+  },
+  {
+    "topic": "Malabsorption Syndromes",
+    "see": ""
+  },
+  {
+    "topic": "Malaria",
+    "see": ""
+  },
+  {
+    "topic": "Male Breast Cancer",
+    "see": ""
+  },
+  {
+    "topic": "Male Genital Disorders",
+    "see": "Penis Disorders; Testicular Disorders"
+  },
+  {
+    "topic": "Male Infertility",
+    "see": ""
+  },
+  {
+    "topic": "Male Sterilization",
+    "see": "Vasectomy"
+  },
+  {
+    "topic": "Malignancy",
+    "see": "Cancer"
+  },
+  {
+    "topic": "Malnutrition",
+    "see": ""
+  },
+  {
+    "topic": "Mammaplasty",
+    "see": "Breast Reconstruction"
+  },
+  {
+    "topic": "Mammography",
+    "see": ""
+  },
+  {
+    "topic": "Man-Made Disasters",
+    "see": "Biodefense and Bioterrorism; Chemical Emergencies; Radiation Emergencies"
+  },
+  {
+    "topic": "Managed Care",
+    "see": ""
+  },
+  {
+    "topic": "Mandibular Disorders",
+    "see": "Jaw Injuries and Disorders"
+  },
+  {
+    "topic": "Manic-Depressive Illness",
+    "see": "Bipolar Disorder"
+  },
+  {
+    "topic": "Maple Syrup Urine Disease",
+    "see": "Genetic Brain Disorders"
+  },
+  {
+    "topic": "Marfan Syndrome",
+    "see": ""
+  },
+  {
+    "topic": "Marijuana",
+    "see": ""
+  },
+  {
+    "topic": "Mastectomy",
+    "see": ""
+  },
+  {
+    "topic": "Maternal Health",
+    "see": "Postpartum Care"
+  },
+  {
+    "topic": "Maxillary Disorders",
+    "see": "Jaw Injuries and Disorders"
+  },
+  {
+    "topic": "MCI",
+    "see": "Mild Cognitive Impairment"
+  },
+  {
+    "topic": "MDMA",
+    "see": "Club Drugs"
+  },
+  {
+    "topic": "MDS",
+    "see": "Myelodysplastic Syndromes"
+  },
+  {
+    "topic": "Measles",
+    "see": ""
+  },
+  {
+    "topic": "Mediastinal Disorders",
+    "see": "Chest Injuries and Disorders"
+  },
+  {
+    "topic": "Medicaid",
+    "see": ""
+  },
+  {
+    "topic": "Medical Device Safety",
+    "see": ""
+  },
+  {
+    "topic": "Medical Ethics",
+    "see": ""
+  },
+  {
+    "topic": "Medical Professions",
+    "see": "Health Occupations"
+  },
+  {
+    "topic": "Medical Research",
+    "see": "Understanding Medical Research"
+  },
+  {
+    "topic": "Medicare",
+    "see": ""
+  },
+  {
+    "topic": "Medication Errors",
+    "see": ""
+  },
+  {
+    "topic": "Medicinal Herbs",
+    "see": "Herbal Medicine"
+  },
+  {
+    "topic": "Medicines",
+    "see": ""
+  },
+  {
+    "topic": "Medicines and Children",
+    "see": ""
+  },
+  {
+    "topic": "Medicines and Pregnancy",
+    "see": "Pregnancy and Medicines"
+  },
+  {
+    "topic": "Medicines, Over-the-Counter",
+    "see": "Over-the-Counter Medicines"
+  },
+  {
+    "topic": "Mediterranean Anemia",
+    "see": "Thalassemia"
+  },
+  {
+    "topic": "Melanoma",
+    "see": ""
+  },
+  {
+    "topic": "Memory",
+    "see": ""
+  },
+  {
+    "topic": "Men's Health",
+    "see": ""
+  },
+  {
+    "topic": "Meniere's Disease",
+    "see": ""
+  },
+  {
+    "topic": "Meningioma",
+    "see": "Brain Tumors"
+  },
+  {
+    "topic": "Meningitis",
+    "see": ""
+  },
+  {
+    "topic": "Meningococcal Disease",
+    "see": ""
+  },
+  {
+    "topic": "Meningococcal Infections",
+    "see": "Meningococcal Disease"
+  },
+  {
+    "topic": "Meningococcemia",
+    "see": "Meningococcal Disease"
+  },
+  {
+    "topic": "Meniscus",
+    "see": "Knee Injuries and Disorders"
+  },
+  {
+    "topic": "Menopausal Hormone Therapy",
+    "see": "Hormone Replacement Therapy"
+  },
+  {
+    "topic": "Menopause",
+    "see": ""
+  },
+  {
+    "topic": "Menstruation",
+    "see": ""
+  },
+  {
+    "topic": "Mental Disorders",
+    "see": ""
+  },
+  {
+    "topic": "Mental Health",
+    "see": ""
+  },
+  {
+    "topic": "Mental Health, Child",
+    "see": "Child Mental Health"
+  },
+  {
+    "topic": "Mental Health, Older Adults",
+    "see": "Older Adult Mental Health"
+  },
+  {
+    "topic": "Mental Health, Teen",
+    "see": "Teen Mental Health"
+  },
+  {
+    "topic": "Mental Retardation",
+    "see": "Developmental Disabilities"
+  },
+  {
+    "topic": "Mercury",
+    "see": ""
+  },
+  {
+    "topic": "Merkel Cell Cancer",
+    "see": "Skin Cancer"
+  },
+  {
+    "topic": "Mesothelioma",
+    "see": ""
+  },
+  {
+    "topic": "Metabolic Disorders",
+    "see": ""
+  },
+  {
+    "topic": "Metabolic Syndrome",
+    "see": ""
+  },
+  {
+    "topic": "Methadone",
+    "see": "Pain Relievers"
+  },
+  {
+    "topic": "Methamphetamine",
+    "see": ""
+  },
+  {
+    "topic": "Methicillin Resistant Staphylococcus Aureus",
+    "see": "MRSA"
+  },
+  {
+    "topic": "MI",
+    "see": "Heart Attack"
+  },
+  {
+    "topic": "Micturition",
+    "see": "Urine and Urination"
+  },
+  {
+    "topic": "Migraine",
+    "see": ""
+  },
+  {
+    "topic": "Mild Cognitive Impairment",
+    "see": ""
+  },
+  {
+    "topic": "Military Health",
+    "see": "Veterans and Military Health"
+  },
+  {
+    "topic": "Milk Allergy",
+    "see": "Food Allergy"
+  },
+  {
+    "topic": "Milk Intolerance",
+    "see": "Lactose Intolerance"
+  },
+  {
+    "topic": "Minerals",
+    "see": ""
+  },
+  {
+    "topic": "Mini-Stroke",
+    "see": "Transient Ischemic Attack"
+  },
+  {
+    "topic": "Miscarriage",
+    "see": ""
+  },
+  {
+    "topic": "Mitochondrial Diseases",
+    "see": ""
+  },
+  {
+    "topic": "Mitral Valve Prolapse",
+    "see": ""
+  },
+  {
+    "topic": "Mixed Connective Tissue Disease",
+    "see": "Connective Tissue Disorders"
+  },
+  {
+    "topic": "Mobility Aids",
+    "see": ""
+  },
+  {
+    "topic": "Molar Pregnancy",
+    "see": "Tumors and Pregnancy"
+  },
+  {
+    "topic": "Molds",
+    "see": ""
+  },
+  {
+    "topic": "Moles",
+    "see": ""
+  },
+  {
+    "topic": "Molluscum Contagiosum",
+    "see": "Skin Infections"
+  },
+  {
+    "topic": "Moniliasis",
+    "see": "Yeast Infections"
+  },
+  {
+    "topic": "Monkeypox",
+    "see": "Mpox"
+  },
+  {
+    "topic": "Mono",
+    "see": "Infectious Mononucleosis"
+  },
+  {
+    "topic": "Mononucleosis",
+    "see": "Infectious Mononucleosis"
+  },
+  {
+    "topic": "Mood Disorders",
+    "see": ""
+  },
+  {
+    "topic": "Morphea",
+    "see": "Scleroderma"
+  },
+  {
+    "topic": "Morton's Neuroma",
+    "see": "Foot Injuries and Disorders"
+  },
+  {
+    "topic": "Mosquito Bites",
+    "see": ""
+  },
+  {
+    "topic": "Motion Sickness",
+    "see": ""
+  },
+  {
+    "topic": "Motor Vehicle Safety",
+    "see": ""
+  },
+  {
+    "topic": "Mouth Cancer",
+    "see": "Oral Cancer"
+  },
+  {
+    "topic": "Mouth Disorders",
+    "see": ""
+  },
+  {
+    "topic": "Movement Disorders",
+    "see": ""
+  },
+  {
+    "topic": "Mpox",
+    "see": ""
+  },
+  {
+    "topic": "MRI Scans",
+    "see": ""
+  },
+  {
+    "topic": "MRSA",
+    "see": ""
+  },
+  {
+    "topic": "MS",
+    "see": "Multiple Sclerosis"
+  },
+  {
+    "topic": "Mucocutaneous Lymph Node Syndrome",
+    "see": "Kawasaki Disease"
+  },
+  {
+    "topic": "Mucolipidoses",
+    "see": "Metabolic Disorders"
+  },
+  {
+    "topic": "Mucopolysaccharidoses",
+    "see": "Carbohydrate Metabolism Disorders"
+  },
+  {
+    "topic": "Multifocal Atrial Tachycardia",
+    "see": "Arrhythmia"
+  },
+  {
+    "topic": "Multiple Births",
+    "see": "Twins, Triplets, Multiple Births"
+  },
+  {
+    "topic": "Multiple Endocrine Neoplasia",
+    "see": "Endocrine Diseases; Parathyroid Disorders"
+  },
+  {
+    "topic": "Multiple Myeloma",
+    "see": ""
+  },
+  {
+    "topic": "Multiple Sclerosis",
+    "see": ""
+  },
+  {
+    "topic": "Multiple System Atrophy",
+    "see": "Autonomic Nervous System Disorders"
+  },
+  {
+    "topic": "Mumps",
+    "see": ""
+  },
+  {
+    "topic": "Muscle Cramps",
+    "see": ""
+  },
+  {
+    "topic": "Muscle Disorders",
+    "see": ""
+  },
+  {
+    "topic": "Muscle Strain",
+    "see": "Sprains and Strains"
+  },
+  {
+    "topic": "Muscular Dystrophy",
+    "see": ""
+  },
+  {
+    "topic": "Myalgic Encephalomyelitis/Chronic Fatigue Syndrome",
+    "see": ""
+  },
+  {
+    "topic": "Myasthenia Gravis",
+    "see": ""
+  },
+  {
+    "topic": "Mycobacterial Infections",
+    "see": ""
+  },
+  {
+    "topic": "Mycoses",
+    "see": "Fungal Infections"
+  },
+  {
+    "topic": "Myelodysplastic Syndromes",
+    "see": ""
+  },
+  {
+    "topic": "Myelomeningocele",
+    "see": "Spina Bifida"
+  },
+  {
+    "topic": "Myeloproliferative Disorders",
+    "see": "Bone Marrow Diseases"
+  },
+  {
+    "topic": "Myocardial Infarction",
+    "see": "Heart Attack"
+  },
+  {
+    "topic": "Myopathies",
+    "see": "Muscle Disorders"
+  },
+  {
+    "topic": "Myopia",
+    "see": "Refractive Errors"
+  },
+  {
+    "topic": "Myositis",
+    "see": ""
+  },
+  {
+    "topic": "Nail Diseases",
+    "see": ""
+  },
+  {
+    "topic": "Narcissism",
+    "see": "Personality Disorders"
+  },
+  {
+    "topic": "Narcolepsy",
+    "see": "Sleep Disorders"
+  },
+  {
+    "topic": "Narcotics",
+    "see": "Pain Relievers"
+  },
+  {
+    "topic": "Nasal Cancer",
+    "see": ""
+  },
+  {
+    "topic": "Nasal Disorders",
+    "see": "Nose Injuries and Disorders"
+  },
+  {
+    "topic": "Nasopharyngeal Cancer",
+    "see": "Throat Cancer"
+  },
+  {
+    "topic": "Natural Disasters",
+    "see": "Earthquakes; Floods; Hurricanes; Tornadoes; Tsunamis; Volcanoes; Winter Weather Emergencies"
+  },
+  {
+    "topic": "Nausea and Vomiting",
+    "see": ""
+  },
+  {
+    "topic": "Nearsightedness",
+    "see": "Refractive Errors"
+  },
+  {
+    "topic": "Neck Injuries and Disorders",
+    "see": ""
+  },
+  {
+    "topic": "Necrotizing Fasciitis",
+    "see": "Bacterial Infections"
+  },
+  {
+    "topic": "Neoplasms",
+    "see": "Cancer"
+  },
+  {
+    "topic": "Nephritis",
+    "see": "Kidney Diseases"
+  },
+  {
+    "topic": "Nephroblastoma",
+    "see": "Wilms Tumor"
+  },
+  {
+    "topic": "Nephrolithiasis",
+    "see": "Kidney Stones"
+  },
+  {
+    "topic": "Nerve Diseases",
+    "see": "Neurologic Diseases"
+  },
+  {
+    "topic": "Nervous System Diseases",
+    "see": "Neurologic Diseases"
+  },
+  {
+    "topic": "Neural Tube Defects",
+    "see": ""
+  },
+  {
+    "topic": "Neuroblastoma",
+    "see": ""
+  },
+  {
+    "topic": "Neurodegenerative Diseases",
+    "see": "Degenerative Nerve Diseases"
+  },
+  {
+    "topic": "Neurofibromatosis",
+    "see": ""
+  },
+  {
+    "topic": "Neurogenic Bladder",
+    "see": "Bladder Diseases"
+  },
+  {
+    "topic": "Neurologic Diseases",
+    "see": ""
+  },
+  {
+    "topic": "Neuroma, Acoustic",
+    "see": "Acoustic Neuroma"
+  },
+  {
+    "topic": "Neuromuscular Disorders",
+    "see": ""
+  },
+  {
+    "topic": "Neuropathy",
+    "see": "Diabetic Nerve Problems; Peripheral Nerve Disorders"
+  },
+  {
+    "topic": "Nevus",
+    "see": "Birthmarks; Moles"
+  },
+  {
+    "topic": "Newborn Screening",
+    "see": ""
+  },
+  {
+    "topic": "Niacin",
+    "see": "B Vitamins"
+  },
+  {
+    "topic": "Nicotine",
+    "see": "Smoking"
+  },
+  {
+    "topic": "Niemann-Pick Disease",
+    "see": "Genetic Brain Disorders"
+  },
+  {
+    "topic": "Night Terrors",
+    "see": "Sleep Disorders"
+  },
+  {
+    "topic": "Noise",
+    "see": ""
+  },
+  {
+    "topic": "Non-Drug Pain Management",
+    "see": ""
+  },
+  {
+    "topic": "Non-Hodgkin Lymphoma",
+    "see": "Lymphoma"
+  },
+  {
+    "topic": "Non-Insulin Dependent Diabetes Mellitus",
+    "see": "Diabetes Type 2"
+  },
+  {
+    "topic": "Non-Prescription Drugs",
+    "see": "Over-the-Counter Medicines"
+  },
+  {
+    "topic": "Non-Small Cell Lung Cancer",
+    "see": "Lung Cancer"
+  },
+  {
+    "topic": "Nonalcoholic Fatty Liver Disease",
+    "see": "Fatty Liver Disease"
+  },
+  {
+    "topic": "Nontropical Sprue",
+    "see": "Celiac Disease"
+  },
+  {
+    "topic": "Norovirus Infections",
+    "see": ""
+  },
+  {
+    "topic": "Norwalk Virus Infections",
+    "see": "Norovirus Infections"
+  },
+  {
+    "topic": "Nose Injuries and Disorders",
+    "see": ""
+  },
+  {
+    "topic": "Nosebleed",
+    "see": "Nose Injuries and Disorders"
+  },
+  {
+    "topic": "Nuclear Scans",
+    "see": ""
+  },
+  {
+    "topic": "Nursing Homes",
+    "see": ""
+  },
+  {
+    "topic": "Nut Allergy",
+    "see": "Food Allergy"
+  },
+  {
+    "topic": "Nutrition",
+    "see": ""
+  },
+  {
+    "topic": "Nutrition and Pregnancy",
+    "see": "Pregnancy and Nutrition"
+  },
+  {
+    "topic": "Nutrition for Older Adults",
+    "see": ""
+  },
+  {
+    "topic": "Nutrition Labeling",
+    "see": "Food Labeling"
+  },
+  {
+    "topic": "Nutrition, Child",
+    "see": "Child Nutrition"
+  },
+  {
+    "topic": "Nutritional Support",
+    "see": ""
+  },
+  {
+    "topic": "Nystagmus",
+    "see": "Eye Movement Disorders"
+  },
+  {
+    "topic": "Obesity",
+    "see": ""
+  },
+  {
+    "topic": "Obesity in Children",
+    "see": ""
+  },
+  {
+    "topic": "Obesity Surgery",
+    "see": "Weight Loss Surgery"
+  },
+  {
+    "topic": "Obsessive-Compulsive Disorder",
+    "see": ""
+  },
+  {
+    "topic": "Occupational Health",
+    "see": ""
+  },
+  {
+    "topic": "Occupational Health for Health Care Providers",
+    "see": ""
+  },
+  {
+    "topic": "Occupational Injuries",
+    "see": "Occupational Health"
+  },
+  {
+    "topic": "Occupational Therapy",
+    "see": "Rehabilitation"
+  },
+  {
+    "topic": "OCD",
+    "see": "Obsessive-Compulsive Disorder"
+  },
+  {
+    "topic": "Oil Spills",
+    "see": ""
+  },
+  {
+    "topic": "Older Adult Health",
+    "see": ""
+  },
+  {
+    "topic": "Older Adult Mental Health",
+    "see": ""
+  },
+  {
+    "topic": "Ombudsman Programs",
+    "see": "Patient Rights"
+  },
+  {
+    "topic": "Omega-3 Fatty Acids",
+    "see": "Dietary Fats"
+  },
+  {
+    "topic": "Oncology",
+    "see": "Cancer"
+  },
+  {
+    "topic": "Onychomycosis",
+    "see": "Nail Diseases"
+  },
+  {
+    "topic": "Open Heart Surgery",
+    "see": "Heart Surgery"
+  },
+  {
+    "topic": "Open Spine",
+    "see": "Spina Bifida"
+  },
+  {
+    "topic": "Operation",
+    "see": "Surgery"
+  },
+  {
+    "topic": "Ophthalmology",
+    "see": "Eye Diseases"
+  },
+  {
+    "topic": "Opiates",
+    "see": "Heroin; Opioids and Opioid Use Disorder (OUD)"
+  },
+  {
+    "topic": "Opioid Abuse and Addiction",
+    "see": "Opioids and Opioid Use Disorder (OUD)"
+  },
+  {
+    "topic": "Opioid Abuse and Addiction Treatment",
+    "see": "Opioid Use Disorder (OUD) Treatment"
+  },
+  {
+    "topic": "Opioid Overdose",
+    "see": ""
+  },
+  {
+    "topic": "Opioid Use Disorder (OUD) Treatment",
+    "see": ""
+  },
+  {
+    "topic": "Opioids and Opioid Use Disorder (OUD)",
+    "see": ""
+  },
+  {
+    "topic": "Opportunistic Infections in AIDS",
+    "see": "HIV and Infections"
+  },
+  {
+    "topic": "Optic Nerve Disorders",
+    "see": ""
+  },
+  {
+    "topic": "Oral Cancer",
+    "see": ""
+  },
+  {
+    "topic": "Oral Health",
+    "see": "Dental Health"
+  },
+  {
+    "topic": "Oral Health, Child",
+    "see": "Child Dental Health"
+  },
+  {
+    "topic": "Oral Herpes",
+    "see": "Cold Sores"
+  },
+  {
+    "topic": "Oral Tobacco",
+    "see": "Smokeless Tobacco"
+  },
+  {
+    "topic": "Organ Donation",
+    "see": ""
+  },
+  {
+    "topic": "Organ Transplantation",
+    "see": ""
+  },
+  {
+    "topic": "Oropharyngeal Cancer",
+    "see": "Throat Cancer"
+  },
+  {
+    "topic": "Orthodontia",
+    "see": ""
+  },
+  {
+    "topic": "Orthostatic Hypotension",
+    "see": "Autonomic Nervous System Disorders; Low Blood Pressure"
+  },
+  {
+    "topic": "Osteitis Deformans",
+    "see": "Paget's Disease of Bone"
+  },
+  {
+    "topic": "Osteoarthritis",
+    "see": ""
+  },
+  {
+    "topic": "Osteogenesis Imperfecta",
+    "see": ""
+  },
+  {
+    "topic": "Osteomalacia",
+    "see": "Vitamin D Deficiency"
+  },
+  {
+    "topic": "Osteomyelitis",
+    "see": "Bone Infections"
+  },
+  {
+    "topic": "Osteonecrosis",
+    "see": ""
+  },
+  {
+    "topic": "Osteopenia",
+    "see": "Bone Density"
+  },
+  {
+    "topic": "Osteoporosis",
+    "see": ""
+  },
+  {
+    "topic": "Osteosarcoma",
+    "see": "Bone Cancer"
+  },
+  {
+    "topic": "Ostomy",
+    "see": ""
+  },
+  {
+    "topic": "OTC Medicines",
+    "see": "Over-the-Counter Medicines"
+  },
+  {
+    "topic": "Otitis Media",
+    "see": "Ear Infections"
+  },
+  {
+    "topic": "Ovarian Cancer",
+    "see": ""
+  },
+  {
+    "topic": "Ovarian Cysts",
+    "see": ""
+  },
+  {
+    "topic": "Ovarian Disorders",
+    "see": ""
+  },
+  {
+    "topic": "Ovarian Insufficiency",
+    "see": "Ovarian Disorders; Primary Ovarian Insufficiency"
+  },
+  {
+    "topic": "Over-the-Counter Medicines",
+    "see": ""
+  },
+  {
+    "topic": "Overactive Bladder",
+    "see": ""
+  },
+  {
+    "topic": "Overactive Thyroid",
+    "see": "Hyperthyroidism"
+  },
+  {
+    "topic": "Overweight",
+    "see": "Body Weight; Obesity"
+  },
+  {
+    "topic": "Oxygen Therapy",
+    "see": ""
+  },
+  {
+    "topic": "Ozone",
+    "see": ""
+  },
+  {
+    "topic": "Pacemakers and Implantable Defibrillators",
+    "see": ""
+  },
+  {
+    "topic": "PAD",
+    "see": "Peripheral Arterial Disease"
+  },
+  {
+    "topic": "Paget's Disease of Bone",
+    "see": ""
+  },
+  {
+    "topic": "Paget's Disease of Breast",
+    "see": "Breast Cancer"
+  },
+  {
+    "topic": "Pain",
+    "see": ""
+  },
+  {
+    "topic": "Pain Relievers",
+    "see": ""
+  },
+  {
+    "topic": "Pain, Abdominal",
+    "see": "Abdominal Pain"
+  },
+  {
+    "topic": "Pain, Back",
+    "see": "Back Pain"
+  },
+  {
+    "topic": "Pain, Chest",
+    "see": "Chest Pain"
+  },
+  {
+    "topic": "Pain, Chronic",
+    "see": "Chronic Pain"
+  },
+  {
+    "topic": "Painful Bladder Syndrome",
+    "see": "Interstitial Cystitis"
+  },
+  {
+    "topic": "Painkillers",
+    "see": "Pain Relievers"
+  },
+  {
+    "topic": "Palliative Care",
+    "see": ""
+  },
+  {
+    "topic": "Pancreas Transplantation",
+    "see": ""
+  },
+  {
+    "topic": "Pancreatic Cancer",
+    "see": ""
+  },
+  {
+    "topic": "Pancreatic Diseases",
+    "see": ""
+  },
+  {
+    "topic": "Pancreatitis",
+    "see": ""
+  },
+  {
+    "topic": "Panic Disorder",
+    "see": ""
+  },
+  {
+    "topic": "Pantothenic Acid",
+    "see": "B Vitamins"
+  },
+  {
+    "topic": "Paralysis",
+    "see": ""
+  },
+  {
+    "topic": "Paralysis Agitans",
+    "see": "Parkinson's Disease"
+  },
+  {
+    "topic": "Paralysis, Infantile",
+    "see": "Polio and Post-Polio Syndrome"
+  },
+  {
+    "topic": "Paralytic Ileus",
+    "see": "Intestinal Obstruction"
+  },
+  {
+    "topic": "Paranasal Sinus Cancer",
+    "see": "Nasal Cancer"
+  },
+  {
+    "topic": "Paraplegia",
+    "see": "Paralysis"
+  },
+  {
+    "topic": "Parasitic Diseases",
+    "see": ""
+  },
+  {
+    "topic": "Parathyroid Disorders",
+    "see": ""
+  },
+  {
+    "topic": "Parenteral Nutrition",
+    "see": "Nutritional Support"
+  },
+  {
+    "topic": "Parenting",
+    "see": ""
+  },
+  {
+    "topic": "Parkinson's Disease",
+    "see": ""
+  },
+  {
+    "topic": "Paronychia",
+    "see": "Nail Diseases"
+  },
+  {
+    "topic": "Parotid Gland Cancer",
+    "see": "Salivary Gland Cancer"
+  },
+  {
+    "topic": "Parotid Gland Disorders",
+    "see": "Salivary Gland Disorders"
+  },
+  {
+    "topic": "Partner Abuse",
+    "see": "Intimate Partner Violence"
+  },
+  {
+    "topic": "Parvovirus B19",
+    "see": "Fifth Disease"
+  },
+  {
+    "topic": "Passive Smoking",
+    "see": "Secondhand Smoke"
+  },
+  {
+    "topic": "Patella",
+    "see": "Knee Injuries and Disorders"
+  },
+  {
+    "topic": "Paternity Testing",
+    "see": "Genetic Testing"
+  },
+  {
+    "topic": "Pathological Gambling",
+    "see": "Compulsive Gambling"
+  },
+  {
+    "topic": "Patient Portals",
+    "see": "Personal Health Records"
+  },
+  {
+    "topic": "Patient Records",
+    "see": "Personal Health Records"
+  },
+  {
+    "topic": "Patient Rights",
+    "see": ""
+  },
+  {
+    "topic": "Patient Safety",
+    "see": ""
+  },
+  {
+    "topic": "PCOS",
+    "see": "Polycystic Ovary Syndrome"
+  },
+  {
+    "topic": "Peanut Allergy",
+    "see": "Food Allergy"
+  },
+  {
+    "topic": "Pediatrics",
+    "see": "Children's Health"
+  },
+  {
+    "topic": "Pee",
+    "see": "Urine and Urination"
+  },
+  {
+    "topic": "Pelvic Exam",
+    "see": "Women's Health Checkup"
+  },
+  {
+    "topic": "Pelvic Floor Disorders",
+    "see": ""
+  },
+  {
+    "topic": "Pelvic Inflammatory Disease",
+    "see": ""
+  },
+  {
+    "topic": "Pelvic Pain",
+    "see": ""
+  },
+  {
+    "topic": "Pelvis",
+    "see": "Hip Injuries and Disorders"
+  },
+  {
+    "topic": "Pemphigoid",
+    "see": "Pemphigus"
+  },
+  {
+    "topic": "Pemphigus",
+    "see": ""
+  },
+  {
+    "topic": "Penile Disorders",
+    "see": "Penis Disorders"
+  },
+  {
+    "topic": "Penis Disorders",
+    "see": ""
+  },
+  {
+    "topic": "PEP",
+    "see": "HIV: PrEP and PEP"
+  },
+  {
+    "topic": "Peptic Ulcer",
+    "see": ""
+  },
+  {
+    "topic": "Performance-Enhancing Drugs",
+    "see": "Anabolic Steroids; Sports Fitness"
+  },
+  {
+    "topic": "Pericardial Disorders",
+    "see": ""
+  },
+  {
+    "topic": "Pericardial Effusion",
+    "see": "Pericardial Disorders"
+  },
+  {
+    "topic": "Pericarditis",
+    "see": "Pericardial Disorders"
+  },
+  {
+    "topic": "Perimenopause",
+    "see": "Menopause"
+  },
+  {
+    "topic": "Period Pain",
+    "see": ""
+  },
+  {
+    "topic": "Periodontal Disease",
+    "see": "Gum Disease"
+  },
+  {
+    "topic": "Peripheral Arterial Disease",
+    "see": ""
+  },
+  {
+    "topic": "Peripheral Nerve Disorders",
+    "see": ""
+  },
+  {
+    "topic": "Peritoneal Dialysis",
+    "see": "Dialysis"
+  },
+  {
+    "topic": "Peritoneal Disorders",
+    "see": ""
+  },
+  {
+    "topic": "Peritonitis",
+    "see": "Peritoneal Disorders"
+  },
+  {
+    "topic": "Persian Gulf War",
+    "see": "Veterans and Military Health"
+  },
+  {
+    "topic": "Persistent Vegetative State",
+    "see": "Coma"
+  },
+  {
+    "topic": "Personal Health Records",
+    "see": ""
+  },
+  {
+    "topic": "Personality Disorders",
+    "see": ""
+  },
+  {
+    "topic": "Perspiration",
+    "see": "Sweat"
+  },
+  {
+    "topic": "Pertussis",
+    "see": "Whooping Cough"
+  },
+  {
+    "topic": "Pervasive Developmental Disorder",
+    "see": "Autism Spectrum Disorder"
+  },
+  {
+    "topic": "Pesticides",
+    "see": ""
+  },
+  {
+    "topic": "Pet Health",
+    "see": ""
+  },
+  {
+    "topic": "PET Scans",
+    "see": "Nuclear Scans"
+  },
+  {
+    "topic": "Pets",
+    "see": "Pet Health"
+  },
+  {
+    "topic": "Peyronie's Disease",
+    "see": "Penis Disorders"
+  },
+  {
+    "topic": "Pfiesteria Infections",
+    "see": "Water Pollution"
+  },
+  {
+    "topic": "Phantom Limb",
+    "see": "Limb Loss"
+  },
+  {
+    "topic": "Pharyngeal Cancer",
+    "see": "Throat Cancer"
+  },
+  {
+    "topic": "Pharyngitis",
+    "see": "Sore Throat"
+  },
+  {
+    "topic": "Pharynx Disorders",
+    "see": "Throat Disorders"
+  },
+  {
+    "topic": "Phenylketonuria",
+    "see": ""
+  },
+  {
+    "topic": "Pheochromocytoma",
+    "see": ""
+  },
+  {
+    "topic": "Phobias",
+    "see": ""
+  },
+  {
+    "topic": "Physical Fitness",
+    "see": "Exercise and Physical Fitness"
+  },
+  {
+    "topic": "Physical Therapy",
+    "see": "Rehabilitation"
+  },
+  {
+    "topic": "Phytotherapy",
+    "see": "Herbal Medicine"
+  },
+  {
+    "topic": "Pica",
+    "see": "Eating Disorders"
+  },
+  {
+    "topic": "PID",
+    "see": "Pelvic Inflammatory Disease"
+  },
+  {
+    "topic": "Piercing and Tattoos",
+    "see": ""
+  },
+  {
+    "topic": "Piles",
+    "see": "Hemorrhoids"
+  },
+  {
+    "topic": "Pilonidal Cyst",
+    "see": "Tailbone Disorders"
+  },
+  {
+    "topic": "Pimples",
+    "see": "Acne"
+  },
+  {
+    "topic": "Pinguecula",
+    "see": "Eye Diseases"
+  },
+  {
+    "topic": "Pink Eye",
+    "see": ""
+  },
+  {
+    "topic": "Pinworms",
+    "see": ""
+  },
+  {
+    "topic": "Pituitary Disorders",
+    "see": ""
+  },
+  {
+    "topic": "Pituitary Tumors",
+    "see": ""
+  },
+  {
+    "topic": "PKU",
+    "see": "Phenylketonuria"
+  },
+  {
+    "topic": "Plague",
+    "see": ""
+  },
+  {
+    "topic": "Plantar Fasciitis",
+    "see": "Heel Injuries and Disorders"
+  },
+  {
+    "topic": "Plantar Warts",
+    "see": "Warts"
+  },
+  {
+    "topic": "Plaque, Atherosclerotic",
+    "see": "Atherosclerosis"
+  },
+  {
+    "topic": "Plaque, Dental",
+    "see": "Gum Disease; Tooth Decay"
+  },
+  {
+    "topic": "Plasma-cell Myeloma",
+    "see": "Multiple Myeloma"
+  },
+  {
+    "topic": "Plasmacytoma",
+    "see": "Multiple Myeloma"
+  },
+  {
+    "topic": "Plastic and Cosmetic Surgery",
+    "see": ""
+  },
+  {
+    "topic": "Platelet Disorders",
+    "see": ""
+  },
+  {
+    "topic": "Pleural Disorders",
+    "see": ""
+  },
+  {
+    "topic": "Pleural Effusion",
+    "see": "Pleural Disorders"
+  },
+  {
+    "topic": "Pleurisy",
+    "see": "Pleural Disorders"
+  },
+  {
+    "topic": "Plumbism",
+    "see": "Lead Poisoning"
+  },
+  {
+    "topic": "PMS",
+    "see": "Premenstrual Syndrome"
+  },
+  {
+    "topic": "Pneumococcal Infections",
+    "see": ""
+  },
+  {
+    "topic": "Pneumoconiosis",
+    "see": "Interstitial Lung Diseases"
+  },
+  {
+    "topic": "Pneumocystis Infections",
+    "see": ""
+  },
+  {
+    "topic": "Pneumonia",
+    "see": ""
+  },
+  {
+    "topic": "Pneumonic Plague",
+    "see": "Plague"
+  },
+  {
+    "topic": "Pneumothorax",
+    "see": "Collapsed Lung; Pleural Disorders"
+  },
+  {
+    "topic": "Poison Ivy, Oak, and Sumac",
+    "see": ""
+  },
+  {
+    "topic": "Poison Oak",
+    "see": "Poison Ivy, Oak, and Sumac"
+  },
+  {
+    "topic": "Poison Sumac",
+    "see": "Poison Ivy, Oak, and Sumac"
+  },
+  {
+    "topic": "Poisoning",
+    "see": ""
+  },
+  {
+    "topic": "Poisons in the Home",
+    "see": "Household Products"
+  },
+  {
+    "topic": "Polio and Post-Polio Syndrome",
+    "see": ""
+  },
+  {
+    "topic": "Poliomyelitis",
+    "see": "Polio and Post-Polio Syndrome"
+  },
+  {
+    "topic": "Pollen Allergy",
+    "see": "Hay Fever"
+  },
+  {
+    "topic": "Pollution",
+    "see": "Air Pollution; Indoor Air Pollution; Water Pollution"
+  },
+  {
+    "topic": "Polychondritis",
+    "see": "Cartilage Disorders"
+  },
+  {
+    "topic": "Polycystic Kidney Disease",
+    "see": "Kidney Cysts; Kidney Diseases"
+  },
+  {
+    "topic": "Polycystic Ovary Syndrome",
+    "see": ""
+  },
+  {
+    "topic": "Polymyalgia Rheumatica",
+    "see": ""
+  },
+  {
+    "topic": "Polymyositis",
+    "see": "Myositis"
+  },
+  {
+    "topic": "Poop",
+    "see": "Bowel Movement"
+  },
+  {
+    "topic": "Porphyria",
+    "see": ""
+  },
+  {
+    "topic": "Positional Plagiocephaly",
+    "see": "Craniofacial Abnormalities"
+  },
+  {
+    "topic": "Post-COVID Conditions (Long COVID)",
+    "see": ""
+  },
+  {
+    "topic": "Post-herpetic Neuralgia",
+    "see": "Shingles"
+  },
+  {
+    "topic": "Post-polio Syndrome",
+    "see": "Polio and Post-Polio Syndrome"
+  },
+  {
+    "topic": "Post-Traumatic Stress Disorder",
+    "see": ""
+  },
+  {
+    "topic": "Post-Treatment Lyme Disease Syndrome",
+    "see": "Lyme Disease"
+  },
+  {
+    "topic": "Postoperative Care",
+    "see": "After Surgery"
+  },
+  {
+    "topic": "Postpartum Care",
+    "see": ""
+  },
+  {
+    "topic": "Postpartum Depression",
+    "see": ""
+  },
+  {
+    "topic": "Postural Orthostatic Tachycardia Syndrome",
+    "see": "Autonomic Nervous System Disorders"
+  },
+  {
+    "topic": "Posture",
+    "see": "Guide to Good Posture"
+  },
+  {
+    "topic": "Potassium",
+    "see": ""
+  },
+  {
+    "topic": "PPS",
+    "see": "Polio and Post-Polio Syndrome"
+  },
+  {
+    "topic": "Prader-Willi Syndrome",
+    "see": ""
+  },
+  {
+    "topic": "Preconception Care",
+    "see": ""
+  },
+  {
+    "topic": "Prediabetes",
+    "see": ""
+  },
+  {
+    "topic": "Prednisone",
+    "see": "Steroids"
+  },
+  {
+    "topic": "Preeclampsia",
+    "see": "High Blood Pressure in Pregnancy"
+  },
+  {
+    "topic": "Preemies",
+    "see": "Premature Babies"
+  },
+  {
+    "topic": "Pregnancy",
+    "see": ""
+  },
+  {
+    "topic": "Pregnancy and AIDS",
+    "see": "HIV and Pregnancy"
+  },
+  {
+    "topic": "Pregnancy and Diabetes",
+    "see": "Diabetes and Pregnancy"
+  },
+  {
+    "topic": "Pregnancy and Health Problems",
+    "see": "Health Problems in Pregnancy"
+  },
+  {
+    "topic": "Pregnancy and HIV",
+    "see": "HIV and Pregnancy"
+  },
+  {
+    "topic": "Pregnancy and Medicines",
+    "see": ""
+  },
+  {
+    "topic": "Pregnancy and Nutrition",
+    "see": ""
+  },
+  {
+    "topic": "Pregnancy and Opioids",
+    "see": ""
+  },
+  {
+    "topic": "Pregnancy and Substance Abuse",
+    "see": "Pregnancy and Substance Use"
+  },
+  {
+    "topic": "Pregnancy and Substance Use",
+    "see": ""
+  },
+  {
+    "topic": "Pregnancy Complications",
+    "see": "Health Problems in Pregnancy"
+  },
+  {
+    "topic": "Pregnancy Hazards",
+    "see": "Reproductive Hazards"
+  },
+  {
+    "topic": "Pregnancy Loss",
+    "see": "Miscarriage; Stillbirth"
+  },
+  {
+    "topic": "Pregnancy, High-Risk",
+    "see": "Health Problems in Pregnancy"
+  },
+  {
+    "topic": "Pregnancy, Infections in",
+    "see": "Infections and Pregnancy"
+  },
+  {
+    "topic": "Pregnancy, Teen",
+    "see": "Teenage Pregnancy"
+  },
+  {
+    "topic": "Premature Babies",
+    "see": ""
+  },
+  {
+    "topic": "Premature Birth",
+    "see": "Preterm Labor"
+  },
+  {
+    "topic": "Premature Ejaculation",
+    "see": "Sexual Problems in Men"
+  },
+  {
+    "topic": "Premature Labor",
+    "see": "Childbirth Problems; Preterm Labor"
+  },
+  {
+    "topic": "Premature Menopause",
+    "see": "Menopause"
+  },
+  {
+    "topic": "Premature Ovarian Failure",
+    "see": "Primary Ovarian Insufficiency"
+  },
+  {
+    "topic": "Premenstrual Syndrome",
+    "see": ""
+  },
+  {
+    "topic": "Prenatal Care",
+    "see": ""
+  },
+  {
+    "topic": "Prenatal Testing",
+    "see": ""
+  },
+  {
+    "topic": "PrEP",
+    "see": "HIV: PrEP and PEP"
+  },
+  {
+    "topic": "Presbycusis",
+    "see": "Hearing Disorders and Deafness"
+  },
+  {
+    "topic": "Presbyopia",
+    "see": "Refractive Errors"
+  },
+  {
+    "topic": "Prescription Drug Abuse",
+    "see": "Prescription Drug Misuse"
+  },
+  {
+    "topic": "Prescription Drug Misuse",
+    "see": ""
+  },
+  {
+    "topic": "Pressure Sores",
+    "see": ""
+  },
+  {
+    "topic": "Preterm Labor",
+    "see": ""
+  },
+  {
+    "topic": "Prevention",
+    "see": "Healthy Living"
+  },
+  {
+    "topic": "Primary Immunodeficiency Diseases",
+    "see": "Immune System and Disorders"
+  },
+  {
+    "topic": "Primary Ovarian Insufficiency",
+    "see": ""
+  },
+  {
+    "topic": "Primary Peritoneal Cancer",
+    "see": "Ovarian Cancer"
+  },
+  {
+    "topic": "Primary Pulmonary Hypertension",
+    "see": "Pulmonary Hypertension"
+  },
+  {
+    "topic": "Prion Diseases",
+    "see": "Creutzfeldt-Jakob Disease; Degenerative Nerve Diseases"
+  },
+  {
+    "topic": "Privacy",
+    "see": "Patient Rights; Personal Health Records"
+  },
+  {
+    "topic": "PRK",
+    "see": "Laser Eye Surgery"
+  },
+  {
+    "topic": "Proctitis",
+    "see": "Rectal Disorders"
+  },
+  {
+    "topic": "Progeria",
+    "see": "Genetic Disorders"
+  },
+  {
+    "topic": "Progressive Supranuclear Palsy",
+    "see": ""
+  },
+  {
+    "topic": "Prolactinoma",
+    "see": "Pituitary Tumors"
+  },
+  {
+    "topic": "Prostate Cancer",
+    "see": ""
+  },
+  {
+    "topic": "Prostate Cancer Screening",
+    "see": ""
+  },
+  {
+    "topic": "Prostate Diseases",
+    "see": ""
+  },
+  {
+    "topic": "Prosthetic Limbs",
+    "see": "Artificial Limbs"
+  },
+  {
+    "topic": "Protective Eye Wear",
+    "see": "Eye Injuries; Eye Wear"
+  },
+  {
+    "topic": "Proteins",
+    "see": "Dietary Proteins"
+  },
+  {
+    "topic": "Proteinuria",
+    "see": "Urinalysis"
+  },
+  {
+    "topic": "Pruritus",
+    "see": "Itching"
+  },
+  {
+    "topic": "Pruritus Ani",
+    "see": "Anal Disorders"
+  },
+  {
+    "topic": "Pseudogout",
+    "see": "Gout"
+  },
+  {
+    "topic": "Psoriasis",
+    "see": ""
+  },
+  {
+    "topic": "Psoriatic Arthritis",
+    "see": ""
+  },
+  {
+    "topic": "Psychiatric Disorders",
+    "see": "Mental Disorders"
+  },
+  {
+    "topic": "Psychological Stress",
+    "see": "Stress"
+  },
+  {
+    "topic": "Psychotic Disorders",
+    "see": ""
+  },
+  {
+    "topic": "Ptosis",
+    "see": "Eyelid Disorders"
+  },
+  {
+    "topic": "PTSD",
+    "see": "Post-Traumatic Stress Disorder"
+  },
+  {
+    "topic": "Puberty",
+    "see": ""
+  },
+  {
+    "topic": "Pubic Lice",
+    "see": ""
+  },
+  {
+    "topic": "Pulmonary Arterial Hypertension",
+    "see": "Pulmonary Hypertension"
+  },
+  {
+    "topic": "Pulmonary Embolism",
+    "see": ""
+  },
+  {
+    "topic": "Pulmonary Emphysema",
+    "see": "Emphysema"
+  },
+  {
+    "topic": "Pulmonary Fibrosis",
+    "see": ""
+  },
+  {
+    "topic": "Pulmonary Hypertension",
+    "see": ""
+  },
+  {
+    "topic": "Pulmonary Rehabilitation",
+    "see": ""
+  },
+  {
+    "topic": "Pulse",
+    "see": "Vital Signs"
+  },
+  {
+    "topic": "PXE",
+    "see": "Connective Tissue Disorders"
+  },
+  {
+    "topic": "Pyelonephritis",
+    "see": "Urinary Tract Infections"
+  },
+  {
+    "topic": "Pyrexia",
+    "see": "Fever"
+  },
+  {
+    "topic": "Q Fever",
+    "see": "Bacterial Infections"
+  },
+  {
+    "topic": "Quackery",
+    "see": "Health Fraud"
+  },
+  {
+    "topic": "Quadriplegia",
+    "see": "Paralysis"
+  },
+  {
+    "topic": "Quitting Smoking",
+    "see": ""
+  },
+  {
+    "topic": "Rabies",
+    "see": ""
+  },
+  {
+    "topic": "Radiation Emergencies",
+    "see": ""
+  },
+  {
+    "topic": "Radiation Exposure",
+    "see": ""
+  },
+  {
+    "topic": "Radiation Therapy",
+    "see": ""
+  },
+  {
+    "topic": "Radiography",
+    "see": "X-Rays"
+  },
+  {
+    "topic": "Radionuclide Scans",
+    "see": "Nuclear Scans"
+  },
+  {
+    "topic": "Radiosurgery",
+    "see": "Radiation Therapy"
+  },
+  {
+    "topic": "Radiotherapy",
+    "see": "Radiation Therapy"
+  },
+  {
+    "topic": "Radon",
+    "see": ""
+  },
+  {
+    "topic": "Rape",
+    "see": "Sexual Assault"
+  },
+  {
+    "topic": "Rare Diseases",
+    "see": ""
+  },
+  {
+    "topic": "Rashes",
+    "see": ""
+  },
+  {
+    "topic": "Raynaud Phenomenon",
+    "see": ""
+  },
+  {
+    "topic": "Raynaud's Disease",
+    "see": "Raynaud Phenomenon"
+  },
+  {
+    "topic": "Raynaud's Syndrome",
+    "see": "Raynaud Phenomenon"
+  },
+  {
+    "topic": "Reactive Arthritis",
+    "see": "Infectious Arthritis"
+  },
+  {
+    "topic": "Reading Problems",
+    "see": "Learning Disabilities"
+  },
+  {
+    "topic": "Recreational Safety",
+    "see": "Sports Safety; Water Safety (Recreational)"
+  },
+  {
+    "topic": "Rectal Bleeding",
+    "see": "Gastrointestinal Bleeding"
+  },
+  {
+    "topic": "Rectal Cancer",
+    "see": "Colorectal Cancer"
+  },
+  {
+    "topic": "Rectal Disorders",
+    "see": ""
+  },
+  {
+    "topic": "Rectocele",
+    "see": "Rectal Disorders"
+  },
+  {
+    "topic": "Reflex Sympathetic Dystrophy",
+    "see": "Complex Regional Pain Syndrome"
+  },
+  {
+    "topic": "Reflux in Children",
+    "see": ""
+  },
+  {
+    "topic": "Reflux in Infants",
+    "see": ""
+  },
+  {
+    "topic": "Refractive Errors",
+    "see": ""
+  },
+  {
+    "topic": "Regional Enteritis",
+    "see": "Crohn's Disease"
+  },
+  {
+    "topic": "Regional Ileitis",
+    "see": "Crohn's Disease"
+  },
+  {
+    "topic": "Rehabilitation",
+    "see": ""
+  },
+  {
+    "topic": "Reiter's Syndrome",
+    "see": "Infectious Arthritis"
+  },
+  {
+    "topic": "Renal Cancer",
+    "see": "Kidney Cancer"
+  },
+  {
+    "topic": "Renal Dialysis",
+    "see": "Dialysis"
+  },
+  {
+    "topic": "Renal Disease",
+    "see": "Kidney Diseases"
+  },
+  {
+    "topic": "Renal Failure",
+    "see": "Kidney Failure"
+  },
+  {
+    "topic": "Renal Transplantation",
+    "see": "Kidney Transplantation"
+  },
+  {
+    "topic": "Repetitive Motion Injuries",
+    "see": "Ergonomics"
+  },
+  {
+    "topic": "Reproductive Hazards",
+    "see": ""
+  },
+  {
+    "topic": "Residential Care",
+    "see": "Assisted Living"
+  },
+  {
+    "topic": "Respiratory Diseases",
+    "see": "Lung Diseases"
+  },
+  {
+    "topic": "Respiratory Failure",
+    "see": ""
+  },
+  {
+    "topic": "Respiratory Syncytial Virus Infections",
+    "see": ""
+  },
+  {
+    "topic": "Restless Legs",
+    "see": ""
+  },
+  {
+    "topic": "Resuscitation Orders",
+    "see": "Advance Directives"
+  },
+  {
+    "topic": "Retinal Detachment",
+    "see": ""
+  },
+  {
+    "topic": "Retinal Disorders",
+    "see": ""
+  },
+  {
+    "topic": "Retinoblastoma",
+    "see": "Eye Cancer"
+  },
+  {
+    "topic": "Retinol",
+    "see": "Vitamin A"
+  },
+  {
+    "topic": "Rett Syndrome",
+    "see": ""
+  },
+  {
+    "topic": "Reye Syndrome",
+    "see": ""
+  },
+  {
+    "topic": "Rh Incompatibility",
+    "see": ""
+  },
+  {
+    "topic": "Rhabdomyolysis",
+    "see": "Muscle Disorders"
+  },
+  {
+    "topic": "Rhabdomyosarcoma",
+    "see": "Soft Tissue Sarcoma"
+  },
+  {
+    "topic": "Rheumatic Fever",
+    "see": "Streptococcal Infections"
+  },
+  {
+    "topic": "Rheumatoid Arthritis",
+    "see": ""
+  },
+  {
+    "topic": "Rheumatoid Spondylitis",
+    "see": "Ankylosing Spondylitis"
+  },
+  {
+    "topic": "Rib Injuries",
+    "see": "Chest Injuries and Disorders"
+  },
+  {
+    "topic": "Riboflavin",
+    "see": "B Vitamins"
+  },
+  {
+    "topic": "Rickets",
+    "see": ""
+  },
+  {
+    "topic": "Ringworm",
+    "see": "Tinea Infections"
+  },
+  {
+    "topic": "RLS",
+    "see": "Restless Legs"
+  },
+  {
+    "topic": "Rocky Mountain Spotted Fever",
+    "see": "Tick Bites"
+  },
+  {
+    "topic": "Rodenticides",
+    "see": "Pesticides"
+  },
+  {
+    "topic": "Roentgen Rays",
+    "see": "X-Rays"
+  },
+  {
+    "topic": "Rohypnol",
+    "see": "Club Drugs"
+  },
+  {
+    "topic": "Root Canal",
+    "see": "Tooth Disorders"
+  },
+  {
+    "topic": "Rosacea",
+    "see": ""
+  },
+  {
+    "topic": "Roseola",
+    "see": "Viral Infections"
+  },
+  {
+    "topic": "Rotator Cuff Injuries",
+    "see": ""
+  },
+  {
+    "topic": "Rotavirus Infections",
+    "see": ""
+  },
+  {
+    "topic": "RSV Infections",
+    "see": "Respiratory Syncytial Virus Infections"
+  },
+  {
+    "topic": "Rubella",
+    "see": ""
+  },
+  {
+    "topic": "Rubeola",
+    "see": "Measles"
+  },
+  {
+    "topic": "Runaways",
+    "see": "Homelessness and Health"
+  },
+  {
+    "topic": "Ruptured Disk",
+    "see": "Herniated Disk"
+  },
+  {
+    "topic": "Rural Health Concerns",
+    "see": ""
+  },
+  {
+    "topic": "SAD",
+    "see": "Seasonal Affective Disorder"
+  },
+  {
+    "topic": "Safe Opioid Use",
+    "see": ""
+  },
+  {
+    "topic": "Safety",
+    "see": ""
+  },
+  {
+    "topic": "Safety, Child",
+    "see": "Child Safety"
+  },
+  {
+    "topic": "Salivary Gland Cancer",
+    "see": ""
+  },
+  {
+    "topic": "Salivary Gland Disorders",
+    "see": ""
+  },
+  {
+    "topic": "Salmonella Infections",
+    "see": ""
+  },
+  {
+    "topic": "Salt",
+    "see": "Sodium"
+  },
+  {
+    "topic": "Sarcoidosis",
+    "see": ""
+  },
+  {
+    "topic": "Sarcoma, Ewing's",
+    "see": "Bone Cancer"
+  },
+  {
+    "topic": "Sarcoma, Soft Tissue",
+    "see": "Soft Tissue Sarcoma"
+  },
+  {
+    "topic": "SCA",
+    "see": "Sudden Cardiac Arrest"
+  },
+  {
+    "topic": "Scabies",
+    "see": ""
+  },
+  {
+    "topic": "Scapula Injuries",
+    "see": "Shoulder Injuries and Disorders"
+  },
+  {
+    "topic": "Scarlet Fever",
+    "see": "Streptococcal Infections"
+  },
+  {
+    "topic": "Scars",
+    "see": ""
+  },
+  {
+    "topic": "Schizophrenia",
+    "see": ""
+  },
+  {
+    "topic": "School Health",
+    "see": ""
+  },
+  {
+    "topic": "Sciatica",
+    "see": ""
+  },
+  {
+    "topic": "SCID",
+    "see": "Immune System and Disorders"
+  },
+  {
+    "topic": "Scleroderma",
+    "see": ""
+  },
+  {
+    "topic": "Scoliosis",
+    "see": ""
+  },
+  {
+    "topic": "Screening Tests",
+    "see": "Health Screening"
+  },
+  {
+    "topic": "Screening, Newborn",
+    "see": "Newborn Screening"
+  },
+  {
+    "topic": "Seasickness",
+    "see": "Motion Sickness"
+  },
+  {
+    "topic": "Seasonal Affective Disorder",
+    "see": ""
+  },
+  {
+    "topic": "Seasonal Allergies",
+    "see": "Hay Fever"
+  },
+  {
+    "topic": "Seborrheic Dermatitis",
+    "see": "Dandruff, Cradle Cap, and Other Scalp Conditions"
+  },
+  {
+    "topic": "Second Opinion",
+    "see": "Patient Rights; Surgery; Talking With Your Doctor"
+  },
+  {
+    "topic": "Secondhand Smoke",
+    "see": ""
+  },
+  {
+    "topic": "Seizures",
+    "see": ""
+  },
+  {
+    "topic": "Selenium",
+    "see": "Minerals"
+  },
+  {
+    "topic": "Self-Harm",
+    "see": ""
+  },
+  {
+    "topic": "Semen",
+    "see": "Testicular Disorders"
+  },
+  {
+    "topic": "Seminoma",
+    "see": "Testicular Cancer"
+  },
+  {
+    "topic": "Senility",
+    "see": "Dementia"
+  },
+  {
+    "topic": "Seniors' Fitness",
+    "see": "Exercise for Older Adults"
+  },
+  {
+    "topic": "Seniors' Mental Health",
+    "see": "Older Adult Mental Health"
+  },
+  {
+    "topic": "Seniors' Nutrition",
+    "see": "Nutrition for Older Adults"
+  },
+  {
+    "topic": "Sepsis",
+    "see": ""
+  },
+  {
+    "topic": "Septic Arthritis",
+    "see": "Infectious Arthritis"
+  },
+  {
+    "topic": "Septic Shock",
+    "see": "Sepsis; Shock"
+  },
+  {
+    "topic": "Septic Systems",
+    "see": "Water Pollution"
+  },
+  {
+    "topic": "Septicemia",
+    "see": "Sepsis"
+  },
+  {
+    "topic": "Severe Combined Immunodeficiency",
+    "see": "Immune System and Disorders"
+  },
+  {
+    "topic": "Sewage",
+    "see": "Water Pollution"
+  },
+  {
+    "topic": "Sex",
+    "see": "Sexual Health"
+  },
+  {
+    "topic": "Sexual Abuse of Children",
+    "see": "Child Sexual Abuse"
+  },
+  {
+    "topic": "Sexual Assault",
+    "see": ""
+  },
+  {
+    "topic": "Sexual Health",
+    "see": ""
+  },
+  {
+    "topic": "Sexual Health, Teen",
+    "see": "Teen Sexual Health"
+  },
+  {
+    "topic": "Sexual Problems in Men",
+    "see": ""
+  },
+  {
+    "topic": "Sexual Problems in Women",
+    "see": ""
+  },
+  {
+    "topic": "Sexually Transmitted Diseases",
+    "see": "Sexually Transmitted Infections"
+  },
+  {
+    "topic": "Sexually Transmitted Infections",
+    "see": ""
+  },
+  {
+    "topic": "Shaken Baby Syndrome",
+    "see": "Child Abuse"
+  },
+  {
+    "topic": "Shaking Palsy",
+    "see": "Parkinson's Disease"
+  },
+  {
+    "topic": "Shellfish Allergy",
+    "see": "Food Allergy"
+  },
+  {
+    "topic": "Shingles",
+    "see": ""
+  },
+  {
+    "topic": "Shock",
+    "see": ""
+  },
+  {
+    "topic": "Shoes",
+    "see": "Foot Health"
+  },
+  {
+    "topic": "Shortness of Breath",
+    "see": "Breathing Problems"
+  },
+  {
+    "topic": "Shoulder Dislocation",
+    "see": "Dislocated Shoulder"
+  },
+  {
+    "topic": "Shoulder Impingement",
+    "see": "Rotator Cuff Injuries"
+  },
+  {
+    "topic": "Shoulder Injuries and Disorders",
+    "see": ""
+  },
+  {
+    "topic": "Shy-Drager Syndrome",
+    "see": "Autonomic Nervous System Disorders; Low Blood Pressure"
+  },
+  {
+    "topic": "Sickle Cell Anemia",
+    "see": "Sickle Cell Disease"
+  },
+  {
+    "topic": "Sickle Cell Disease",
+    "see": ""
+  },
+  {
+    "topic": "SIDS",
+    "see": "Sudden Infant Death Syndrome"
+  },
+  {
+    "topic": "Sigmoidoscopy",
+    "see": "Colonoscopy"
+  },
+  {
+    "topic": "Singultus",
+    "see": "Hiccups"
+  },
+  {
+    "topic": "Sinus Cancer",
+    "see": "Nasal Cancer"
+  },
+  {
+    "topic": "Sinus Infection",
+    "see": "Sinusitis"
+  },
+  {
+    "topic": "Sinusitis",
+    "see": ""
+  },
+  {
+    "topic": "Sjogren's Disease",
+    "see": "Sjogren's Syndrome"
+  },
+  {
+    "topic": "Sjogren's Syndrome",
+    "see": ""
+  },
+  {
+    "topic": "Skin Aging",
+    "see": ""
+  },
+  {
+    "topic": "Skin Cancer",
+    "see": ""
+  },
+  {
+    "topic": "Skin Conditions",
+    "see": ""
+  },
+  {
+    "topic": "Skin Infections",
+    "see": ""
+  },
+  {
+    "topic": "Skin Pigmentation Disorders",
+    "see": ""
+  },
+  {
+    "topic": "Skin Rash",
+    "see": "Rashes"
+  },
+  {
+    "topic": "Skull Fractures",
+    "see": "Head Injuries"
+  },
+  {
+    "topic": "Skull Injuries",
+    "see": "Head Injuries"
+  },
+  {
+    "topic": "SLE",
+    "see": "Lupus"
+  },
+  {
+    "topic": "Sleep Apnea",
+    "see": ""
+  },
+  {
+    "topic": "Sleep Disorders",
+    "see": ""
+  },
+  {
+    "topic": "Sleep Hygeine",
+    "see": "Healthy Sleep"
+  },
+  {
+    "topic": "Sleep-disordered Breathing",
+    "see": "Sleep Apnea"
+  },
+  {
+    "topic": "Slipped Disk",
+    "see": "Herniated Disk"
+  },
+  {
+    "topic": "SMA",
+    "see": "Spinal Muscular Atrophy"
+  },
+  {
+    "topic": "Small Cell Lung Cancer",
+    "see": "Lung Cancer"
+  },
+  {
+    "topic": "Small for Gestational Age",
+    "see": "Birth Weight"
+  },
+  {
+    "topic": "Small Intestine Cancer",
+    "see": "Intestinal Cancer"
+  },
+  {
+    "topic": "Small Intestine Disorders",
+    "see": ""
+  },
+  {
+    "topic": "Smallpox",
+    "see": ""
+  },
+  {
+    "topic": "Smelling Disorders",
+    "see": "Taste and Smell Disorders"
+  },
+  {
+    "topic": "Smoke Inhalation",
+    "see": "Inhalation Injuries"
+  },
+  {
+    "topic": "Smokeless Tobacco",
+    "see": ""
+  },
+  {
+    "topic": "Smoking",
+    "see": ""
+  },
+  {
+    "topic": "Smoking and Youth",
+    "see": ""
+  },
+  {
+    "topic": "Smoking Cessation",
+    "see": "Quitting Smoking"
+  },
+  {
+    "topic": "Smoking in Pregnancy",
+    "see": "Pregnancy and Substance Use"
+  },
+  {
+    "topic": "Smoking, Passive",
+    "see": "Secondhand Smoke"
+  },
+  {
+    "topic": "Snake Bites",
+    "see": "Animal Bites"
+  },
+  {
+    "topic": "Snoring",
+    "see": ""
+  },
+  {
+    "topic": "SNRI",
+    "see": "Antidepressants"
+  },
+  {
+    "topic": "Snuff",
+    "see": "Smokeless Tobacco"
+  },
+  {
+    "topic": "Social Anxiety Disorder",
+    "see": "Phobias"
+  },
+  {
+    "topic": "Social Phobia",
+    "see": "Phobias"
+  },
+  {
+    "topic": "Sodium",
+    "see": ""
+  },
+  {
+    "topic": "Soft Tissue Sarcoma",
+    "see": ""
+  },
+  {
+    "topic": "Sore Throat",
+    "see": ""
+  },
+  {
+    "topic": "South American Trypanosomiasis",
+    "see": "Chagas Disease"
+  },
+  {
+    "topic": "Spasmodic Torticollis",
+    "see": "Dystonia"
+  },
+  {
+    "topic": "Spasticity",
+    "see": "Neuromuscular Disorders"
+  },
+  {
+    "topic": "Specific Learning Disorder",
+    "see": "Learning Disabilities"
+  },
+  {
+    "topic": "Speech and Communication Disorders",
+    "see": ""
+  },
+  {
+    "topic": "Speech and Language Problems in Children",
+    "see": ""
+  },
+  {
+    "topic": "Sperm Donation",
+    "see": "Assisted Reproductive Technology"
+  },
+  {
+    "topic": "Spider Bites",
+    "see": ""
+  },
+  {
+    "topic": "Spider Veins",
+    "see": "Varicose Veins"
+  },
+  {
+    "topic": "Spina Bifida",
+    "see": ""
+  },
+  {
+    "topic": "Spinal Cord Diseases",
+    "see": ""
+  },
+  {
+    "topic": "Spinal Cord Injuries",
+    "see": ""
+  },
+  {
+    "topic": "Spinal Muscular Atrophy",
+    "see": ""
+  },
+  {
+    "topic": "Spinal Stenosis",
+    "see": ""
+  },
+  {
+    "topic": "Spine Injuries and Disorders",
+    "see": ""
+  },
+  {
+    "topic": "Spit Tobacco",
+    "see": "Smokeless Tobacco"
+  },
+  {
+    "topic": "Spleen Diseases",
+    "see": ""
+  },
+  {
+    "topic": "Splenic Diseaess",
+    "see": "Spleen Diseases"
+  },
+  {
+    "topic": "Splenomegaly",
+    "see": "Spleen Diseases"
+  },
+  {
+    "topic": "Splinters",
+    "see": "Foreign Bodies"
+  },
+  {
+    "topic": "Spondylitis, Ankylosing",
+    "see": "Ankylosing Spondylitis"
+  },
+  {
+    "topic": "Spondylolisthesis",
+    "see": "Spine Injuries and Disorders"
+  },
+  {
+    "topic": "Spontaneous Abortion",
+    "see": "Miscarriage"
+  },
+  {
+    "topic": "Sports Fitness",
+    "see": ""
+  },
+  {
+    "topic": "Sports Injuries",
+    "see": ""
+  },
+  {
+    "topic": "Sports Safety",
+    "see": ""
+  },
+  {
+    "topic": "Spouse Abuse",
+    "see": "Intimate Partner Violence"
+  },
+  {
+    "topic": "Sprains and Strains",
+    "see": ""
+  },
+  {
+    "topic": "Squint",
+    "see": "Eye Movement Disorders"
+  },
+  {
+    "topic": "SSRIs",
+    "see": "Antidepressants"
+  },
+  {
+    "topic": "Stammering",
+    "see": "Stuttering"
+  },
+  {
+    "topic": "Staphylococcal Infections",
+    "see": ""
+  },
+  {
+    "topic": "Statins",
+    "see": ""
+  },
+  {
+    "topic": "Statistics",
+    "see": "Health Statistics"
+  },
+  {
+    "topic": "Staying Healthy",
+    "see": "Healthy Living"
+  },
+  {
+    "topic": "STDs",
+    "see": "Sexually Transmitted Infections"
+  },
+  {
+    "topic": "Steele-Richardson-Olszewski Syndrome",
+    "see": "Progressive Supranuclear Palsy"
+  },
+  {
+    "topic": "Stein-Leventhal Syndrome",
+    "see": "Polycystic Ovary Syndrome"
+  },
+  {
+    "topic": "Stem Cell Transplantation",
+    "see": "Stem Cells"
+  },
+  {
+    "topic": "Stem Cells",
+    "see": ""
+  },
+  {
+    "topic": "Stepfamilies",
+    "see": "Family Issues"
+  },
+  {
+    "topic": "Sterility",
+    "see": "Infertility"
+  },
+  {
+    "topic": "Sterilization",
+    "see": "Tubal Ligation; Vasectomy"
+  },
+  {
+    "topic": "Steroids",
+    "see": ""
+  },
+  {
+    "topic": "Steroids, Anabolic",
+    "see": "Anabolic Steroids"
+  },
+  {
+    "topic": "Still's Disease",
+    "see": "Juvenile Arthritis"
+  },
+  {
+    "topic": "Stillbirth",
+    "see": ""
+  },
+  {
+    "topic": "STIs",
+    "see": "Sexually Transmitted Infections"
+  },
+  {
+    "topic": "Stoma",
+    "see": "Ostomy"
+  },
+  {
+    "topic": "Stomach Ache",
+    "see": "Abdominal Pain; Stomach Disorders"
+  },
+  {
+    "topic": "Stomach Cancer",
+    "see": ""
+  },
+  {
+    "topic": "Stomach Disorders",
+    "see": ""
+  },
+  {
+    "topic": "Stomach Flu",
+    "see": "Gastroenteritis"
+  },
+  {
+    "topic": "Stomach Stapling",
+    "see": "Weight Loss Surgery"
+  },
+  {
+    "topic": "Stomach Ulcer",
+    "see": "Peptic Ulcer"
+  },
+  {
+    "topic": "Stool",
+    "see": "Bowel Movement"
+  },
+  {
+    "topic": "Strabismus",
+    "see": "Eye Movement Disorders"
+  },
+  {
+    "topic": "Strep Throat",
+    "see": "Streptococcal Infections"
+  },
+  {
+    "topic": "Streptococcal Infections",
+    "see": ""
+  },
+  {
+    "topic": "Streptococcus Pneumoniae Infections",
+    "see": "Pneumococcal Infections"
+  },
+  {
+    "topic": "Stress",
+    "see": ""
+  },
+  {
+    "topic": "Stress Incontinence",
+    "see": "Urinary Incontinence"
+  },
+  {
+    "topic": "Stroke",
+    "see": ""
+  },
+  {
+    "topic": "Stroke Rehabilitation",
+    "see": ""
+  },
+  {
+    "topic": "Stuttering",
+    "see": ""
+  },
+  {
+    "topic": "Stye",
+    "see": "Eyelid Disorders"
+  },
+  {
+    "topic": "Subarachnoid Hemorrhage",
+    "see": "Hemorrhagic Stroke"
+  },
+  {
+    "topic": "Substance Abuse in Pregnancy",
+    "see": "Pregnancy and Substance Use"
+  },
+  {
+    "topic": "Substance use",
+    "see": "Alcohol Use Disorder (AUD); Drug Use and Addiction; Drugs and Young People"
+  },
+  {
+    "topic": "Sudden Cardiac Arrest",
+    "see": ""
+  },
+  {
+    "topic": "Sudden Cardiac Death",
+    "see": "Sudden Cardiac Arrest"
+  },
+  {
+    "topic": "Sudden Infant Death Syndrome",
+    "see": ""
+  },
+  {
+    "topic": "Sugar",
+    "see": "Carbohydrates"
+  },
+  {
+    "topic": "Sugar Diabetes",
+    "see": "Diabetes; Diabetes Type 2"
+  },
+  {
+    "topic": "Sugar Substitutes",
+    "see": "Carbohydrates"
+  },
+  {
+    "topic": "Suicide",
+    "see": ""
+  },
+  {
+    "topic": "Sun Exposure",
+    "see": ""
+  },
+  {
+    "topic": "Sunburn",
+    "see": "Sun Exposure"
+  },
+  {
+    "topic": "Sunscreen",
+    "see": "Sun Exposure"
+  },
+  {
+    "topic": "Sunstroke",
+    "see": "Heat Illness"
+  },
+  {
+    "topic": "Surgery",
+    "see": ""
+  },
+  {
+    "topic": "Surgery, Plastic",
+    "see": "Plastic and Cosmetic Surgery"
+  },
+  {
+    "topic": "Surrogate",
+    "see": "Assisted Reproductive Technology"
+  },
+  {
+    "topic": "Swallowing Disorders",
+    "see": ""
+  },
+  {
+    "topic": "Sweat",
+    "see": ""
+  },
+  {
+    "topic": "Sweeteners, Artificial",
+    "see": "Carbohydrates"
+  },
+  {
+    "topic": "Swelling",
+    "see": "Edema"
+  },
+  {
+    "topic": "Swimmer's Ear",
+    "see": "Ear Infections"
+  },
+  {
+    "topic": "Swine Flu",
+    "see": "H1N1 Flu (Swine Flu)"
+  },
+  {
+    "topic": "Swollen Glands",
+    "see": "Lymphatic Diseases"
+  },
+  {
+    "topic": "Syncope",
+    "see": "Fainting"
+  },
+  {
+    "topic": "Syndrome X (Cardiac)",
+    "see": "Angina"
+  },
+  {
+    "topic": "Syndrome X (Metabolic)",
+    "see": "Metabolic Syndrome"
+  },
+  {
+    "topic": "Syphilis",
+    "see": ""
+  },
+  {
+    "topic": "Syringomyelia",
+    "see": ""
+  },
+  {
+    "topic": "Systemic Lupus Erythematosus",
+    "see": "Lupus"
+  },
+  {
+    "topic": "Systemic Sclerosis",
+    "see": "Scleroderma"
+  },
+  {
+    "topic": "TAA",
+    "see": "Aortic Aneurysm"
+  },
+  {
+    "topic": "Tachycardia",
+    "see": "Arrhythmia"
+  },
+  {
+    "topic": "Tachypnea",
+    "see": "Breathing Problems"
+  },
+  {
+    "topic": "Tailbone Disorders",
+    "see": ""
+  },
+  {
+    "topic": "Talk to Your Doctor",
+    "see": "Talking With Your Doctor"
+  },
+  {
+    "topic": "Talking With Your Doctor",
+    "see": ""
+  },
+  {
+    "topic": "Tanning",
+    "see": ""
+  },
+  {
+    "topic": "Tardive Dyskinesia",
+    "see": "Movement Disorders"
+  },
+  {
+    "topic": "Taste and Smell Disorders",
+    "see": ""
+  },
+  {
+    "topic": "Tattoos",
+    "see": "Piercing and Tattoos"
+  },
+  {
+    "topic": "Tay-Sachs Disease",
+    "see": ""
+  },
+  {
+    "topic": "TB",
+    "see": "Tuberculosis"
+  },
+  {
+    "topic": "TBI",
+    "see": "Traumatic Brain Injury"
+  },
+  {
+    "topic": "Tears",
+    "see": ""
+  },
+  {
+    "topic": "Teas, Herbal",
+    "see": "Herbal Medicine"
+  },
+  {
+    "topic": "Teas, Medicinal",
+    "see": "Herbal Medicine"
+  },
+  {
+    "topic": "Teen Depression",
+    "see": ""
+  },
+  {
+    "topic": "Teen Development",
+    "see": ""
+  },
+  {
+    "topic": "Teen Drug Abuse",
+    "see": "Drugs and Young People"
+  },
+  {
+    "topic": "Teen Health",
+    "see": ""
+  },
+  {
+    "topic": "Teen Mental Health",
+    "see": ""
+  },
+  {
+    "topic": "Teen Nutrition",
+    "see": "Child Nutrition"
+  },
+  {
+    "topic": "Teen Sexual Health",
+    "see": ""
+  },
+  {
+    "topic": "Teen Smoking",
+    "see": "Smoking and Youth"
+  },
+  {
+    "topic": "Teen Violence",
+    "see": ""
+  },
+  {
+    "topic": "Teenage Drinking",
+    "see": "Underage Drinking"
+  },
+  {
+    "topic": "Teenage Pregnancy",
+    "see": ""
+  },
+  {
+    "topic": "Teens and Diabetes",
+    "see": "Diabetes in Children and Teens"
+  },
+  {
+    "topic": "Teeth",
+    "see": "Tooth Disorders"
+  },
+  {
+    "topic": "Telehealth",
+    "see": ""
+  },
+  {
+    "topic": "Temperature",
+    "see": "Vital Signs"
+  },
+  {
+    "topic": "Temporal Arteritis",
+    "see": "Giant Cell Arteritis"
+  },
+  {
+    "topic": "Temporomandibular Disorders",
+    "see": ""
+  },
+  {
+    "topic": "Temporomandibular Joint Dysfunction",
+    "see": "Temporomandibular Disorders"
+  },
+  {
+    "topic": "Tendinitis",
+    "see": ""
+  },
+  {
+    "topic": "Tennis Elbow",
+    "see": "Elbow Injuries and Disorders"
+  },
+  {
+    "topic": "Tension Headache",
+    "see": "Headache"
+  },
+  {
+    "topic": "Terminal Care",
+    "see": "End of Life Issues"
+  },
+  {
+    "topic": "Terrorist Attacks",
+    "see": "Biodefense and Bioterrorism"
+  },
+  {
+    "topic": "Testicular Cancer",
+    "see": ""
+  },
+  {
+    "topic": "Testicular Disorders",
+    "see": ""
+  },
+  {
+    "topic": "Tetanus",
+    "see": ""
+  },
+  {
+    "topic": "Tetanus, Diphtheria, and Pertussis Vaccines",
+    "see": ""
+  },
+  {
+    "topic": "Thalassemia",
+    "see": ""
+  },
+  {
+    "topic": "Thiamine",
+    "see": "B Vitamins"
+  },
+  {
+    "topic": "Thirst",
+    "see": "Dehydration"
+  },
+  {
+    "topic": "Thoracentesis",
+    "see": "Pleural Disorders"
+  },
+  {
+    "topic": "Thoracic Aortic Aneurysm",
+    "see": "Aortic Aneurysm"
+  },
+  {
+    "topic": "Thoracic Injuries",
+    "see": "Chest Injuries and Disorders"
+  },
+  {
+    "topic": "Thoracic Outlet Syndrome",
+    "see": ""
+  },
+  {
+    "topic": "Three Day Measles",
+    "see": "Rubella"
+  },
+  {
+    "topic": "Throat Cancer",
+    "see": ""
+  },
+  {
+    "topic": "Throat Disorders",
+    "see": ""
+  },
+  {
+    "topic": "Thrombocytopenia",
+    "see": "Platelet Disorders"
+  },
+  {
+    "topic": "Thrombophlebitis",
+    "see": "Blood Clots"
+  },
+  {
+    "topic": "Thrush",
+    "see": "Yeast Infections"
+  },
+  {
+    "topic": "Thumb Injuries",
+    "see": "Finger Injuries and Disorders"
+  },
+  {
+    "topic": "Thymus Cancer",
+    "see": ""
+  },
+  {
+    "topic": "Thyroid Cancer",
+    "see": ""
+  },
+  {
+    "topic": "Thyroid Diseases",
+    "see": ""
+  },
+  {
+    "topic": "Thyroid Tests",
+    "see": ""
+  },
+  {
+    "topic": "Thyrotoxicosis",
+    "see": "Hyperthyroidism"
+  },
+  {
+    "topic": "TIA",
+    "see": "Transient Ischemic Attack"
+  },
+  {
+    "topic": "Tic Douleureux",
+    "see": "Trigeminal Neuralgia"
+  },
+  {
+    "topic": "Tick Bites",
+    "see": ""
+  },
+  {
+    "topic": "Tickborne Diseases",
+    "see": "Tick Bites"
+  },
+  {
+    "topic": "Tinea Infections",
+    "see": ""
+  },
+  {
+    "topic": "Tinea Pedis",
+    "see": "Athlete's Foot"
+  },
+  {
+    "topic": "Tinnitus",
+    "see": ""
+  },
+  {
+    "topic": "Tiredness",
+    "see": "Fatigue"
+  },
+  {
+    "topic": "Tissue Donation",
+    "see": "Organ Donation"
+  },
+  {
+    "topic": "TMD",
+    "see": "Temporomandibular Disorders"
+  },
+  {
+    "topic": "TMJ",
+    "see": "Temporomandibular Disorders"
+  },
+  {
+    "topic": "Tobacco Smoking",
+    "see": "Smoking"
+  },
+  {
+    "topic": "Tobacco, Smokeless",
+    "see": "Smokeless Tobacco"
+  },
+  {
+    "topic": "Toddler Development",
+    "see": ""
+  },
+  {
+    "topic": "Toddler Health",
+    "see": ""
+  },
+  {
+    "topic": "Toddler Nutrition",
+    "see": ""
+  },
+  {
+    "topic": "Toe Injuries and Disorders",
+    "see": ""
+  },
+  {
+    "topic": "Toenails",
+    "see": "Nail Diseases"
+  },
+  {
+    "topic": "Tongue Cancer",
+    "see": "Oral Cancer"
+  },
+  {
+    "topic": "Tongue Disorders",
+    "see": ""
+  },
+  {
+    "topic": "Tonsillectomy",
+    "see": "Tonsillitis"
+  },
+  {
+    "topic": "Tonsillitis",
+    "see": ""
+  },
+  {
+    "topic": "Tonsils",
+    "see": "Tonsillitis"
+  },
+  {
+    "topic": "Tooth Decay",
+    "see": ""
+  },
+  {
+    "topic": "Tooth Disorders",
+    "see": ""
+  },
+  {
+    "topic": "Tornadoes",
+    "see": ""
+  },
+  {
+    "topic": "Torticollis",
+    "see": "Dystonia"
+  },
+  {
+    "topic": "Tourette Syndrome",
+    "see": ""
+  },
+  {
+    "topic": "Toxemia",
+    "see": "High Blood Pressure in Pregnancy"
+  },
+  {
+    "topic": "Toxic Shock Syndrome",
+    "see": "Sepsis"
+  },
+  {
+    "topic": "Toxoplasmosis",
+    "see": ""
+  },
+  {
+    "topic": "TPN",
+    "see": "Nutritional Support"
+  },
+  {
+    "topic": "Trace Elements",
+    "see": "Dietary Supplements"
+  },
+  {
+    "topic": "Tracheal Disorders",
+    "see": ""
+  },
+  {
+    "topic": "Tracheostomy",
+    "see": "Critical Care; Tracheal Disorders"
+  },
+  {
+    "topic": "Traffic Accidents",
+    "see": "Motor Vehicle Safety"
+  },
+  {
+    "topic": "Trans Fats",
+    "see": "Dietary Fats"
+  },
+  {
+    "topic": "Transfusion",
+    "see": "Blood Transfusion and Donation"
+  },
+  {
+    "topic": "Transient Ischemic Attack",
+    "see": ""
+  },
+  {
+    "topic": "Transplantation",
+    "see": "Organ Transplantation"
+  },
+  {
+    "topic": "Traumatic Brain Injury",
+    "see": ""
+  },
+  {
+    "topic": "Traveler's Health",
+    "see": ""
+  },
+  {
+    "topic": "Treacher-Collins Syndrome",
+    "see": "Craniofacial Abnormalities"
+  },
+  {
+    "topic": "Tremor",
+    "see": ""
+  },
+  {
+    "topic": "Trichomoniasis",
+    "see": ""
+  },
+  {
+    "topic": "Trigeminal Neuralgia",
+    "see": ""
+  },
+  {
+    "topic": "Triglycerides",
+    "see": ""
+  },
+  {
+    "topic": "Triplets",
+    "see": "Twins, Triplets, Multiple Births"
+  },
+  {
+    "topic": "Trisomy 21",
+    "see": "Down Syndrome"
+  },
+  {
+    "topic": "Tropical Medicine",
+    "see": "Traveler's Health"
+  },
+  {
+    "topic": "TSC",
+    "see": "Tuberous Sclerosis"
+  },
+  {
+    "topic": "Tsunamis",
+    "see": ""
+  },
+  {
+    "topic": "Tubal Ligation",
+    "see": ""
+  },
+  {
+    "topic": "Tubal Pregnancy",
+    "see": "Ectopic Pregnancy"
+  },
+  {
+    "topic": "Tuberculosis",
+    "see": ""
+  },
+  {
+    "topic": "Tuberous Sclerosis",
+    "see": ""
+  },
+  {
+    "topic": "Tularemia",
+    "see": "Tick Bites"
+  },
+  {
+    "topic": "Tumor",
+    "see": "Cancer"
+  },
+  {
+    "topic": "Tumors and Pregnancy",
+    "see": ""
+  },
+  {
+    "topic": "Tumors, Benign",
+    "see": "Benign Tumors"
+  },
+  {
+    "topic": "Turner Syndrome",
+    "see": ""
+  },
+  {
+    "topic": "Twins, Triplets, Multiple Births",
+    "see": ""
+  },
+  {
+    "topic": "Type 1 Diabetes",
+    "see": "Diabetes Type 1"
+  },
+  {
+    "topic": "Type II Diabetes",
+    "see": "Diabetes Type 2"
+  },
+  {
+    "topic": "Typhoid Fever",
+    "see": "Salmonella Infections"
+  },
+  {
+    "topic": "Ulcer, Leg",
+    "see": "Leg Injuries and Disorders"
+  },
+  {
+    "topic": "Ulcerative Colitis",
+    "see": ""
+  },
+  {
+    "topic": "Ulcers",
+    "see": "Peptic Ulcer"
+  },
+  {
+    "topic": "Ultraviolet Rays",
+    "see": "Sun Exposure"
+  },
+  {
+    "topic": "Umbilical Hernia",
+    "see": "Hernia"
+  },
+  {
+    "topic": "Uncommon Infant and Newborn Problems",
+    "see": ""
+  },
+  {
+    "topic": "Underactive Thyroid",
+    "see": "Hypothyroidism"
+  },
+  {
+    "topic": "Underage Drinking",
+    "see": ""
+  },
+  {
+    "topic": "Understanding Medical Research",
+    "see": ""
+  },
+  {
+    "topic": "Underweight",
+    "see": "Body Weight"
+  },
+  {
+    "topic": "Undescended Testicle",
+    "see": "Testicular Disorders"
+  },
+  {
+    "topic": "Universal Precautions",
+    "see": "Infection Control"
+  },
+  {
+    "topic": "Upset Stomach",
+    "see": "Indigestion"
+  },
+  {
+    "topic": "Ureteral Cancer",
+    "see": "Ureteral Disorders"
+  },
+  {
+    "topic": "Ureteral Disorders",
+    "see": ""
+  },
+  {
+    "topic": "Urethral Cancer",
+    "see": "Urethral Disorders"
+  },
+  {
+    "topic": "Urethral Disorders",
+    "see": ""
+  },
+  {
+    "topic": "Urinalysis",
+    "see": ""
+  },
+  {
+    "topic": "Urinary Bladder Cancer",
+    "see": "Bladder Cancer"
+  },
+  {
+    "topic": "Urinary Incontinence",
+    "see": ""
+  },
+  {
+    "topic": "Urinary Tract Infections",
+    "see": ""
+  },
+  {
+    "topic": "Urination",
+    "see": "Urine and Urination"
+  },
+  {
+    "topic": "Urine and Urination",
+    "see": ""
+  },
+  {
+    "topic": "Urine Tests",
+    "see": "Urinalysis"
+  },
+  {
+    "topic": "Urostomy",
+    "see": "Ostomy"
+  },
+  {
+    "topic": "Urticaria",
+    "see": "Hives"
+  },
+  {
+    "topic": "Usher Syndrome",
+    "see": ""
+  },
+  {
+    "topic": "Uterine bleeding",
+    "see": "Vaginal Bleeding"
+  },
+  {
+    "topic": "Uterine Cancer",
+    "see": ""
+  },
+  {
+    "topic": "Uterine Cervix Disorders",
+    "see": "Cervix Disorders"
+  },
+  {
+    "topic": "Uterine Diseases",
+    "see": ""
+  },
+  {
+    "topic": "Uterine Fibroids",
+    "see": ""
+  },
+  {
+    "topic": "Uterine Leiomyomata",
+    "see": "Uterine Fibroids"
+  },
+  {
+    "topic": "Uterine Prolapse",
+    "see": "Pelvic Floor Disorders"
+  },
+  {
+    "topic": "UTI",
+    "see": "Urinary Tract Infections"
+  },
+  {
+    "topic": "Vaccination",
+    "see": "Childhood Vaccines"
+  },
+  {
+    "topic": "Vaccine Safety",
+    "see": ""
+  },
+  {
+    "topic": "Vaccines",
+    "see": ""
+  },
+  {
+    "topic": "Vaginal Bleeding",
+    "see": ""
+  },
+  {
+    "topic": "Vaginal Cancer",
+    "see": ""
+  },
+  {
+    "topic": "Vaginal Diseases",
+    "see": ""
+  },
+  {
+    "topic": "Vaginal Infections",
+    "see": "Vaginal Diseases"
+  },
+  {
+    "topic": "Vaginal Yeast Infection",
+    "see": "Vaginitis; Yeast Infections"
+  },
+  {
+    "topic": "Vaginismus",
+    "see": "Sexual Problems in Women"
+  },
+  {
+    "topic": "Vaginitis",
+    "see": ""
+  },
+  {
+    "topic": "Valley Fever",
+    "see": ""
+  },
+  {
+    "topic": "Valvular Heart Diseases",
+    "see": "Heart Valve Diseases"
+  },
+  {
+    "topic": "Vancomycin-Resistant Enterococci",
+    "see": "Antibiotic Resistance"
+  },
+  {
+    "topic": "Vancomycin-Resistant Staphylococcus aureus",
+    "see": "Antibiotic Resistance; Staphylococcal Infections"
+  },
+  {
+    "topic": "Vaping",
+    "see": "E-Cigarettes"
+  },
+  {
+    "topic": "Varicella-Zoster Virus",
+    "see": "Chickenpox"
+  },
+  {
+    "topic": "Varicose Veins",
+    "see": ""
+  },
+  {
+    "topic": "Vascular Diseases",
+    "see": ""
+  },
+  {
+    "topic": "Vascular Headache",
+    "see": "Headache; Migraine"
+  },
+  {
+    "topic": "Vasculitis",
+    "see": ""
+  },
+  {
+    "topic": "Vasectomy",
+    "see": ""
+  },
+  {
+    "topic": "Vasovagal Syncope",
+    "see": "Fainting"
+  },
+  {
+    "topic": "vCJD",
+    "see": "Creutzfeldt-Jakob Disease"
+  },
+  {
+    "topic": "Vegan Diet",
+    "see": "Vegetarian Diet"
+  },
+  {
+    "topic": "Vegans",
+    "see": "Vegetarian Diet"
+  },
+  {
+    "topic": "Vegetarian Diet",
+    "see": ""
+  },
+  {
+    "topic": "Vehicle Safety",
+    "see": "Motor Vehicle Safety"
+  },
+  {
+    "topic": "Veins",
+    "see": "Varicose Veins; Vascular Diseases"
+  },
+  {
+    "topic": "Venereal Disease",
+    "see": "Sexually Transmitted Infections"
+  },
+  {
+    "topic": "Venereal Warts",
+    "see": "Genital Warts"
+  },
+  {
+    "topic": "Venous Thrombosis",
+    "see": "Blood Clots; Deep Vein Thrombosis"
+  },
+  {
+    "topic": "Ventilators",
+    "see": "Critical Care"
+  },
+  {
+    "topic": "Verruca",
+    "see": "Warts"
+  },
+  {
+    "topic": "Vertigo",
+    "see": "Dizziness and Vertigo"
+  },
+  {
+    "topic": "Vestibular Diseases",
+    "see": "Dizziness and Vertigo; Meniere's Disease"
+  },
+  {
+    "topic": "Vestibular Schwannoma",
+    "see": "Acoustic Neuroma"
+  },
+  {
+    "topic": "Veterans and Military Family Health",
+    "see": ""
+  },
+  {
+    "topic": "Veterans and Military Health",
+    "see": ""
+  },
+  {
+    "topic": "Veterans Health",
+    "see": "Veterans and Military Health"
+  },
+  {
+    "topic": "Veterinary Medicine",
+    "see": "Pet Health"
+  },
+  {
+    "topic": "VHL",
+    "see": "Von Hippel-Lindau Disease"
+  },
+  {
+    "topic": "Violence",
+    "see": "Child Abuse; Elder Abuse; Intimate Partner Violence; Teen Violence"
+  },
+  {
+    "topic": "Viral Hepatitis",
+    "see": "Hepatitis"
+  },
+  {
+    "topic": "Viral Infections",
+    "see": ""
+  },
+  {
+    "topic": "Vision Impairment and Blindness",
+    "see": ""
+  },
+  {
+    "topic": "Vital Signs",
+    "see": ""
+  },
+  {
+    "topic": "Vitamin A",
+    "see": ""
+  },
+  {
+    "topic": "Vitamin B",
+    "see": "B Vitamins"
+  },
+  {
+    "topic": "Vitamin C",
+    "see": ""
+  },
+  {
+    "topic": "Vitamin D",
+    "see": ""
+  },
+  {
+    "topic": "Vitamin D Deficiency",
+    "see": ""
+  },
+  {
+    "topic": "Vitamin E",
+    "see": ""
+  },
+  {
+    "topic": "Vitamin K",
+    "see": ""
+  },
+  {
+    "topic": "Vitamins",
+    "see": ""
+  },
+  {
+    "topic": "Vitiligo",
+    "see": ""
+  },
+  {
+    "topic": "VLDL Cholesterol",
+    "see": ""
+  },
+  {
+    "topic": "Vocal Cord Problems",
+    "see": "Voice Disorders"
+  },
+  {
+    "topic": "Voice Disorders",
+    "see": ""
+  },
+  {
+    "topic": "Voicebox Disorders",
+    "see": "Throat Disorders; Voice Disorders"
+  },
+  {
+    "topic": "Volcanoes",
+    "see": ""
+  },
+  {
+    "topic": "Vomiting",
+    "see": "Nausea and Vomiting"
+  },
+  {
+    "topic": "Von Hippel-Lindau Disease",
+    "see": ""
+  },
+  {
+    "topic": "von Recklinghausen's Disease",
+    "see": "Neurofibromatosis"
+  },
+  {
+    "topic": "von Willebrand's Disease",
+    "see": "Platelet Disorders"
+  },
+  {
+    "topic": "VRE",
+    "see": "Antibiotic Resistance"
+  },
+  {
+    "topic": "Vulvar Cancer",
+    "see": ""
+  },
+  {
+    "topic": "Vulvar Disorders",
+    "see": ""
+  },
+  {
+    "topic": "Vulvodynia",
+    "see": "Vulvar Disorders"
+  },
+  {
+    "topic": "Waldenstrom's Macroglobulinemia",
+    "see": "Lymphoma"
+  },
+  {
+    "topic": "Walkers",
+    "see": "Mobility Aids"
+  },
+  {
+    "topic": "Walking Pneumonia",
+    "see": "Pneumonia"
+  },
+  {
+    "topic": "Walking Problems",
+    "see": ""
+  },
+  {
+    "topic": "Walleye",
+    "see": "Eye Movement Disorders"
+  },
+  {
+    "topic": "Warts",
+    "see": ""
+  },
+  {
+    "topic": "Water",
+    "see": "Drinking Water"
+  },
+  {
+    "topic": "Water Pollution",
+    "see": ""
+  },
+  {
+    "topic": "Water Safety (Recreational)",
+    "see": ""
+  },
+  {
+    "topic": "Waterborne Diseases",
+    "see": "Water Pollution"
+  },
+  {
+    "topic": "Weariness",
+    "see": "Fatigue"
+  },
+  {
+    "topic": "Wegener's Granulomatosis",
+    "see": "Granulomatosis with Polyangiitis"
+  },
+  {
+    "topic": "Weight Control",
+    "see": ""
+  },
+  {
+    "topic": "Weight Loss Surgery",
+    "see": ""
+  },
+  {
+    "topic": "Weight Training",
+    "see": "Exercise and Physical Fitness; Sports Fitness"
+  },
+  {
+    "topic": "Weight-Loss Diet",
+    "see": "Diets"
+  },
+  {
+    "topic": "West Nile Virus",
+    "see": ""
+  },
+  {
+    "topic": "Wheat Allergy",
+    "see": "Food Allergy"
+  },
+  {
+    "topic": "Wheelchairs",
+    "see": "Mobility Aids"
+  },
+  {
+    "topic": "Whiplash",
+    "see": "Neck Injuries and Disorders"
+  },
+  {
+    "topic": "Whooping Cough",
+    "see": ""
+  },
+  {
+    "topic": "Wildfires",
+    "see": ""
+  },
+  {
+    "topic": "Wilms Tumor",
+    "see": ""
+  },
+  {
+    "topic": "Wilson Disease",
+    "see": ""
+  },
+  {
+    "topic": "Windpipe Disorders",
+    "see": "Tracheal Disorders"
+  },
+  {
+    "topic": "Winter Weather Emergencies",
+    "see": ""
+  },
+  {
+    "topic": "WNV",
+    "see": "West Nile Virus"
+  },
+  {
+    "topic": "Women's Health",
+    "see": ""
+  },
+  {
+    "topic": "Women's Health Checkup",
+    "see": ""
+  },
+  {
+    "topic": "Wounds and Injuries",
+    "see": ""
+  },
+  {
+    "topic": "Wrinkles",
+    "see": "Skin Aging"
+  },
+  {
+    "topic": "Wrist Injuries and Disorders",
+    "see": ""
+  },
+  {
+    "topic": "X-Rays",
+    "see": ""
+  },
+  {
+    "topic": "Xerostomia",
+    "see": "Dry Mouth"
+  },
+  {
+    "topic": "Yeast Infections",
+    "see": ""
+  },
+  {
+    "topic": "Yellow Fever",
+    "see": "Hemorrhagic Fevers"
+  },
+  {
+    "topic": "Yersinia Enterocolitica",
+    "see": "Foodborne Illness"
+  },
+  {
+    "topic": "Youth Violence",
+    "see": "Teen Violence"
+  },
+  {
+    "topic": "Zika Virus",
+    "see": ""
+  },
+  {
+    "topic": "Zinc",
+    "see": "Minerals"
+  },
+  {
+    "topic": "Zits",
+    "see": "Acne"
+  },
+  {
+    "topic": "Zoonoses",
+    "see": "Animal Diseases and Your Health"
+  }
+]
