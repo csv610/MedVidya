@@ -1,4 +1,5 @@
 import subprocess
+import datetime
 
 class MedicalArticleSearch:
     def __init__(self):
@@ -85,7 +86,7 @@ class MedicalArticleSearch:
             'authors': ", ".join(article.get('authors', [])),
             'journal': article.get('journal', 'N/A'),
             'date': article.get('date', 'N/A'),
-            'year': article.get('date', 'N/A').split('-')[0] if '-' in date else date.split(' ')[0] if ' ' in date else date,
+            'year': article.get('date', 'N/A').split('-')[0] if '-' in article.get('date', 'N/A') else article.get('date', 'N/A').split(' ')[0] if ' ' in article.get('date', 'N/A') else article.get('date', 'N/A'),
             'pmid': article.get('pmid', 'N/A')
         }
 
