@@ -477,7 +477,7 @@ def display_main_content_area(selected_model_name, selected_clinical_procedure, 
         st.session_state['previous_procedure'] = selected_clinical_procedure
 
     if selected_clinical_procedure:
-        st.write(f"# Clinical Procedure: {selected_clinical_procedure}")
+        st.write(f"# {selected_clinical_procedure}")
     else:
         st.info("Please select a clinical procedure from the sidebar to get information or ask questions.")
         return
@@ -504,7 +504,6 @@ def display_main_content_area(selected_model_name, selected_clinical_procedure, 
             with st.spinner(f"Searching for videos related to '{selected_clinical_procedure}'..."):
                 video_results = search_clinical_videos(selected_clinical_procedure, video_count)
                 if video_results:
-                    # Store video results in session state
                     st.session_state['video_results'] = video_results
                     st.session_state['videos_displayed'] = True
 
