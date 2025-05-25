@@ -184,7 +184,7 @@ Please provide comprehensive and structured information about the following medi
 
 Present the information under the following main headings. If specific information is not available or applicable, state "Information not available" or "Not applicable" under that subheading rather than omitting the heading entirely.
 
-## 1. Medicine Overview
+## 1. Overview
 
 * **Generic Name(s) in India:** [List generic names]
 * **Common Brand Name(s) in India:** [List common brand names in India] 
@@ -413,7 +413,7 @@ def get_medicine_info(model_name, medicine):
 def display_main_content_area(selected_model_name, selected_medicine, show_history, all_medicines_names_present):
     """Handles the display and interactions in the main application area."""
     if selected_medicine:
-        st.write(f"# Medicine : {selected_medicine}")
+        st.write(f"# {selected_medicine}")
     else:
         st.info("Please select a medicine from the sidebar to get information or ask questions.")
         return
