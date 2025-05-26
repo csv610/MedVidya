@@ -184,49 +184,99 @@ Please provide comprehensive and structured information about the following medi
 
 Present the information under the following main headings. If specific information is not available or applicable, state "Information not available" or "Not applicable" under that subheading rather than omitting the heading entirely.
 
-## 1. Overview
+## Overview
+Give detail information about the medicine.
 
-* **Generic Name(s) in India:** [List generic names]
-* **Common Brand Name(s) in India:** [List common brand names in India] 
-* **Physical Form:** In which physical forms(s) this medicine is available in India
-* **Stability and Reactivity:** What is the expiration duration of this medicine.
-* **Active Ingredient(s):** [List active ingredients along with composition]
-* **Primary Uses & Indications:** [Explain why this medicine is prescribed and its main therapeutic uses, including any other significant uses.]
-* **Brief History & Key Milestones:** [Provide a concise historical context, including its discovery, company name, development, first approval (globally and/or in key markets like India if notable), and initial market entry. If specific dates or significant events are known, include them. Otherwise, state 'Information not available'.]
+## Brief History 
+Provide a concise historical context, including its discovery, company name, development, and first approval 
 
-## 2. Usage & Dosage
+## Is Rx required?
+Is the prescription only medicine.
 
-* **How and When to Take/Use:** [Detailed instructions on administration (e.g., with/without food, time of day, route of administration).]
-* **Recommended Dosage:** [Typical dosage for common indications. Specify if dosage varies by age, weight, or condition.]
-* **Frequency:** [How often should this medicine be taken?]
-* **Duration of Use:** [For how long is this medicine typically required or recommended?]
-* **Storage at Home:** [Instructions on how to properly store the medicine (temperature, light, moisture, etc.).]
-* **What to Do for a Missed Dose:** [Clear instructions for handling a forgotten dose.]
-* **What to Do in Case of Overdose:** [Guidance on immediate actions for an overdose situation.]
+## How does it works?
+Give a concise description on how does the medicine works?
 
-## 3. Important Precautions & Warnings
+## Classification
+Give the classification of the medicine.
 
-* **Who Should NOT Take This Medicine (Contraindications):** [List specific conditions, allergies, or groups of people who should absolutely avoid this medicine.]
-* **Special Precautions to Follow:** [Any particular warnings or considerations (e.g., for pregnant/breastfeeding individuals, elderly, individuals with specific health conditions, driving, etc.).]
-* **How to Know if it's Working:** [Signs or indicators that the medicine is having its intended effect.]
-* **Implications of Skipping Doses/Not Completing Course:** [What might happen if the medicine isn't taken as prescribed.]
+## Generic Names
+Give the list of generic names of the medicine in India
 
-## 4. Potential Side Effects
+## Brand Names
+Give the list of brand names of the medicine in India
 
-* **Common Side Effects:** [List frequently occurring, generally mild side effects.]
-* **Serious Side Effects (When to Seek Medical Attention):** [List severe or urgent side effects that require immediate medical consultation.]
+## Physical Form and strenghts
+In which physical forms(s) and strengths the medicine is available in India
 
-## 5. Interactions
+## Life span
+What are the life of the unopened and opened medicine. 
 
-* **Drug-Drug Interactions:** [How this medicine interacts with other prescription drugs and over-the-counter (OTC) medicines. List specific OTC medicines to avoid if applicable.]
-* **Food and Drink Interactions:** [Any specific foods or beverages to avoid while taking this medicine.]
-* **Other Interactions:** [e.g., with alcohol, certain medical conditions, lab tests.]
+## Active Ingredient(s)
+Give the list of active ingradients along with percentage composition
 
-## 6. Market Information
+## Indications
+Explain why this medicine is prescribed and its main therapeutic uses, including any other significant uses.
 
-* **Major Manufacturers in India:** [List key pharmaceutical companies that manufacture this drug in India.]
-* **Similar Drugs/Alternatives in India:** [List chemically similar drugs or common therapeutic alternatives available in India.]
-* **Current Market Status:** [Provide a very brief general status, e.g., widely available, prescription-only, etc. Avoid speculative market analysis.]
+## Contradictions
+Who should not be given this medicine?
+
+## How and When to Take/Use
+Detailed instructions on administration (e.g., with/without food, time of day, route of administration).
+
+## Recommended Dosage
+Typical dosage for common indications. Specify if dosage varies by age, weight, or condition.
+
+## Duration of Use
+For how long is this medicine typically required or recommended?
+
+## Storage at Home
+Instructions on how to properly store the medicine (temperature, light, moisture, etc.).
+
+## Missed Dose 
+Clear instructions for handling a forgotten dose.
+
+## Overdose
+Guidance on immediate actions for an overdose situation.
+
+## Special Precautions to Follow
+Any particular warnings or considerations (e.g., for pregnant/breastfeeding individuals, elderly, individuals with specific health conditions, driving, etc.).
+
+## How to Know if it's Working for me?
+Signs or indicators that the medicine is having its intended effect.
+
+## Implications of Skipping Doses/Not Completing Course
+What might happen if the medicine isn't taken as prescribed.
+
+## Common Side Effects
+List frequently occurring, generally mild side effects.
+
+## Serious Side Effects 
+List severe or urgent side effects that require immediate medical consultation.
+
+## Drug Interactions
+How this medicine interacts with other prescription drugs and over-the-counter (OTC) medicines. List specific OTC medicines to avoid if applicable.
+
+## Food and Drink Interactions
+Any specific foods or beverages to avoid while taking this medicine.
+
+## Other Interactions
+ How does this drug interacts with with alcohol, certain medical conditions, lab tests.
+
+## Similar Drugs
+List chemically similar drugs or common therapeutic alternatives available in India.
+
+## Alternatives
+List all the alternatives to this medicine.
+
+## Major Manufacturers
+List key pharmaceutical companies that manufacture this drug in India.
+
+## Current Status
+Check if the medicine or its ingradients have been banned anywhere in the world.
+
+## Evidence of Effectiveness
+Present evidence of the effectiveness of this medicine in the treatment. It may include
+research papers from medical literature or articles from medical hospitals/companies.
 
 ---
 
